@@ -1,0 +1,562 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-12T08:16:00+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 20,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 2
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 100,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "📈 Reytinqdə 11 pillə yüksəlib (#26 → #15)",
+        "💎 Erkən trend: cəmi 116 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 116,
+        "rank_jump": 11,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Bluetooth 5.4 Headphones HIFI Stereo/Crystal clear White | Noise Cancelling Mic Ear buds with 50H Playback,",
+      "url": "https://www.amazon.com/dp/B0HMHV3ZX5",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 55 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.99 → tövsiyə satış: ~$47.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61PPiCaslSL._AC_UL900_SR900,600_.jpg",
+      "price": 18.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMHV3ZX5",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 55,
+        "suggested_dtc_price": 47.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Blink Outdoor 4 with Free Wired Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K hardwired doorbell. Sync",
+      "url": "https://www.amazon.com/dp/B0H1H8PCRK",
+      "score": 90,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 25 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41DoDabzpvL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H1H8PCRK",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 25,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0H8NFRF3S",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "📈 Reytinqdə 11 pillə yüksəlib (#25 → #14)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.97 → tövsiyə satış: ~$49.92)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rw2e+AtUL._AC_UL900_SR900,600_.jpg",
+      "price": 19.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8NFRF3S",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 675,
+        "rank_jump": 11,
+        "suggested_dtc_price": 49.92,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "8-in-1 Power Strip, Round USB & Type-C Fast Charging Station for Phones | 8-in-1 design with built-in charging ports eliminat",
+      "url": "https://www.amazon.com/dp/B0H989CW82",
+      "score": 71,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "📈 Reytinqdə 8 pillə yüksəlib (#21 → #13)",
+        "💎 Erkən trend: cəmi 28 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616pcTTlM9L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H989CW82",
+        "rank": 13,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 28,
+        "rank_jump": 8,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Fhumsh Wireless Earbuds, Bluetooth 6.0 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Cancel",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#4)",
+        "🌱 Yeni yüksələn məhsul (394 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ep1QDS51L._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 4,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 394,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Heads",
+      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "🌱 Yeni yüksələn məhsul (167 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.98 → tövsiyə satış: ~$59.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cmAChhQKL._AC_UL900_SR900,600_.jpg",
+      "price": 23.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1MJ6LW",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 167,
+        "rank_jump": 1,
+        "suggested_dtc_price": 59.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hybrid Active Noise Cancelling Bluetooth Headphones Wireless Headphones | Over Ear, 120H Playtime, Hi-Res Audio, Deep Bass, M",
+      "url": "https://www.amazon.com/dp/B0HFM63KVW",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $30.98 → tövsiyə satış: ~$77.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/610B9+2JRvL._AC_UL900_SR900,600_.jpg",
+      "price": 30.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFM63KVW",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 831,
+        "suggested_dtc_price": 77.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "TRAUSI Wireless Earbuds Bluetooth Headphones, 54H Playtime Stereo Over Ear Buds with ENC Noise Cancelling, LED Power Display,",
+      "url": "https://www.amazon.com/dp/B0HHS6TH1Q",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "💎 Erkən trend: cəmi 71 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $31.99 → tövsiyə satış: ~$79.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714q0+lMZuL._AC_UL900_SR900,600_.jpg",
+      "price": 31.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHS6TH1Q",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 71,
+        "suggested_dtc_price": 79.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-12T08:15:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Crew Neck 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fashionnova.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Crew-Neck-3-Pack.jpg?v=1793590086",
+      "price": 55.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Crew",
+        "category": "fashion",
+        "cross_store_matches": [
+          "fashionnova.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "Olcorife Flat Plug Power Strip with 10 FT Extension Cord, 8 Outlets 4 USB Ports(1 USB C), 3 Sided Outlet Extender for Home Of",
+      "url": "https://www.amazon.com/dp/B0DPKKMPBD",
+      "score": 63,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-10 (#10)",
+        "📈 Reytinqdə 4 pillə yüksəlib (#14 → #10)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/611GtBfvlGL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DPKKMPBD",
+        "rank": 10,
+        "list_type": "bestsellers",
+        "rating": 4.8,
+        "reviews": 2391,
+        "rank_jump": 4,
+        "suggested_dtc_price": 31.99,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:48+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "SUPERDANNY Extension Cord,Flat Plug Surge Protector Power Strip,10Ft | 8 AC & 4 USB Ports (2 USB C),Surge Protector with 1050",
+      "url": "https://www.amazon.com/dp/B0DZ254SSR",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.99 → tövsiyə satış: ~$33.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL900_SR900,600_.jpg",
+      "price": 11.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DZ254SSR",
+        "rank": 23,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 9063,
+        "suggested_dtc_price": 33.99,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:48+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Core USB-C to 4K HDMI Adapter",
+      "url": "https://satechi.net/products/core-usb-c-to-4k-hdmi-adapter",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: masterdynamic.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/CoreUSB-Cto4KHDMIAdapterindigo2.webp?v=1794187710",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Satechi",
+        "product_type": "Adapters ## Cables",
+        "category": "electronics",
+        "cross_store_matches": [
+          "masterdynamic.com"
+        ]
+      },
+      "detected_at": "2026-11-12T08:15:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Form Desk Mat",
+      "url": "https://satechi.net/products/form-desk-mat",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FormDeskMatindigo6.webp?v=1794182529",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Satechi",
+        "product_type": "Accessories",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-12T08:15:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 Pro UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/toughest-iphone-17-pro-armorite-corning-glass-screen-protectors-2-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-Pro-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240680017.jpg?v=1783010715",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-12T08:15:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/strongest-iphone-17-ultrafit-corning-glass-screen-protectors-2-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240679212.jpg?v=1783010645",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-12T08:15:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Active Noise Cancelling Ear Buds Wireless Bluetooth Headphones 80H Playtime Display Charging Case 50dB ANC Over Ear Hooks Ear",
+      "url": "https://www.amazon.com/dp/B0H68WX368",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "💎 Erkən trend: cəmi 74 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $44.98 → tövsiyə satış: ~$112.45)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71JunErTWgL._AC_UL900_SR900,600_.jpg",
+      "price": 44.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H68WX368",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 74,
+        "suggested_dtc_price": 112.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T08:15:52+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

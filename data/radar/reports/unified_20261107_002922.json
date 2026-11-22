@@ -1,0 +1,656 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-06T20:29:22+00:00",
+  "stats": {
+    "cross_matches_count": 2,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 20,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 17,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 1
+  },
+  "cross_matches": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "score": 110,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm marinelayer.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $14.85 ⇄ Shopify $78.00 (Fərq: +$63.15)",
+        "⭐ Amazon Reytinqi: 4.6/5.0 (111 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)"
+      ],
+      "price": 78.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+      "shopify": {
+        "origin": "marinelayer.com",
+        "title": "Lexi Pointelle Long Sleeve Henley",
+        "price": 78.0,
+        "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+        "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Thermal Underwear Set for Women Fleece Lined Winter Clothes Long Johns | Long Sleeve Top & Leggings Base Layer for Cold Weath",
+        "price": 14.85,
+        "url": "https://www.amazon.com/dp/B0H4FM36BK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Elr-eeqqL._AC_UL900_SR900,600_.jpg",
+        "score": 70,
+        "rank": 22,
+        "reviews": 111,
+        "rating": 4.6
+      },
+      "detected_at": "2026-11-06T20:29:22+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "score": 110,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm marinelayer.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $14.85 ⇄ Shopify $78.00 (Fərq: +$63.15)",
+        "⭐ Amazon Reytinqi: 4.6/5.0 (111 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)"
+      ],
+      "price": 78.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+      "shopify": {
+        "origin": "marinelayer.com",
+        "title": "Lexi Pointelle Long Sleeve Henley",
+        "price": 78.0,
+        "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+        "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Thermal Underwear Set for Women Fleece Lined Winter Clothes Long Johns | Long Sleeve Top & Leggings Base Layer for Cold Weath",
+        "price": 14.85,
+        "url": "https://www.amazon.com/dp/B0H4FM36BK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Elr-eeqqL._AC_UL900_SR900,600_.jpg",
+        "score": 70,
+        "rank": 22,
+        "reviews": 111,
+        "rating": 4.6
+      },
+      "detected_at": "2026-11-06T20:29:22+00:00"
+    }
+  ],
+  "signals": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "score": 110,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm marinelayer.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $14.85 ⇄ Shopify $78.00 (Fərq: +$63.15)",
+        "⭐ Amazon Reytinqi: 4.6/5.0 (111 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)"
+      ],
+      "price": 78.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+      "shopify": {
+        "origin": "marinelayer.com",
+        "title": "Lexi Pointelle Long Sleeve Henley",
+        "price": 78.0,
+        "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+        "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Thermal Underwear Set for Women Fleece Lined Winter Clothes Long Johns | Long Sleeve Top & Leggings Base Layer for Cold Weath",
+        "price": 14.85,
+        "url": "https://www.amazon.com/dp/B0H4FM36BK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Elr-eeqqL._AC_UL900_SR900,600_.jpg",
+        "score": 70,
+        "rank": 22,
+        "reviews": 111,
+        "rating": 4.6
+      },
+      "detected_at": "2026-11-06T20:29:22+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "score": 110,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm marinelayer.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $14.85 ⇄ Shopify $78.00 (Fərq: +$63.15)",
+        "⭐ Amazon Reytinqi: 4.6/5.0 (111 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)"
+      ],
+      "price": 78.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+      "shopify": {
+        "origin": "marinelayer.com",
+        "title": "Lexi Pointelle Long Sleeve Henley",
+        "price": 78.0,
+        "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+        "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Thermal Underwear Set for Women Fleece Lined Winter Clothes Long Johns | Long Sleeve Top & Leggings Base Layer for Cold Weath",
+        "price": 14.85,
+        "url": "https://www.amazon.com/dp/B0H4FM36BK",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Elr-eeqqL._AC_UL900_SR900,600_.jpg",
+        "score": 70,
+        "rank": 22,
+        "reviews": 111,
+        "rating": 4.6
+      },
+      "detected_at": "2026-11-06T20:29:22+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "ForeverShaper Shapewear Tummy Control Shorts for Women Seamless Body Shaper | High Waist Stomach Compression Shapewear Shorts",
+      "url": "https://www.amazon.com/dp/B0HCNSFTCT",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#4)",
+        "💎 Erkən trend: cəmi 100 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412HntaJNJL._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCNSFTCT",
+        "rank": 4,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 100,
+        "suggested_dtc_price": 37.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Mock Neck Sweatshirt Oversized Casual Fall Clothes 2026 | Fleece lined, comfort sweater, slight stretch m",
+      "url": "https://www.amazon.com/dp/B0H8Y4V3YH",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#2)",
+        "💎 Erkən trend: cəmi 72 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.99 → tövsiyə satış: ~$72.47)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+B2ymkccL._AC_UL900_SR900,600_.jpg",
+      "price": 28.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8Y4V3YH",
+        "rank": 2,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 72,
+        "suggested_dtc_price": 72.47,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer 3/4 Sleeve Tops Women V Neck T Shirts Dressy Casual Blouses | Basic tees with decorative button cuffs, soft lightweig",
+      "url": "https://www.amazon.com/dp/B0HCNQ5ZWV",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🌱 Yeni yüksələn məhsul (360 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.49 → tövsiyə satış: ~$31.49)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714z66-59YL._AC_UL900_SR900,600_.jpg",
+      "price": 9.49,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCNQ5ZWV",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 360,
+        "suggested_dtc_price": 31.49,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer Womens 3/4 Length Sleeve Tops Boho Blouses Casual Pleated Shirts | Boho print, gathered front pleated detail, 3/4 len",
+      "url": "https://www.amazon.com/dp/B0H758L1YP",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "🌱 Yeni yüksələn məhsul (369 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Jw-6nhT1L._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H758L1YP",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 369,
+        "suggested_dtc_price": 31.99,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "WIHOLL Womens Fall Sweaters Contrast Raglan Sleeve Tops Fashion Clothing | Soft Knitted,Lightweight Pullover Sweater,Cozy Lon",
+      "url": "https://www.amazon.com/dp/B0H4576M3J",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💎 Erkən trend: cəmi 101 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.69 → tövsiyə satış: ~$74.23)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Jsh9VdSfL._AC_UL900_SR900,600_.jpg",
+      "price": 29.69,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4576M3J",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 101,
+        "suggested_dtc_price": 74.23,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 6-Pack",
+      "url": "https://trueclassictees.com/products/black-briefs-6-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 67% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACK6PACK.png?v=1776890150",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 67,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-short-sleeve-polo-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($79.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/pack10.jpg?v=1793229531",
+      "price": 79.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "thursdayboots.com",
+      "title": "[W] Forever Flannel Shirt | Red & Black",
+      "url": "https://thursdayboots.com/products/w-mens-forever-flannel-shirt-red-black",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Mens-Shirts-ForeverFlannel-RedBlack-101223-Front.jpg?v=1697673869",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 31,
+        "vendor": "Thursday - Men's Shirts (WH)",
+        "product_type": "Shirts",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Wireless Car Charger with 36W Adapter - Black",
+      "url": "https://esrgear.com/products/esr-halolock-magnetic-wireless-car-charger-36w-adapter",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Wireless-Car-Charger-with-36W-Adapter-Black-ESR-247970627.jpg?v=1793379139",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 34,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-06T17:28:33+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-06T16:21:48+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Onyagin Family Christmas Pajamas Matching Sets Xmas Pjs | Matching Christmas Pajamas for Family Cute Holiday Plaid Sleepwear",
+      "url": "https://www.amazon.com/dp/B0HFHLJZMJ",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "💎 Erkən trend: cəmi 46 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81lngc5gOZL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFHLJZMJ",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 46,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Facogoo Satin Wide Leg Dress Pants Silk Flowy Long Trousers for Women | Elastic Waist, Pull On, Dressy Outfits, Going Out, Fa",
+      "url": "https://www.amazon.com/dp/B0HFLY2J26",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "💎 Erkən trend: cəmi 82 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eN4dDsJgL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFLY2J26",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 82,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Shadowstorms (Comfort Short)",
+      "url": "https://chubbiesshorts.com/products/the-shadowstorms-comfort-short",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Shadowstorms_20_28Comfort_20Short_29_086261-00_OF.webp?v=1769617788",
+      "price": 49.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "ProKloud Minimizer Bras for Women Full Coverage Supportive Push Up Bra | High Support Bras for Large Breast Women, No Foam Un",
+      "url": "https://www.amazon.com/dp/B0H3JPLHYL",
+      "score": 60,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "🌱 Yeni yüksələn məhsul (296 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81kAdZmbHGL._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3JPLHYL",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 296,
+        "suggested_dtc_price": 37.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer 3/4 Length Sleeve Women Tops Dressy Casual T-Shirts Fall Shirt 2026 | Scoop Neck Shirt, Henley Neck T-Shirt, Loose Fi",
+      "url": "https://www.amazon.com/dp/B0H86X5XMS",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "🌱 Yeni yüksələn məhsul (442 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Yng9RnyLL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H86X5XMS",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 442,
+        "suggested_dtc_price": 31.99,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer 3/4 Length Sleeve Womens Tops V Neck Blouses Pleated Casual Shirts | Business Work Outfits, Soft Lightweight Fabric,",
+      "url": "https://www.amazon.com/dp/B0H8NS1R78",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "🌱 Yeni yüksələn məhsul (404 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.97 → tövsiyə satış: ~$31.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/816t61HRqpL._AC_UL900_SR900,600_.jpg",
+      "price": 9.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8NS1R78",
+        "rank": 13,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 404,
+        "suggested_dtc_price": 31.97,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "WIHOLL Womens Sweaters Mock Neck Long Sleeve Tops Fall Outfits Fashion 2026 | Business Casual, Women's Clothing, Work Shirts,",
+      "url": "https://www.amazon.com/dp/B0H1M67X71",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "💎 Erkən trend: cəmi 92 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81XblHHDufL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H1M67X71",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 92,
+        "suggested_dtc_price": 49.97,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer Womens Cable Knit V Neck Sweater Long Sleeve Fall Tops Clothes 2026 | Lightweight Basic Pullover Tops, Business Work",
+      "url": "https://www.amazon.com/dp/B0H864G998",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "🌱 Yeni yüksələn məhsul (292 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $27.54 → tövsiyə satış: ~$68.85)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81LehH0PRqL._AC_UL900_SR900,600_.jpg",
+      "price": 27.54,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H864G998",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 292,
+        "suggested_dtc_price": 68.85,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-06T20:29:09+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

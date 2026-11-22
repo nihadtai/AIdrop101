@@ -1,0 +1,518 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-05T15:32:35+00:00",
+  "finished_at": "2026-11-05T15:32:47+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 17,
+    "stores_ok": 12,
+    "products_scanned": 2306,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 11,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 131
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Wireless Car Charger with 36W Adapter - Black",
+      "url": "https://esrgear.com/products/esr-halolock-magnetic-wireless-car-charger-36w-adapter",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Wireless-Car-Charger-with-36W-Adapter-Black-ESR-247970627.jpg?v=1793379139",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 34,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Athlex Air M",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-athlex-air-m",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_athlex_air_m_blk_orange_01.jpg?v=1793310828",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Black",
+      "url": "https://esrgear.com/products/ipad-pro-13-m5-airstance-magnetic-folio-case-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Black-ESR-247978582.jpg?v=1793379304",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Phone Grip Stand 360 - White",
+      "url": "https://esrgear.com/products/white-magsafe-compatible-phone-ring-holder",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Phone-Grip-Stand-360-White-ESR-247039999.jpg?v=1793379058",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "hexclad.com",
+      "title": "Small Silicone Baking Mat Set, 2-pk",
+      "url": "https://hexclad.com/products/small-silicone-baking-mat-set-2-pk",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0037/2110/1430/files/PLP_2_pack_small_silicone_baking_mat_MainImage_Desktop_3e7da3bd-b9ef-4196-a4ba-8f3eb01a11ee.png?v=1793634937",
+      "price": 39.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "HexClad Cookware",
+        "product_type": "Bakeware",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "stasherbag.com",
+      "title": "Reusable Silicone Baking Mat",
+      "url": "https://stasherbag.com/products/silicone-baking-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: hexclad.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2237/5935/files/BakingMat_MintGreen_LS_v1_2800.jpg?v=1787617648",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Stasher",
+        "product_type": "Baking Mat",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "hexclad.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "ipitaka.com",
+      "title": "MagMod Card Sleeve for Plaud Note (Sale)",
+      "url": "https://ipitaka.com/products/magmod-card-sleeve-for-plaud-note-sale",
+      "score": 45,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 43% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1036/4113/files/Plaud-SIngle-Black-Grey-_Plain_-01.webp?v=1780295632",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 43,
+        "vendor": "PITAKA",
+        "product_type": "",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fellowproducts.com",
+      "title": "Dona Tea Concentrate Trio",
+      "url": "https://fellowproducts.com/products/the-tea-trio",
+      "score": 45,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🔄 Tükənmişdi, yenidən stoka gəlib (tələbat siqnalı)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0057/6235/1219/files/11.02.26_drops_AdditionalPDP_DonaTea-ConcentrateSet.png?v=1793623441",
+      "price": 36.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "DONA",
+        "product_type": "",
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Splash Pitcher",
+      "url": "https://eastfork.com/products/splash-pitcher",
+      "score": 45,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🔗 Oxşar məhsul digər mağazalarda da var: yearandday.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/files/26_SS_Q1_Resale_WEB-20-44.jpg?v=1771629949",
+      "price": 150.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Bow Glassworks",
+        "product_type": "Resale",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "yearandday.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Flip It Mini Skort - Taupe",
+      "url": "https://aloyoga.com/products/w6485r-flip-it-mini-skort-taupe",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/W6485R_04481_b1_s1_a1_m54.jpg?v=1750412743",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 31,
+        "vendor": "Alo Yoga",
+        "product_type": "Women:Bottoms:Skirts",
+        "category": "fitness"
+      },
+      "detected_at": "2026-11-05T14:48:00+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Unisex Throwback Sock - Charcoal Green/Ivory",
+      "url": "https://aloyoga.com/products/a0357u-unisex-throwback-sock-charcoal-green-ivory",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 32% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0357U_06469_b1_s1_a1_8f1222e9-f25f-4fb0-ab1e-2366f810ce1c.jpg?v=1738610675",
+      "price": 23.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 32,
+        "vendor": "Alo Yoga",
+        "product_type": "Accessories:Socks",
+        "category": "fitness"
+      },
+      "detected_at": "2026-11-05T14:48:00+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Goddess Ribbed Short Sleeve Dress - Black",
+      "url": "https://aloyoga.com/products/w8201r-goddess-ribbed-short-sleeve-dress-black",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 41% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($64.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/W8201R_01_b1_s1_a1_1_m91.jpg?v=1761939954",
+      "price": 64.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 41,
+        "vendor": "Alo Yoga",
+        "product_type": "Women:One Piece:Dresses",
+        "category": "fitness"
+      },
+      "detected_at": "2026-11-05T14:48:00+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "Camera Case for iPhone 14 Pro & Pro Max with Drop-In Mount",
+      "url": "https://shopmoment.com/products/camera-case-for-iphone-14-with-drop-in-mount",
+      "score": 40,
+      "reasons": [
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.40)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/iPhone_14_Pro_-_Black.jpg?v=1791519955",
+      "price": 20.4,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 26,
+        "discount_pct": 55,
+        "vendor": "Moment",
+        "product_type": "Mobile",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials",
+      "score": 40,
+      "reasons": [
+        "🏷️ 64% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: peakdesign.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617825",
+      "price": 34.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 44,
+        "discount_pct": 64,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "peakdesign.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Max Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-max-case-essentials",
+      "score": 40,
+      "reasons": [
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: peakdesign.com, pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617734",
+      "price": 34.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 44,
+        "discount_pct": 55,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "peakdesign.com",
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "moft.us",
+      "title": "Connected Case for iPad",
+      "url": "https://moft.us/products/connected-case-for-ipad",
+      "score": 40,
+      "reasons": [
+        "🏷️ 36% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($31.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0069/9292/0627/files/MD014_main.png?v=1755707885",
+      "price": 31.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 443,
+        "discount_pct": 36,
+        "vendor": "NEW MD014",
+        "product_type": "For Tablets",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "ipitaka.com",
+      "title": "Folio 3 for iPad Pro & iPad Air & iPad mini",
+      "url": "https://ipitaka.com/products/folio-3-for-ipad-pro",
+      "score": 40,
+      "reasons": [
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: spigen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1036/4113/files/iPad-Pro-midnight-blue-01_67905295-4b6a-4c7a-919d-33d19d036ed1.webp?v=1787106933",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 108,
+        "discount_pct": 33,
+        "vendor": "PITAKA",
+        "product_type": "iPad Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "spigen.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "ipitaka.com",
+      "title": "MagEZ Case 2 for iPad Pro 2025/2024/2022/2021",
+      "url": "https://ipitaka.com/products/magez-case-2-for-ipad",
+      "score": 40,
+      "reasons": [
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1036/4113/files/ipad2024-case-bgp-1.webp?v=1720158970",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 850,
+        "discount_pct": 63,
+        "vendor": "PITAKA",
+        "product_type": "iPad Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "esrgear.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "keychron.com",
+      "title": "Keychron F4 HE 8K Vibe Coding Keypad",
+      "url": "https://keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+      "score": 35,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-F4-HE-8K-Vibe-Coding-Keypad-2.jpg?v=1793861905",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Switch-Keychron",
+        "product_type": "Custom Keyboards",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "keychron.com",
+      "title": "ISO & ANSI Q3 & Q4 & Q4 Pro & Q6 & Q6 Pro & V3 & V4 & V6 & K8 & K8 Pro OEM Dye-Sub PBT Keycap Set - Carbon",
+      "url": "https://keychron.com/products/iso-ansi-q3-q4-q6-k8-oem-dye-sub-pbt-keycap-set-carbon",
+      "score": 35,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($32.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/products/ISO-ANSI-OEM-Dye-Sub-PBT-keycap-Set-Carbon-Color-For-Q3-Q4-Q6-K8-Custom-Keyboard.jpg?v=1662429001",
+      "price": 32.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 20,
+        "vendor": "Z-ISO Keycap Set",
+        "product_type": "Keycaps",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    }
+  ],
+  "store_errors": {
+    "satechi.net": "rate_limited (429) — skipped this run",
+    "sharge.com": "rate_limited (429) — skipped this run",
+    "nuphy.com": "rate_limited (429) — skipped this run",
+    "jlab.com": "rate_limited (429) — skipped this run",
+    "status.co": "rate_limited (429) — skipped this run"
+  }
+}

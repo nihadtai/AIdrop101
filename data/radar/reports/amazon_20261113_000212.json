@@ -1,0 +1,528 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-12T20:02:07+00:00",
+  "finished_at": "2026-11-12T20:02:12+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 2,
+    "items_scanned": 60,
+    "filtered_out": 4,
+    "first_run_pages": 1,
+    "signals_above_threshold": 29
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer 3/4 Sleeve Tops Women V Neck T Shirts Dressy Casual Blouses | Basic tees with decorative button cuffs, soft lightweig",
+      "url": "https://www.amazon.com/dp/B0HCNPL5Q8",
+      "score": 95,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#2)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (454 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.99 → tövsiyə satış: ~$33.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714z66-59YL._AC_UL900_SR900,600_.jpg",
+      "price": 11.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCNPL5Q8",
+        "rank": 2,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 454,
+        "suggested_dtc_price": 33.99,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Mock Neck Sweatshirt Oversized Casual Fall Clothes 2026 | Fleece lined, comfort sweater, slight stretch m",
+      "url": "https://www.amazon.com/dp/B0H8Y6X73V",
+      "score": 95,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 90 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.99 → tövsiyə satış: ~$72.47)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71q6efAQizL._AC_UL900_SR900,600_.jpg",
+      "price": 28.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8Y6X73V",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 90,
+        "suggested_dtc_price": 72.47,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "BESTENA Tummy Control Shapewear Shorts, High Waisted Body Shaper | Girdle shapewear shorts smooth the tummy and thighs with h",
+      "url": "https://www.amazon.com/dp/B0HJQDB76Q",
+      "score": 95,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "📈 Reytinqdə 11 pillə yüksəlib (#19 → #8)",
+        "💎 Erkən trend: cəmi 64 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71U8k2+JkCL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJQDB76Q",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 64,
+        "rank_jump": 11,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Wrap Cropped Open Front Pullover Sweater Tops 2026 | Lightweight Soft Knit, Adjustable Side Tie, Easy Lay",
+      "url": "https://www.amazon.com/dp/B0HM7GS653",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 5 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $32.99 → tövsiyə satış: ~$82.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iYCcJHTkL._AC_UL900_SR900,600_.jpg",
+      "price": 32.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM7GS653",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 5,
+        "suggested_dtc_price": 82.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Fisoew Womens Sweatshirt Mock Neck Henley Pullover Oversized Fall Outfits | Fall Fashion Clothes 2026,Long Sleeve Tops,Ruffle",
+      "url": "https://www.amazon.com/dp/B0HD6YV251",
+      "score": 85,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 120 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $36.99 → tövsiyə satış: ~$92.48)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71HyqjlbqGL._AC_UL900_SR900,600_.jpg",
+      "price": 36.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HD6YV251",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 120,
+        "suggested_dtc_price": 92.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Onyagin Family Christmas Pajamas Matching Sets Xmas Pjs | Matching Christmas Pajamas for Family Cute Holiday Plaid Sleepwear",
+      "url": "https://www.amazon.com/dp/B0HFHLJZMJ",
+      "score": 81,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "📈 Reytinqdə 3 pillə yüksəlib (#6 → #3)",
+        "💎 Erkən trend: cəmi 50 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81lngc5gOZL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFHLJZMJ",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 50,
+        "rank_jump": 3,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Women's Christmas Sweatshirt Merry Embroidered Mock Neck Long Sleeve Tops | Embroidered Letter High Neck Oversized Tunic Pull",
+      "url": "https://www.amazon.com/dp/B0HK6SKFLF",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#12)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 1 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81S9pyb2VNL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HK6SKFLF",
+        "rank": 12,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 1,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Clickeez Care Bears 3-Pack | 3 Collectible Character Keyboard Keys Click and Clack | Create Your Own Keychain | Ages 6+",
+      "url": "https://www.amazon.com/dp/B0GFXY3M2N",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 14 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91GG7DPIE3L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GFXY3M2N",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 14,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "One Piece Flannel Warm Mask Hat | Soft Integrated Windproof Flannel Balaclava, Winter Full Face Cover Hat for Daily Outdoor S",
+      "url": "https://www.amazon.com/dp/B0HJR44KPL",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 28 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zx0ZIqykL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJR44KPL",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 28,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Facogoo Satin Wide Leg Dress Pants Silk Flowy Long Trousers for Women | Elastic Waist, Pull On, Dressy Outfits, Going Out, Fa",
+      "url": "https://www.amazon.com/dp/B0HFLY2J26",
+      "score": 77,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#4)",
+        "📈 Reytinqdə 6 pillə yüksəlib (#10 → #4)",
+        "💎 Erkən trend: cəmi 97 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eN4dDsJgL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFLY2J26",
+        "rank": 4,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 97,
+        "rank_jump": 6,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "JIZ Translucent Fleece Lined Tights Women, Thermal Tights for Women, Pantyhose Leggings, Warm Sheer Tights for Women Winter",
+      "url": "https://www.amazon.com/dp/B0HGQ39GV9",
+      "score": 77,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "📈 Reytinqdə 6 pillə yüksəlib (#12 → #6)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $16.98 → tövsiyə satış: ~$42.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61t3-HHnkpL._AC_UL900_SR900,600_.jpg",
+      "price": 16.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGQ39GV9",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 683,
+        "rank_jump": 6,
+        "suggested_dtc_price": 42.45,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "GAYHAY Ribbed Long Sleeve Shirts for Women Fitted Underscrub Fall Outfits | Slim Fashion Tops, Casual Basic Tees, Winter Laye",
+      "url": "https://www.amazon.com/dp/B0H6XT5NH9",
+      "score": 75,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#1)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (166 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81m6PKjX9OL._AC_UL900_SR900,600_.jpg",
+      "price": 5.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6XT5NH9",
+        "rank": 1,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 166,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Zeagoo Women Short Sleeve Tops V Neck Slim Fit Tee Basic T-Shirt XS-2XL | Basic Tees, Ladies Short Sleeve Tops, Fashion Casua",
+      "url": "https://www.amazon.com/dp/B0HD6ZSW2V",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 26 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71EdLrCGQuL._AC_UL900_SR900,600_.jpg",
+      "price": 6.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HD6ZSW2V",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 26,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Lusait Strapless Bras for Women Non-Slip Soft Padded Wireless Bandeau Bra | Seamless Bandeau with Silicone Grip,No Underwire,",
+      "url": "https://www.amazon.com/dp/B0HNRKK3HV",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (215 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $25.99 → tövsiyə satış: ~$64.97)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Cv5Ew9f4L._AC_UL900_SR900,600_.jpg",
+      "price": 25.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNRKK3HV",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 215,
+        "suggested_dtc_price": 64.97,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "WIHOLL Women's 2 Piece Matching Lounge Set Sweatsuits Fall Outfits | Long Sleeve V-Neck Tops, Elastic Waist Drawstring, Wide",
+      "url": "https://www.amazon.com/dp/B0H5R4H3ZQ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.99 → tövsiyə satış: ~$99.98)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61blEazpSrL._AC_UL900_SR900,600_.jpg",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H5R4H3ZQ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 2011,
+        "suggested_dtc_price": 99.98,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Ekouaer Womens 3/4 Length Sleeve Tops Boho Blouses Casual Pleated Shirts | Boho print, gathered front pleated detail, 3/4 len",
+      "url": "https://www.amazon.com/dp/B0H758L1YP",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "🌱 Yeni yüksələn məhsul (431 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Jw-6nhT1L._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H758L1YP",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 431,
+        "suggested_dtc_price": 31.99,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Leopard Print Sweatshirt for Women Oversized Ruffle V Neck Long Sleeve Top | Soft cozy, ruffle V neck, balloon sleeves, loose",
+      "url": "https://www.amazon.com/dp/B0HNN9KJLP",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81A8soXWdTL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNN9KJLP",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 2,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Sipaya Women's Sweaters Long Sleeve Off The Shoulder Tops Fall Going Out | Ribbed Cable Knit Oversized Sweaters,Comfiest Airp",
+      "url": "https://www.amazon.com/dp/B0H6WNP5L4",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 90 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SDvzWs7JL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6WNP5L4",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 90,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "OFEEFAN Fall Dresses for Women Long Sleeve Sweater Dress with Pockets | 2026 Fall Winter Clothes, Crewneck, Tie Waist Dress,F",
+      "url": "https://www.amazon.com/dp/B0H4VKM82L",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 70 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81WQyGAaE+L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4VKM82L",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 70,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Thermal Underwear Set for Women Fleece Lined Winter Clothes Long Johns | Long Sleeve Top & Leggings Base Layer for Cold Weath",
+      "url": "https://www.amazon.com/dp/B0H4FM36BK",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "💎 Erkən trend: cəmi 130 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.85 → tövsiyə satış: ~$37.12)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Elr-eeqqL._AC_UL900_SR900,600_.jpg",
+      "price": 14.85,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4FM36BK",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 130,
+        "suggested_dtc_price": 37.12,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-12T20:02:12+00:00"
+    }
+  ],
+  "page_errors": {}
+}

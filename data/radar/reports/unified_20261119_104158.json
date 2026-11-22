@@ -1,0 +1,719 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-19T06:41:58+00:00",
+  "stats": {
+    "cross_matches_count": 3,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 20,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 2
+  },
+  "cross_matches": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    }
+  ],
+  "signals": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    },
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
+      "score": 102,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm pelacase.com (Shopify), həm də amazon:electronics:bestsellers siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [case, iphone, max]",
+        "💰 Qiymət marjası: Amazon $21.99 ⇄ Shopify $65.00 (Fərq: +$43.01)",
+        "⭐ Amazon Reytinqi: 4.5/5.0 (40724 rəy)",
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)"
+      ],
+      "price": 65.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
+      "shopify": {
+        "origin": "pelacase.com",
+        "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
+        "price": 65.0,
+        "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
+        "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
+        "score": 60
+      },
+      "amazon": {
+        "origin": "amazon:electronics:bestsellers",
+        "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+        "price": 21.99,
+        "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+        "score": 62,
+        "rank": 14,
+        "reviews": 40724,
+        "rating": 4.5
+      },
+      "detected_at": "2026-11-19T06:41:58+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Sports Bluetooth Headphones, Running Headphones | 75Hrs Playtime Ear Buds with LED Power Display, Noise Can",
+      "url": "https://www.amazon.com/dp/B0HMQLM3H2",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 73 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.98 → tövsiyə satış: ~$52.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aKa1+MVXL._AC_UL900_SR900,600_.jpg",
+      "price": 20.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMQLM3H2",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 73,
+        "suggested_dtc_price": 52.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "XHDATA D226 Radios Portable AM FM Shortwave, USB C & Battery Powered, Green | Easy-Read Large Dial Reliable Reception, Built-",
+      "url": "https://www.amazon.com/dp/B0H69NKX1K",
+      "score": 85,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (295 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $33.99 → tövsiyə satış: ~$84.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71xO5RumFsL._AC_UL900_SR900,600_.jpg",
+      "price": 33.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H69NKX1K",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 295,
+        "suggested_dtc_price": 84.98,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hand Crank Radio Emergency Radio with AM/FM/NOAA Weather Band 2027NEW | Wind Up Radio Emergency, LED Flashlights, SOS Functio",
+      "url": "https://www.amazon.com/dp/B0HQB57GQZ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 1 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NgeWhaeVL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQB57GQZ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 1,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hand Crank Radio, AM FM NOAA Weather Radio with Solar Panel, Type-C Charging, Flashlight, Reading Lamp and SOS Alarm, Portabl",
+      "url": "https://www.amazon.com/dp/B0HQRCT5W4",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 4 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZdjhrDPTL._AC_UL900_SR900,600_.jpg",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQRCT5W4",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 4,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Ring Outdoor Cam, Solar (newest model), Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Night Visio",
+      "url": "https://www.amazon.com/dp/B0H2G9SHF3",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 12 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xiBNa+UrL._AC_UL900_SR900,600_.jpg",
+      "price": 69.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H2G9SHF3",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 12,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Solar Hand Crank Emergency AM/FM/NOAA Weather Band Radio SOS Alarm (Yellow) | Portable Solar Hand Crank Emergency Weather Rad",
+      "url": "https://www.amazon.com/dp/B0HQBWD2JH",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71KZaFRw04L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQBWD2JH",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 2,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Black) | JBL Pure Bass Sound, Up to 76H Battery Life (19H More",
+      "url": "https://www.amazon.com/dp/B0GHY4PR3N",
+      "score": 77,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#26)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (283 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.95 → tövsiyə satış: ~$74.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bxgOa0vCL._AC_UL900_SR900,600_.jpg",
+      "price": 29.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GHY4PR3N",
+        "rank": 26,
+        "list_type": "bestsellers",
+        "rating": 4.4,
+        "reviews": 283,
+        "suggested_dtc_price": 74.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Laptop Stand Hub | LD204H",
+      "url": "https://spigen.com/products/laptop-stand-hub",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($69.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_ld204h_laptop_stand_01.jpg?v=1747088062",
+      "price": 69.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 176,
+        "discount_pct": 30,
+        "vendor": "Deskterior",
+        "product_type": "Desk Accessories",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-19T06:41:53+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towel - 25 Pack",
+      "url": "https://theragcompany.com/products/car-wash-towel-copy",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 53% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($30.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/car-wash-16x27-black-25ct-main-web.jpg?v=1784816393",
+      "price": 30.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 53,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#19)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJTS6LXB",
+        "rank": 19,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 659,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "💎 Erkən trend: cəmi 76 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 76,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "SUPERDANNY Extension Cord,Flat Plug Surge Protector Power Strip,10Ft | 8 AC & 4 USB Ports (2 USB C),Surge Protector with 1050",
+      "url": "https://www.amazon.com/dp/B0DZ254SSR",
+      "score": 67,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#11)",
+        "📈 Reytinqdə 13 pillə yüksəlib (#24 → #11)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.99 → tövsiyə satış: ~$33.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL900_SR900,600_.jpg",
+      "price": 11.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DZ254SSR",
+        "rank": 11,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 9177,
+        "rank_jump": 13,
+        "suggested_dtc_price": 33.99,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-17T13:52:35+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-17T12:51:13+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-17T11:50:00+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big JBL Pro Sound with Punchy bass, 7-Hour Built-in Ba",
+      "url": "https://www.amazon.com/dp/B0CTNWBT1Z",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#12)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $31.95 → tövsiyə satış: ~$79.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kzInVwzgL._AC_UL900_SR900,600_.jpg",
+      "price": 31.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0CTNWBT1Z",
+        "rank": 12,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 20441,
+        "suggested_dtc_price": 79.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

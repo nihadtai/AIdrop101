@@ -1,0 +1,613 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-14T23:58:49+00:00",
+  "stats": {
+    "cross_matches_count": 1,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 20,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 1
+  },
+  "cross_matches": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "W345 Hybrid Long Sleeve bra",
+      "score": 125,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm youngla.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $36.99 ⇄ Shopify $35.00 (Fərq: +$-1.99)",
+        "⭐ Amazon Reytinqi: 4.3/5.0 (123 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)"
+      ],
+      "price": 35.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/20240605-YOUNGLAFORHER-JUNE21DROP-1029.jpg?v=1775760229",
+      "url": "https://youngla.com/products/w345",
+      "shopify": {
+        "origin": "youngla.com",
+        "title": "W345 Hybrid Long Sleeve bra",
+        "price": 35.0,
+        "url": "https://youngla.com/products/w345",
+        "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/20240605-YOUNGLAFORHER-JUNE21DROP-1029.jpg?v=1775760229",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Fisoew Womens Sweatshirt Mock Neck Henley Pullover Oversized Fall Outfits | Fall Fashion Clothes 2026,Long Sleeve Tops,Ruffle",
+        "price": 36.99,
+        "url": "https://www.amazon.com/dp/B0HD6YRF73",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71HyqjlbqGL._AC_UL900_SR900,600_.jpg",
+        "score": 85,
+        "rank": 13,
+        "reviews": 123,
+        "rating": 4.3
+      },
+      "detected_at": "2026-11-14T23:58:49+00:00"
+    }
+  ],
+  "signals": [
+    {
+      "source": "cross_platform",
+      "is_cross_match": true,
+      "title": "W345 Hybrid Long Sleeve bra",
+      "score": 125,
+      "similarity": 0.51,
+      "reasons": [
+        "🏆 DUAL-MARKET QALİB MƏHSUL: Həm youngla.com (Shopify), həm də amazon:fashion:new-releases siyahısında təsdiqlənib!",
+        "🔗 Oxşar açar anlayış: [long, sleeve]",
+        "💰 Qiymət marjası: Amazon $36.99 ⇄ Shopify $35.00 (Fərq: +$-1.99)",
+        "⭐ Amazon Reytinqi: 4.3/5.0 (123 rəy)",
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)"
+      ],
+      "price": 35.0,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/20240605-YOUNGLAFORHER-JUNE21DROP-1029.jpg?v=1775760229",
+      "url": "https://youngla.com/products/w345",
+      "shopify": {
+        "origin": "youngla.com",
+        "title": "W345 Hybrid Long Sleeve bra",
+        "price": 35.0,
+        "url": "https://youngla.com/products/w345",
+        "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/20240605-YOUNGLAFORHER-JUNE21DROP-1029.jpg?v=1775760229",
+        "score": 55
+      },
+      "amazon": {
+        "origin": "amazon:fashion:new-releases",
+        "title": "Fisoew Womens Sweatshirt Mock Neck Henley Pullover Oversized Fall Outfits | Fall Fashion Clothes 2026,Long Sleeve Tops,Ruffle",
+        "price": 36.99,
+        "url": "https://www.amazon.com/dp/B0HD6YRF73",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71HyqjlbqGL._AC_UL900_SR900,600_.jpg",
+        "score": 85,
+        "rank": 13,
+        "reviews": 123,
+        "rating": 4.3
+      },
+      "detected_at": "2026-11-14T23:58:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Mock Neck Sweatshirt Oversized Casual Fall Clothes 2026 | Fleece lined, comfort sweater, slight stretch m",
+      "url": "https://www.amazon.com/dp/B0H8Y9PTBK",
+      "score": 95,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 95 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.99 → tövsiyə satış: ~$72.47)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71q6efAQizL._AC_UL900_SR900,600_.jpg",
+      "price": 28.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8Y9PTBK",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 95,
+        "suggested_dtc_price": 72.47,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Wide Leg Sweatpants Women Baggy Sweat Pants | FLeece Lined Lounge Fall Sweatpants Fashion Casual Joggers Comfy W",
+      "url": "https://www.amazon.com/dp/B0HBQMR5LF",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 43 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.98 → tövsiyə satış: ~$49.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616krTi4thL._AC_UL900_SR900,600_.jpg",
+      "price": 19.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HBQMR5LF",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 43,
+        "suggested_dtc_price": 49.95,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "ROXUN Ear Warmer Headband, Winter Double‑Fleece Ear Muffs for Cold Running | Dual‑layer thickened, windproof outer blocks chi",
+      "url": "https://www.amazon.com/dp/B0HDB4X9ST",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 66 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $8.99 → tövsiyə satış: ~$30.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71gDt6y7KhL._AC_UL900_SR900,600_.jpg",
+      "price": 8.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDB4X9ST",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 66,
+        "suggested_dtc_price": 30.99,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Zeagoo Women Short Sleeve Tops V Neck Shirt Ribbed Basic Tee Summer Outfits | V Neck Fitted Tshirts,Stretchy Business Casual",
+      "url": "https://www.amazon.com/dp/B0HCV8V39X",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 80 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $12.49 → tövsiyə satış: ~$34.49)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81sO+w6Z-ZL._AC_UL900_SR900,600_.jpg",
+      "price": 12.49,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCV8V39X",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 80,
+        "suggested_dtc_price": 34.49,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Onyagin Family Christmas Pajamas Matching Sets Xmas Pjs | Matching Christmas Pajamas for Family Cute Holiday Plaid Sleepwear",
+      "url": "https://www.amazon.com/dp/B0HFHH1HTY",
+      "score": 90,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 50 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81lngc5gOZL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFHH1HTY",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 50,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Contrast Striped Oversized Sweater Fall Fashion 2026 | Cute Ribbed Trims, Slouchy Relaxed Fit, Cozy Winte",
+      "url": "https://www.amazon.com/dp/B0H8YH7YNP",
+      "score": 85,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 31 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $36.99 → tövsiyə satış: ~$92.48)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gPFFuZpXL._AC_UL900_SR900,600_.jpg",
+      "price": 36.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8YH7YNP",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 31,
+        "suggested_dtc_price": 92.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "KKPeople Bathroom Friendly Shapewear Easy-Off Bodysuit Tummy Control | Women's Hip Lift Seamless Full Body Shaper Rear Closur",
+      "url": "https://www.amazon.com/dp/B0HG8Q9S7Y",
+      "score": 85,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 111 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.69 → tövsiyə satış: ~$71.73)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71P79oDAuEL._AC_UL900_SR900,600_.jpg",
+      "price": 28.69,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HG8Q9S7Y",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 111,
+        "suggested_dtc_price": 71.73,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Leopard Print Sweatshirt for Women Oversized Ruffle V Neck Long Sleeve Top | Soft cozy, ruffle V neck, balloon sleeves, loose",
+      "url": "https://www.amazon.com/dp/B0HNN9KJLP",
+      "score": 79,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "📈 Reytinqdə 7 pillə yüksəlib (#15 → #8)",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81A8soXWdTL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNN9KJLP",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 2,
+        "rank_jump": 7,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "JIZ Translucent Fleece Lined Tights Women, Thermal Tights for Women, Pantyhose Leggings, Warm Sheer Tights for Women Winter",
+      "url": "https://www.amazon.com/dp/B0HGQ39GV9",
+      "score": 75,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#1)",
+        "📈 Reytinqdə 5 pillə yüksəlib (#6 → #1)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $16.98 → tövsiyə satış: ~$42.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61t3-HHnkpL._AC_UL900_SR900,600_.jpg",
+      "price": 16.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGQ39GV9",
+        "rank": 1,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 687,
+        "rank_jump": 5,
+        "suggested_dtc_price": 42.45,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Zeagoo Women Short Sleeve Tops V Neck Slim Fit Tee Basic T-Shirt XS-2XL | Basic Tees, Ladies Short Sleeve Tops, Fashion Casua",
+      "url": "https://www.amazon.com/dp/B0HD6XJPNH",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 26 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iIYbCYPhL._AC_UL900_SR900,600_.jpg",
+      "price": 7.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HD6XJPNH",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 26,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Fisoew Womens Baggy Wide Leg Pants Casual Elastic High Waisted Drawstring Printed Workout Sweatpants",
+      "url": "https://www.amazon.com/dp/B0HFZVLKXX",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (184 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.98 → tövsiyə satış: ~$72.45)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yFxoHGwQL._AC_UL900_SR900,600_.jpg",
+      "price": 28.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFZVLKXX",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 184,
+        "suggested_dtc_price": 72.45,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "WIHOLL Womens Fall Sweaters Contrast Raglan Sleeve Tops Fashion Clothing | Soft Knitted,Lightweight Pullover Sweater,Cozy Lon",
+      "url": "https://www.amazon.com/dp/B0H4576M3J",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "💎 Erkən trend: cəmi 127 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.04 → tövsiyə satış: ~$70.10)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Jsh9VdSfL._AC_UL900_SR900,600_.jpg",
+      "price": 28.04,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4576M3J",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 127,
+        "rank_jump": 1,
+        "suggested_dtc_price": 70.1,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Trendy Queen Womens Wrap Cropped Open Front Pullover Sweater Tops 2026 | Lightweight Soft Knit, Adjustable Side Tie, Easy Lay",
+      "url": "https://www.amazon.com/dp/B0HM7GS653",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "💎 Erkən trend: cəmi 6 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $32.99 → tövsiyə satış: ~$82.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iYCcJHTkL._AC_UL900_SR900,600_.jpg",
+      "price": 32.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM7GS653",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 6,
+        "suggested_dtc_price": 82.48,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-14T23:58:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-14T20:57:36+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-14T19:57:10+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "BESTENA Tummy Control Shapewear Shorts, High Waisted Body Shaper | Girdle shapewear shorts smooth the tummy and thighs with h",
+      "url": "https://www.amazon.com/dp/B0HJQDB76Q",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "💎 Erkən trend: cəmi 67 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71U8k2+JkCL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJQDB76Q",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 67,
+        "rank_jump": 2,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:fashion:new-releases",
+      "title": "Sipaya Women's Sweaters Long Sleeve Off The Shoulder Tops Fall Going Out | Ribbed Cable Knit Oversized Sweaters,Comfiest Airp",
+      "url": "https://www.amazon.com/dp/B0H6WNP5L4",
+      "score": 63,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#12)",
+        "📈 Reytinqdə 4 pillə yüksəlib (#16 → #12)",
+        "💎 Erkən trend: cəmi 92 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SDvzWs7JL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6WNP5L4",
+        "rank": 12,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 92,
+        "rank_jump": 4,
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-14T20:57:28+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

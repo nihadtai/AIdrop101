@@ -1,0 +1,540 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-17T17:56:58+00:00",
+  "finished_at": "2026-11-17T17:57:12+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 19,
+    "stores_ok": 19,
+    "products_scanned": 2497,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 61
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-17T13:52:35+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-17T12:51:13+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-17T11:50:00+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "2016 - Revenge Joggers",
+      "url": "https://youngla.com/products/2016",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($60.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: transparentlabs.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/2016_black_002_01_15_rudy_ecomm.jpg?v=1735684744",
+      "price": 60.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "transparentlabs.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "4123 - Yu-Gi-Oh!® Tees",
+      "url": "https://youngla.com/products/4123",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($44.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: crossrope.com, manduka.com, nobullproject.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Yugioh_-192.jpg?v=1742219086",
+      "price": 44.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "crossrope.com",
+          "manduka.com",
+          "nobullproject.com",
+          "repfitness.com",
+          "tenthousand.cc"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "5193 - Streetwear Sherpa Jacket",
+      "url": "https://youngla.com/products/5193",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: outdoorvoices.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/UtahGavin22.jpg?v=1765118338",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "outdoorvoices.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Men's LFG Tee",
+      "url": "https://nobullproject.com/products/mens-lfg-tee-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-apparel-men-s-lfg-tee-1225011010.png?v=1772660639",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "NOBULL",
+        "product_type": "Apparel",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "FindAll™ Magnetic Wallet Stand",
+      "url": "https://satechi.net/products/findall-magnetic-wallet-stand",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com, ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FindAllMagneticWalletStandBlack1_dbb96b04-4b73-4d04-b223-6f1472f52ea5.webp?v=1794890622",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Satechi",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "esrgear.com",
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-17T10:48:53+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Princess Ball Petticoat Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-princess-ball-puff-sleeve-embroidery-bow-petticoat-bodysuit-dress",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS152-DBP-LIFESTYLE-2.jpg?v=1784572987",
+      "price": 74.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Posh Peanut",
+        "product_type": "Dresses",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-red-mahogany-navy",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-RedMahogany-Front-2631.png?v=1793903082",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-navy-iris",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-NavyIris-Front-00041.png?v=1793903078",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-chinois-green-mediterranean",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-ChinoisGreen-Front-00006.png?v=1793903073",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Women's Journey 2",
+      "url": "https://nobullproject.com/products/womens-lunar-mineral-white-journey-2",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🔄 Tükənmişdi, yenidən stoka gəlib (tələbat siqnalı)",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($75.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-footwear-men-s-journey-2-1244799831.png?v=1781703162",
+      "price": 75.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 50,
+        "vendor": "NOBULL",
+        "product_type": "Footwear",
+        "category": "fitness"
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "manduka.com",
+      "title": "Equilibria Reformer Pilates Towel",
+      "url": "https://manduka.com/products/equilibria-pilates-reformer-towel",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($66.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopbala.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/P101A950-EQUILIBRIA-PILATES-TOWEL-SEA-SALT_06.jpg?v=1794428882",
+      "price": 66.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Manduka",
+        "product_type": "Towels",
+        "category": "fitness",
+        "cross_store_matches": [
+          "shopbala.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Everyday Bowl Pack",
+      "url": "https://eastfork.com/products/everyday-bowl-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_SB2_PDP.jpg?v=1695662545",
+      "price": 158.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 55,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-17T14:53:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Tiny Cup Pack",
+      "url": "https://eastfork.com/products/tiny-cup-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($72.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: corkcicle.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_TC_PDP.jpg?v=1695662381",
+      "price": 72.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 10,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "corkcicle.com"
+        ]
+      },
+      "detected_at": "2026-11-17T14:53:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Breakfast Bowl Pack",
+      "url": "https://eastfork.com/products/breakfast-bowl-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_SB1_PDP.jpg?v=1695662531",
+      "price": 101.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 55,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-17T14:53:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Boxer Briefs 12-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs-12-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACKX4.jpg?v=1771791744",
+      "price": 119.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 60,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-17T13:52:35+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "puravidabracelets.com",
+      "title": "Green Bracelet",
+      "url": "https://puravidabracelets.com/products/green-bracelet",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 75% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: mvmt.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0297/6313/files/Solid-Original-Green_fd1cd10b-99ba-4319-99d1-1ca5706a7911.jpg?v=1794456268",
+      "price": 2.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 75,
+        "vendor": "Pura Vida Bracelets",
+        "product_type": "Bracelets",
+        "category": "fashion",
+        "cross_store_matches": [
+          "mvmt.com"
+        ]
+      },
+      "detected_at": "2026-11-17T13:52:35+00:00"
+    }
+  ],
+  "store_errors": {}
+}

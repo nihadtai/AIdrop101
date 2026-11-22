@@ -1,0 +1,517 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-05T18:35:24+00:00",
+  "finished_at": "2026-11-05T18:35:42+00:00",
+  "baseline_run": true,
+  "stats": {
+    "stores_total": 18,
+    "stores_ok": 17,
+    "products_scanned": 4122,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 17,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 336
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 6-Pack",
+      "url": "https://trueclassictees.com/products/black-briefs-6-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 67% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACK6PACK.png?v=1776890150",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 67,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-short-sleeve-polo-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($79.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/pack10.jpg?v=1793229531",
+      "price": 79.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "thursdayboots.com",
+      "title": "[W] Forever Flannel Shirt | Red & Black",
+      "url": "https://thursdayboots.com/products/w-mens-forever-flannel-shirt-red-black",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Mens-Shirts-ForeverFlannel-RedBlack-101223-Front.jpg?v=1697673869",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 31,
+        "vendor": "Thursday - Men's Shirts (WH)",
+        "product_type": "Shirts",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Wireless Car Charger with 36W Adapter - Black",
+      "url": "https://esrgear.com/products/esr-halolock-magnetic-wireless-car-charger-36w-adapter",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Wireless-Car-Charger-with-36W-Adapter-Black-ESR-247970627.jpg?v=1793379139",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 34,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Dressy Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/all-navy-dressy-polo-3-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Dressy-Polo-regularTCT4022_1.jpg?v=1793818118",
+      "price": 99.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "marinelayer.com",
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+      "price": 78.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Marine Layer",
+        "product_type": "Womens - Longsleeve - Lightweight",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "marinelayer.com",
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+      "price": 78.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Marine Layer",
+        "product_type": "Womens - Longsleeve - Lightweight",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "gravityblankets.com",
+      "title": "Weighted Eye Mask",
+      "url": "https://gravityblankets.com/products/weighted-eye-mask",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: parachutehome.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2034/5801/files/Weigthed_EyeMask_Front_Flat_Ecomm1.png?v=1793292499",
+      "price": 59.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Gravity Blankets",
+        "product_type": "",
+        "category": "home",
+        "cross_store_matches": [
+          "parachutehome.com"
+        ]
+      },
+      "detected_at": "2026-11-05T16:35:11+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Athlex Air M",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-athlex-air-m",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_athlex_air_m_blk_orange_01.jpg?v=1793310828",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:34:11+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Black",
+      "url": "https://esrgear.com/products/ipad-pro-13-m5-airstance-magnetic-folio-case-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Black-ESR-247978582.jpg?v=1793379304",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Phone Grip Stand 360 - White",
+      "url": "https://esrgear.com/products/white-magsafe-compatible-phone-ring-holder",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Phone-Grip-Stand-360-White-ESR-247039999.jpg?v=1793379058",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-05T15:32:46+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "hexclad.com",
+      "title": "Small Silicone Baking Mat Set, 2-pk",
+      "url": "https://hexclad.com/products/small-silicone-baking-mat-set-2-pk",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0037/2110/1430/files/PLP_2_pack_small_silicone_baking_mat_MainImage_Desktop_3e7da3bd-b9ef-4196-a4ba-8f3eb01a11ee.png?v=1793634937",
+      "price": 39.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "HexClad Cookware",
+        "product_type": "Bakeware",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "stasherbag.com",
+      "title": "Reusable Silicone Baking Mat",
+      "url": "https://stasherbag.com/products/silicone-baking-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: hexclad.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2237/5935/files/BakingMat_MintGreen_LS_v1_2800.jpg?v=1787617648",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Stasher",
+        "product_type": "Baking Mat",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "hexclad.com"
+        ]
+      },
+      "detected_at": "2026-11-05T15:26:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Luxe Stretch Mandarin Dress Shirt - White",
+      "url": "https://fashionnova.com/products/luxe-stretch-mandarin-dress-shirt-fncolorname-white",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 37% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MWT22117_White_JR_V1.jpg?v=1793902004",
+      "price": 22.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 37,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Woven Tops",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Dean Textured Short Sleeve Button Up Shirt - Plum",
+      "url": "https://fashionnova.com/products/dean-textured-short-sleeve-button-up-shirt-fncolorname-plum",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/FNMN421_Plum_JR_V1.jpg?v=1793895911",
+      "price": 20.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 50,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Woven Tops",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Nixon Faux Suede Zip Jacket - Olive",
+      "url": "https://fashionnova.com/products/nixon-faux-suede-zip-jacket-fncolorname-olive",
+      "score": 45,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 37% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($25.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/P526MCJ22285_Olive_JR_V1.jpg?v=1793892962",
+      "price": 25.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 37,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Jackets",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Falcons Game Day Fit (Toddler Swim Trunk)",
+      "url": "https://chubbiesshorts.com/products/the-falcons-game-day-fit-toddler-swim-trunk",
+      "score": 45,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 39% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/FalconsGameDayFit_406254-15_SD_1.webp?v=1754004128",
+      "price": 33.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 39,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Colts Game Day Fit (Toddler Swim Trunk)",
+      "url": "https://chubbiesshorts.com/products/the-colts-game-day-fit-toddler-swim-trunk",
+      "score": 45,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 39% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/ColtsGameDayFit_406254-10_SD_1.webp?v=1754003851",
+      "price": 33.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 39,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Lil Pink Apex Swimmers (Toddler Swim Trunk)",
+      "url": "https://chubbiesshorts.com/products/the-lil-pink-apex-swimmers-toddler-swim-trunk",
+      "score": 45,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 42% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/LilHydroHunters_406261-00_SD_1.webp?v=1774383840",
+      "price": 26.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 42,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "cutsclothing.com",
+      "title": "Divine Fleece Oversized Straight-Leg Sweatpant | Charcoal",
+      "url": "https://cutsclothing.com/products/women-divine-fleece-straight-leg-sweatpant-charcoal",
+      "score": 45,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1368/3463/files/CHARCOAL_DivineStraight-LegSweatpant_2.jpg?v=1793743303",
+      "price": 59.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 50,
+        "vendor": "Cuts Clothing",
+        "product_type": "Womens Bottoms",
+        "category": "fashion"
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    }
+  ],
+  "store_errors": {
+    "bombas.com": "rate_limited (429) — skipped this run"
+  }
+}

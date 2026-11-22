@@ -1,0 +1,535 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-08T00:12:32+00:00",
+  "finished_at": "2026-11-08T00:12:44+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 16,
+    "stores_ok": 16,
+    "products_scanned": 3105,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 67
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Crew Neck 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fashionnova.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Crew-Neck-3-Pack.jpg?v=1793590086",
+      "price": 55.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Crew",
+        "category": "fashion",
+        "cross_store_matches": [
+          "fashionnova.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-07T18:11:19+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Dashboard Wireless Car Charger (HaloLock) - Black",
+      "url": "https://esrgear.com/products/15w-dashboard-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Dashboard-Wireless-Car-Charger-_HaloLock_-Black-ESR-234342256.jpg?v=1765504852",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-07T18:11:19+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Women's Pajama Pants",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-womens-pajama-pants",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($40.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Women_s_Pajama_Pants-1383.jpg?v=1768952305",
+      "price": 40.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Women's PJ Pants",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Belle Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-belle-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($64.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Belle_Dress_with_Bodysuit-1355.jpg?v=1768954598",
+      "price": 64.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Princess Dress",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Bow Back Skater Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-bow-back-skater-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Bow_Back_Skater_Dress_with_Bodysuit-1653.jpg?v=1769020477",
+      "price": 42.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Dress W/B Skater",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Dogs Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-dogs-short-sleeve-snap-bodysuit-dress",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS112-DDG-LIFESTYLE-1.jpg?v=1793312461",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Posh Peanut",
+        "product_type": "Bodysuit",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Dogs Men's Pajama Pants",
+      "url": "https://poshpeanut.com/products/disney-dogs-mens-relaxed-pajama-pants",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-AD037-DDG-LIFESTYLE-2.jpg?v=1793312848",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Posh Peanut",
+        "product_type": "Bottoms",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Performance On-The-Go Jacket - Marathon Blue",
+      "url": "https://aloyoga.com/products/m4187r-performance-on-the-go-jacket-marathon-blue",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trxtraining.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/M4187R_06037_b1_s1_a005_1_m214.jpg?v=1744466148",
+      "price": 138.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Alo Yoga",
+        "product_type": "Men:Outerwear:Jackets",
+        "category": "fitness",
+        "cross_store_matches": [
+          "trxtraining.com"
+        ]
+      },
+      "detected_at": "2026-11-07T23:12:29+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Standout Cropped Tank - Black",
+      "url": "https://aloyoga.com/products/w2750r-standout-cropped-tank-black",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($64.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/W2750R_01_b1_s1_a1_1_m18.jpg?v=1706154725",
+      "price": 64.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Alo Yoga",
+        "product_type": "Women:Tops:Tanks",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-07T23:12:29+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "hexclad.com",
+      "title": "Small Silicone Baking Mat Set, 2-pk",
+      "url": "https://hexclad.com/products/small-silicone-baking-mat-set-2-pk",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0037/2110/1430/files/PLP_2_pack_small_silicone_baking_mat_MainImage_Desktop_3e7da3bd-b9ef-4196-a4ba-8f3eb01a11ee.png?v=1793634937",
+      "price": 29.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "HexClad Cookware",
+        "product_type": "Bakeware",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Soup Bowl Pack",
+      "url": "https://eastfork.com/products/soup-bowl-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fromourplace.com, stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB3_PDP.jpg?v=1695662586",
+      "price": 158.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 55,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "fromourplace.com",
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "stasherbag.com",
+      "title": "Reusable Silicone Baking Mat",
+      "url": "https://stasherbag.com/products/silicone-baking-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: hexclad.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2237/5935/files/BakingMat_MintGreen_LS_v1_2800.jpg?v=1787617648",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Stasher",
+        "product_type": "Baking Mat",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "hexclad.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Long Sleeve Pique Polo - Beige",
+      "url": "https://fashionnova.com/products/classic-long-sleeve-pique-polo-fncolorname-beige",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_10_B526MSW0937_Beige_KP_AM_08-12-31_0048-6_CM.jpg?v=1793991534",
+      "price": 15.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 40,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Knit Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Heavyweight Oversized Polo - Black",
+      "url": "https://fashionnova.com/products/classic-heavyweight-oversized-polo-fncolorname-black",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_13_B526MSW0935_Black_KP_AM_08-26-22_0068-5_CM.jpg?v=1793991635",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Knit Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Rib Knit Quarter Zip Sweater - Black",
+      "url": "https://fashionnova.com/products/rib-knit-quarter-zip-sweater-fncolorname-black",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_56_P526MSW1213_Black_ZSR_KP_AM_13-20-38_0346-1_YB_CM.jpg?v=1793993836",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Shadowstorms (Comfort Short)",
+      "url": "https://chubbiesshorts.com/products/the-shadowstorms-comfort-short",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Shadowstorms_20_28Comfort_20Short_29_086261-00_OF.webp?v=1769617788",
+      "price": 49.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Dressy Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/all-navy-dressy-polo-3-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Dressy-Polo-regularTCT4022_1.jpg?v=1793818118",
+      "price": 99.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    }
+  ],
+  "store_errors": {}
+}

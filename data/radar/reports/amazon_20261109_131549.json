@@ -1,0 +1,318 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-09T09:15:44+00:00",
+  "finished_at": "2026-11-09T09:15:49+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 2,
+    "items_scanned": 60,
+    "filtered_out": 18,
+    "first_run_pages": 0,
+    "signals_above_threshold": 12
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Fhumsh Wireless Earbuds, Bluetooth 6.0 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Cancel",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#4)",
+        "🌱 Yeni yüksələn məhsul (299 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ep1QDS51L._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 4,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 299,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Heads",
+      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "💎 Erkən trend: cəmi 55 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.98 → tövsiyə satış: ~$59.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cmAChhQKL._AC_UL900_SR900,600_.jpg",
+      "price": 23.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1MJ6LW",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 55,
+        "suggested_dtc_price": 59.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "TRAUSI Wireless Earbuds Bluetooth Headphones, 54H Playtime Stereo Over Ear Buds with ENC Noise Cancelling, LED Power Display,",
+      "url": "https://www.amazon.com/dp/B0HHS6TH1Q",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "💎 Erkən trend: cəmi 48 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.99 → tövsiyə satış: ~$52.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714q0+lMZuL._AC_UL900_SR900,600_.jpg",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHS6TH1Q",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 48,
+        "suggested_dtc_price": 52.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "💎 Erkən trend: cəmi 62 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 62,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Black) | JBL Pure Bass Sound, Up to 76H Battery Life (19H More",
+      "url": "https://www.amazon.com/dp/B0GHY4PR3N",
+      "score": 60,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "🌱 Yeni yüksələn məhsul (236 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.95 → tövsiyə satış: ~$99.88)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bxgOa0vCL._AC_UL900_SR900,600_.jpg",
+      "price": 39.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GHY4PR3N",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 236,
+        "suggested_dtc_price": 99.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "8-in-1 Power Strip, Round USB & Type-C Fast Charging Station for Phones | 8-in-1 design with built-in charging ports eliminat",
+      "url": "https://www.amazon.com/dp/B0H989CW82",
+      "score": 50,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "💎 Erkən trend: cəmi 12 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616pcTTlM9L._AC_UL900_SR900,600_.jpg",
+      "price": 4.39,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H989CW82",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 12,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Sports Bluetooth Headphones, 80Hrs Playtime Wireless Earbuds with LED Power Display, IPX7 Waterproof Earphones for W",
+      "url": "https://www.amazon.com/dp/B0HJ1QBMNL",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $22.78 → tövsiyə satış: ~$56.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+ymZOU3RL._AC_UL900_SR900,600_.jpg",
+      "price": 22.78,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1QBMNL",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 2584,
+        "suggested_dtc_price": 56.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Active Noise Cancelling Ear Buds Wireless Bluetooth Headphones 80H Playtime Display Charging Case 50dB ANC Over Ear Hooks Ear",
+      "url": "https://www.amazon.com/dp/B0H68WX368",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "💎 Erkən trend: cəmi 67 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71JunErTWgL._AC_UL900_SR900,600_.jpg",
+      "price": 89.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H68WX368",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 67,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "BassBloom ROAR 3 Portable Bluetooth Speaker,IPX6 Waterproof,20W | Powerful Sound with JIKE Bass,24H Playtime,Bluetooth 5.4,RG",
+      "url": "https://www.amazon.com/dp/B0HJSW1G3J",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.99 → tövsiyə satış: ~$74.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SjRnpTuUL._AC_UL900_SR900,600_.jpg",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJSW1G3J",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 560,
+        "suggested_dtc_price": 74.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "JBL Tune 730BT (2026): Wireless Over-Ear Headphones Bluetooth® 6.0 (Black) | Powerful JBL Pure Bass Sound, 2 beamforming mics",
+      "url": "https://www.amazon.com/dp/B0GMTNSFR3",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "🌱 Yeni yüksələn məhsul (244 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719cE5C0vML._AC_UL900_SR900,600_.jpg",
+      "price": 59.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GMTNSFR3",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 244,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0H8NFRF3S",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.97 → tövsiyə satış: ~$49.92)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rw2e+AtUL._AC_UL900_SR900,600_.jpg",
+      "price": 19.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8NFRF3S",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 669,
+        "suggested_dtc_price": 49.92,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Android 16 Tablet 10 Inch, 24GB RAM 64GB ROM 1TB,HD IPS,Fast WiFi 6, BT 5.4 | Electronics Tablets with HD IPS Touchscreen, 60",
+      "url": "https://www.amazon.com/dp/B0HN1ZXSWH",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "🌱 Yeni yüksələn məhsul (361 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bv3j7wXTL._AC_UL900_SR900,600_.jpg",
+      "price": 79.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HN1ZXSWH",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 361,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-09T09:15:49+00:00"
+    }
+  ],
+  "page_errors": {}
+}

@@ -1,0 +1,540 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-14T17:56:07+00:00",
+  "finished_at": "2026-11-14T17:56:21+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 17,
+    "stores_ok": 16,
+    "products_scanned": 2797,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 372
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-14T13:54:48+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-14T10:53:33+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-14T09:53:08+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nomatic.com",
+      "title": "System Lightweight Packing Cube Set",
+      "url": "https://nomatic.com/products/system-lightweight-packing-cube-set",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: baboontothemoon.com, beistravel.com, matadorup.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0745/1299/files/SYPCS4-BLK-01_S26_SystemTRPK_31_0022-1.png?v=1794252774",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "NOMATIC",
+        "product_type": "Travel Accessories",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "baboontothemoon.com",
+          "beistravel.com",
+          "matadorup.com",
+          "snowpeak.com"
+        ]
+      },
+      "detected_at": "2026-11-14T16:55:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nomatic.com",
+      "title": "System Laptop Sleeve 3L",
+      "url": "https://nomatic.com/products/system-laptop-sleeve-3l",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($79.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cotopaxi.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0745/1299/files/SYLS3L-BLK-01_SystemLaptopSleeve3L_BLACK_NOMATIC_01.png?v=1794252695",
+      "price": 79.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "NOMATIC",
+        "product_type": "Travel Accessories",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "cotopaxi.com"
+        ]
+      },
+      "detected_at": "2026-11-14T16:55:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Afterglow Wide Leg Track Pant - Black",
+      "url": "https://aloyoga.com/products/w54151r-afterglow-wide-leg-track-pant-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: outdoorvoices.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/W54151R_01_b1_s1_a1_1_m54.jpg?v=1732563367",
+      "price": 89.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Alo Yoga",
+        "product_type": "Women:Bottoms:Pants",
+        "category": "fitness",
+        "cross_store_matches": [
+          "outdoorvoices.com"
+        ]
+      },
+      "detected_at": "2026-11-14T12:54:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-red-mahogany-navy",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: aloyoga.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-RedMahogany-Front-2631.png?v=1793903082",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "aloyoga.com"
+        ]
+      },
+      "detected_at": "2026-11-14T12:54:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-navy-iris",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: aloyoga.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-NavyIris-Front-00041.png?v=1793903078",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "aloyoga.com"
+        ]
+      },
+      "detected_at": "2026-11-14T12:54:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-chinois-green-mediterranean",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: aloyoga.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-ChinoisGreen-Front-00006.png?v=1793903073",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "aloyoga.com"
+        ]
+      },
+      "detected_at": "2026-11-14T12:54:23+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Core USB-C to 4K HDMI Adapter",
+      "url": "https://satechi.net/products/core-usb-c-to-4k-hdmi-adapter",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: masterdynamic.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/CoreUSB-Cto4KHDMIAdapterindigo2.webp?v=1794187710",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Satechi",
+        "product_type": "Adapters ## Cables",
+        "category": "electronics",
+        "cross_store_matches": [
+          "masterdynamic.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Form Desk Mat",
+      "url": "https://satechi.net/products/form-desk-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FormDeskMatindigo6.webp?v=1794182529",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Satechi",
+        "product_type": "Accessories",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Classic Magnetic Wallet Stand - Polka Hi",
+      "url": "https://esrgear.com/products/polka-hi-magsafe-phone-wallet-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Polka_Hi_Magsafe_Wallet_Stand.jpg?v=1794451296",
+      "price": 42.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 Pro UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/toughest-iphone-17-pro-armorite-corning-glass-screen-protectors-2-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-Pro-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240680017.jpg?v=1783010715",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP13PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP12PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 14 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-14-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP14PMAX_LondonFog.jpg?v=1793124994",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 14 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-14T17:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beistravel.com",
+      "title": "The Luggage Tag in Midnight",
+      "url": "https://beistravel.com/products/the-luggage-tag-in-midnight",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($28.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: carlfriedrik.com, monos.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0032/3423/4479/files/BEIS197301-TheLuggageTag-Midnight-Product-0347_78985080-2974-40d2-ae13-0866050a3e30.jpg?v=1792090819",
+      "price": 28.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "BÉIS Travel",
+        "product_type": "ACCESSORIES, LUGGAGE TAG",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "carlfriedrik.com",
+          "monos.com"
+        ]
+      },
+      "detected_at": "2026-11-14T16:55:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "quadlockcase.com",
+      "title": "Tempered Glass Screen Protectors - iPad",
+      "url": "https://quadlockcase.com/products/tempered-glass-screen-protectors-ipad",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0108/1062/files/iPadMini_ScreenProtector_Thumbnail.png?v=1693954753",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "iPad",
+        "product_type": "Screen Protectors",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com"
+        ]
+      },
+      "detected_at": "2026-11-14T15:55:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Princess Ball Petticoat Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-princess-ball-puff-sleeve-embroidery-bow-petticoat-bodysuit-dress",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS152-DBP-LIFESTYLE-2.jpg?v=1784572987",
+      "price": 74.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Posh Peanut",
+        "product_type": "Dresses",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-14T13:54:48+00:00"
+    }
+  ],
+  "store_errors": {
+    "nuphy.com": "rate_limited (429) — skipped this run"
+  }
+}

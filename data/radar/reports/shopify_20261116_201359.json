@@ -1,0 +1,538 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-16T16:13:46+00:00",
+  "finished_at": "2026-11-16T16:13:59+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 17,
+    "stores_ok": 16,
+    "products_scanned": 2797,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 355
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T11:55:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-16T13:56:53+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-16T12:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-14T23:58:47+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Core USB-C to 4K HDMI Adapter",
+      "url": "https://satechi.net/products/core-usb-c-to-4k-hdmi-adapter",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: masterdynamic.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/CoreUSB-Cto4KHDMIAdapterindigo2.webp?v=1794187710",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Satechi",
+        "product_type": "Adapters ## Cables",
+        "category": "electronics",
+        "cross_store_matches": [
+          "masterdynamic.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Form Desk Mat",
+      "url": "https://satechi.net/products/form-desk-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FormDeskMatindigo6.webp?v=1794182529",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Satechi",
+        "product_type": "Accessories",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Classic Magnetic Wallet Stand - Polka Hi",
+      "url": "https://esrgear.com/products/polka-hi-magsafe-phone-wallet-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Polka_Hi_Magsafe_Wallet_Stand.jpg?v=1794451296",
+      "price": 37.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 Pro UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/toughest-iphone-17-pro-armorite-corning-glass-screen-protectors-2-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-Pro-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240680017.jpg?v=1783010715",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/strongest-iphone-17-ultrafit-corning-glass-screen-protectors-2-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240679212.jpg?v=1783010645",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP13PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP12PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 14 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-14-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP14PMAX_LondonFog.jpg?v=1793124994",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 14 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T16:13:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Boxer Briefs 12-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs-12-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACKX4.jpg?v=1771791744",
+      "price": 119.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 60,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-16T13:56:53+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "puravidabracelets.com",
+      "title": "Green Bracelet",
+      "url": "https://puravidabracelets.com/products/green-bracelet",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 75% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: mvmt.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0297/6313/files/Solid-Original-Green_fd1cd10b-99ba-4319-99d1-1ca5706a7911.jpg?v=1794456268",
+      "price": 2.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 75,
+        "vendor": "Pura Vida Bracelets",
+        "product_type": "Bracelets",
+        "category": "fashion",
+        "cross_store_matches": [
+          "mvmt.com"
+        ]
+      },
+      "detected_at": "2026-11-16T13:56:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "gisou.com",
+      "title": "The Mini Lip Collectibles",
+      "url": "https://gisou.com/products/the-mini-lip-collectibles",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/DTC_SETC_PDP_02.jpg?v=1776412893",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Gisou EU",
+        "product_type": "Set",
+        "category": "beauty",
+        "cross_store_matches": [
+          "kyliecosmetics.com"
+        ]
+      },
+      "detected_at": "2026-11-16T12:56:18+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Holiday Centerpiece with Candle",
+      "url": "https://livelyroot.com/products/mixed-evergreen-holiday-centerpiece-with-candle-18",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($72.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/Center-Piece-Mixed-Eved-Green-w--Candle_Deco-Pot_6in.jpg?v=1793928452",
+      "price": 72.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Lively Root",
+        "product_type": "Wreaths & Garlands",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-16T11:55:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Holiday Centerpiece",
+      "url": "https://livelyroot.com/products/mixed-evergreen-holiday-centerpiece-12",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: vitruvi.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/pomelli_photoshoot_image_1_1_1110.png?v=1794331489",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Lively Root",
+        "product_type": "Wreaths & Garlands",
+        "category": "home",
+        "cross_store_matches": [
+          "vitruvi.com"
+        ]
+      },
+      "detected_at": "2026-11-16T11:55:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Miniature Christmas Tree Kit",
+      "url": "https://livelyroot.com/products/miniature-christmas-tree-kit",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/pomelli_photoshoot_image_1_1_1108_1.png?v=1794195170",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-16T11:55:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beistravel.com",
+      "title": "The Luggage Tag in Midnight",
+      "url": "https://beistravel.com/products/the-luggage-tag-in-midnight",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($28.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: carlfriedrik.com, monos.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0032/3423/4479/files/BEIS197301-TheLuggageTag-Midnight-Product-0347_78985080-2974-40d2-ae13-0866050a3e30.jpg?v=1792090819",
+      "price": 28.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "BÉIS Travel",
+        "product_type": "ACCESSORIES, LUGGAGE TAG",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "carlfriedrik.com",
+          "monos.com"
+        ]
+      },
+      "detected_at": "2026-11-15T02:59:59+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nomatic.com",
+      "title": "System Lightweight Packing Cube Set",
+      "url": "https://nomatic.com/products/system-lightweight-packing-cube-set",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: baboontothemoon.com, beistravel.com, matadorup.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0745/1299/files/SYPCS4-BLK-01_S26_SystemTRPK_31_0022-1.png?v=1794252774",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "NOMATIC",
+        "product_type": "Travel Accessories",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "baboontothemoon.com",
+          "beistravel.com",
+          "matadorup.com",
+          "snowpeak.com"
+        ]
+      },
+      "detected_at": "2026-11-15T02:59:59+00:00"
+    }
+  ],
+  "store_errors": {
+    "nuphy.com": "rate_limited (429) — skipped this run"
+  }
+}

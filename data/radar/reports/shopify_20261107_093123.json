@@ -1,0 +1,535 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-07T05:31:10+00:00",
+  "finished_at": "2026-11-07T05:31:23+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 19,
+    "stores_ok": 19,
+    "products_scanned": 2213,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 43
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Wireless Car Charger with 36W Adapter - Black",
+      "url": "https://esrgear.com/products/esr-halolock-magnetic-wireless-car-charger-36w-adapter",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Wireless-Car-Charger-with-36W-Adapter-Black-ESR-247970627.jpg?v=1793379139",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 34,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-06T23:30:02+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-06T21:29:33+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 6-Pack",
+      "url": "https://trueclassictees.com/products/black-briefs-6-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 67% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACK6PACK.png?v=1776890150",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 67,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-short-sleeve-polo-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($79.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/pack10.jpg?v=1793229531",
+      "price": 79.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "thursdayboots.com",
+      "title": "[W] Forever Flannel Shirt | Red & Black",
+      "url": "https://thursdayboots.com/products/w-mens-forever-flannel-shirt-red-black",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Mens-Shirts-ForeverFlannel-RedBlack-101223-Front.jpg?v=1697673869",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 31,
+        "vendor": "Thursday - Men's Shirts (WH)",
+        "product_type": "Shirts",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Lemon Lime Prayer Plant",
+      "url": "https://livelyroot.com/products/lemon-lime-prayer-plant",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($43.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: thesill.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/PB_MLL_ECO_CO_4IN1_living.jpg?v=1793670958",
+      "price": 43.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "thesill.com"
+        ]
+      },
+      "detected_at": "2026-11-07T04:31:08+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Shadowstorms (Comfort Short)",
+      "url": "https://chubbiesshorts.com/products/the-shadowstorms-comfort-short",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Shadowstorms_20_28Comfort_20Short_29_086261-00_OF.webp?v=1769617788",
+      "price": 49.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-06T20:29:16+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "gravityblankets.com",
+      "title": "Weighted Eye Mask",
+      "url": "https://gravityblankets.com/products/weighted-eye-mask",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: parachutehome.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2034/5801/files/Weigthed_EyeMask_Front_Flat_Ecomm1.png?v=1793292499",
+      "price": 59.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Gravity Blankets",
+        "product_type": "",
+        "category": "home",
+        "cross_store_matches": [
+          "parachutehome.com"
+        ]
+      },
+      "detected_at": "2026-11-07T04:31:08+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "cozyearth.com",
+      "title": "Candle UNWIND",
+      "url": "https://cozyearth.com/products/candle-unwind",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2114/3697/files/Candle_Unwind_1.jpg?v=1793421999",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Cozy Earth",
+        "product_type": "",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-07T04:31:08+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Universal Adjustable Lanyard Wrist Strap",
+      "url": "https://spigen.com/products/universal-adjustable-lanyard-wrist-strap",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_adjustable_lanyard_02.jpg?v=1793924648",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Accessories",
+        "product_type": "Phone Straps",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Rugged Armor + Athlex Air",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-rugged-armor-athlex-air",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_ultra_rugged_armor_athlex_air_01.jpg?v=1793649859",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Athlex Air M",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-athlex-air-m",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_athlex_air_m_blk_orange_01.jpg?v=1793310828",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Purple",
+      "url": "https://esrgear.com/products/purple-ipad-pro-13-m5-airstance-magnetic-folio-case",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Purple-ESR-247982055.jpg?v=1793379422",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Sky Blue",
+      "url": "https://esrgear.com/products/ipad-pro-13-m5-airstance-magnetic-folio-case-sky-blue",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Sky-Blue-ESR-247980377.jpg?v=1793379392",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP13PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP12PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 15 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-15-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP15PMAX_LondonFog.jpg?v=1793895862",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 15 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-07T03:30:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "baboontothemoon.com",
+      "title": "Final Few: Packable Backpack",
+      "url": "https://baboontothemoon.com/products/final-few-packable-backpack",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: matadorup.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/6569/6313/files/Packable-Backpack_Front_wisteria.png?v=1779786736",
+      "price": 49.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 29,
+        "vendor": "BABOON TO THE MOON",
+        "product_type": "Backpacks",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "matadorup.com"
+        ]
+      },
+      "detected_at": "2026-11-07T02:30:38+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "ecoflow.com",
+      "title": "EcoFlow Solar to HP500 Charging Cable",
+      "url": "https://ecoflow.com/products/ecoflow-solar-to-hp500-charging-cable",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($69.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: jackery.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1996/9707/files/ecoflow-ecoflow-solar-to-hp500-charging-cable-1265125894.png?v=1793247909",
+      "price": 69.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "EcoFlow",
+        "product_type": "",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "jackery.com"
+        ]
+      },
+      "detected_at": "2026-11-07T02:30:38+00:00"
+    }
+  ],
+  "store_errors": {}
+}

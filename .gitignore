@@ -1,0 +1,30 @@
+# Secrets & Environment
+.env
+.env.*
+!.env.example
+
+# Python / Virtualenvs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime Data & SQLite DBs
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/discovered_history.json
+data/winning_catalog.json
+data/1688_cookies.json
+data/postiz/
+
+# Generated Media (Videos, Audio, PNGs)
+ad_video/
+static/media/
+*.mp3
+1688_test.json
+AIdrop101/
+
+# OS / IDE
+.DS_Store
+Thumbs.db

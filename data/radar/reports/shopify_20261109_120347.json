@@ -1,0 +1,553 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-09T08:03:36+00:00",
+  "finished_at": "2026-11-09T08:03:47+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 19,
+    "stores_ok": 0,
+    "products_scanned": 0,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 20
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Dashboard Wireless Car Charger (HaloLock) - Black",
+      "url": "https://esrgear.com/products/15w-dashboard-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Dashboard-Wireless-Car-Charger-_HaloLock_-Black-ESR-234342256.jpg?v=1765504852",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Crew Neck 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fashionnova.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Crew-Neck-3-Pack.jpg?v=1793590086",
+      "price": 55.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Crew",
+        "category": "fashion",
+        "cross_store_matches": [
+          "fashionnova.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "cozyearth.com",
+      "title": "Candle UNWIND",
+      "url": "https://cozyearth.com/products/candle-unwind",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2114/3697/files/Candle_Unwind_1.jpg?v=1793421999",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Cozy Earth",
+        "product_type": "",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-08T09:34:06+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Lemon Lime Prayer Plant",
+      "url": "https://livelyroot.com/products/lemon-lime-prayer-plant",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($43.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: thesill.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/PB_MLL_ECO_CO_4IN1_living.jpg?v=1793670958",
+      "price": 43.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "thesill.com"
+        ]
+      },
+      "detected_at": "2026-11-08T09:34:06+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Universal Adjustable Lanyard Wrist Strap",
+      "url": "https://spigen.com/products/universal-adjustable-lanyard-wrist-strap",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_adjustable_lanyard_02.jpg?v=1793924648",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Accessories",
+        "product_type": "Phone Straps",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Rugged Armor + Athlex Air",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-rugged-armor-athlex-air",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_ultra_rugged_armor_athlex_air_01.jpg?v=1793649859",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Charging Pad (15W)- Black - 1 Set",
+      "url": "https://esrgear.com/products/qi2-mini-wireless-charger-black-1-set",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: status.co"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Charging-Pad-_15W_-Black-1-Set-ESR-234343952.jpg?v=1765509746",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 17,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "status.co"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP13PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP12PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 15 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-15-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP15PMAX_LondonFog.jpg?v=1793895862",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 15 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-08T08:33:51+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bark.co",
+      "title": "Fa-la-la-la Lattes Plush Dog Toy Bundle",
+      "url": "https://bark.co/products/falalala-lattes",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 45% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: wildone.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0559/3713/8775/files/215079_1.png?v=1789407448",
+      "price": 10.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 45,
+        "vendor": "BARK",
+        "product_type": "Toys",
+        "category": "pet",
+        "cross_store_matches": [
+          "wildone.com"
+        ]
+      },
+      "detected_at": "2026-11-08T01:12:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "boccesbakery.com",
+      "title": "The Whole Holiday Bundle",
+      "url": "https://boccesbakery.com/products/the-whole-holiday-bundle",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($28.80)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: nativepet.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0233/7363/files/TheWholeHolidayBundle.jpg?v=1791918878",
+      "price": 28.8,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 10,
+        "vendor": "Elf x Bocce's",
+        "product_type": "Seasonal",
+        "category": "pet",
+        "cross_store_matches": [
+          "nativepet.com"
+        ]
+      },
+      "detected_at": "2026-11-08T01:12:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Women's Pajama Pants",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-womens-pajama-pants",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($40.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Women_s_Pajama_Pants-1383.jpg?v=1768952305",
+      "price": 40.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Women's PJ Pants",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Belle Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-belle-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($64.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Belle_Dress_with_Bodysuit-1355.jpg?v=1768954598",
+      "price": 64.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Princess Dress",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Bow Back Skater Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-bow-back-skater-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Bow_Back_Skater_Dress_with_Bodysuit-1653.jpg?v=1769020477",
+      "price": 42.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Dress W/B Skater",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Dogs Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-dogs-short-sleeve-snap-bodysuit-dress",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS112-DDG-LIFESTYLE-1.jpg?v=1793312461",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Posh Peanut",
+        "product_type": "Bodysuit",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Dogs Men's Pajama Pants",
+      "url": "https://poshpeanut.com/products/disney-dogs-mens-relaxed-pajama-pants",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-AD037-DDG-LIFESTYLE-2.jpg?v=1793312848",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Posh Peanut",
+        "product_type": "Bottoms",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    }
+  ],
+  "store_errors": {
+    "brooklinen.com": "rate_limited (429) — skipped this run",
+    "parachutehome.com": "rate_limited (429) — skipped this run",
+    "floydhome.com": "rate_limited (429) — skipped this run",
+    "bollandbranch.com": "rate_limited (429) — skipped this run",
+    "cozyearth.com": "rate_limited (429) — skipped this run",
+    "buffy.co": "rate_limited (429) — skipped this run",
+    "gravityblankets.com": "rate_limited (429) — skipped this run",
+    "bearaby.com": "rate_limited (429) — skipped this run",
+    "thesill.com": "rate_limited (429) — skipped this run",
+    "livelyroot.com": "rate_limited (429) — skipped this run",
+    "homesick.com": "rate_limited (429) — skipped this run",
+    "pfcandleco.com": "rate_limited (429) — skipped this run",
+    "vitruvi.com": "rate_limited (429) — skipped this run",
+    "schoolhouse.com": "rate_limited (429) — skipped this run",
+    "liveouter.com": "rate_limited (429) — skipped this run",
+    "yardbird.com": "rate_limited (429) — skipped this run",
+    "levitatefoundry.com": "rate_limited (429) — skipped this run",
+    "snowehome.com": "rate_limited (429) — skipped this run",
+    "branchfurniture.com": "rate_limited (429) — skipped this run"
+  }
+}

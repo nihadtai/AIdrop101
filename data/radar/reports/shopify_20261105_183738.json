@@ -1,0 +1,38 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-05T14:37:34+00:00",
+  "finished_at": "2026-11-05T14:37:38+00:00",
+  "baseline_run": true,
+  "stats": {
+    "stores_total": 22,
+    "stores_ok": 1,
+    "products_scanned": 62,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 1,
+    "signals_above_threshold": 0
+  },
+  "signals": [],
+  "store_errors": {
+    "greatjonesgoods.com": "rate_limited (429) — skipped this run",
+    "fellowproducts.com": "rate_limited (429) — skipped this run",
+    "fromourplace.com": "rate_limited (429) — skipped this run",
+    "misen.com": "rate_limited (429) — skipped this run",
+    "madeincookware.com": "HTTP 403 / not a public Shopify catalogue",
+    "materialkitchen.com": "rate_limited (429) — skipped this run",
+    "hexclad.com": "rate_limited (429) — skipped this run",
+    "ooni.com": "rate_limited (429) — skipped this run",
+    "thebeast.com": "rate_limited (429) — skipped this run",
+    "gozney.com": "rate_limited (429) — skipped this run",
+    "fable.com": "HTTP 403 / not a public Shopify catalogue",
+    "yearandday.com": "rate_limited (429) — skipped this run",
+    "stojo.co": "ConnectionError: HTTPSConnectionPool(host='stojo.co', port=443): Max retries exceeded with url: /products.json?limit=250 (Caused by NameResolutionError(\"HTTPSConnection(host='stojo.co', port=443): Failed to resolve 'stojo.co' ([Errno 11001] getaddrinfo failed)\"))",
+    "eastfork.com": "rate_limited (429) — skipped this run",
+    "wandpdesign.com": "rate_limited (429) — skipped this run",
+    "blendjet.com": "rate_limited (429) — skipped this run",
+    "stasherbag.com": "rate_limited (429) — skipped this run",
+    "brumate.com": "rate_limited (429) — skipped this run",
+    "corkcicle.com": "rate_limited (429) — skipped this run",
+    "carawayhome.com": "HTTP 404 / not a public Shopify catalogue",
+    "nutribullet.com": "HTTP 404 / not a public Shopify catalogue"
+  }
+}

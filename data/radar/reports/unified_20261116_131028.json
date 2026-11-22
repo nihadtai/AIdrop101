@@ -1,0 +1,551 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-16T09:10:28+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 13,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 1
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Fhumsh Wireless Earbuds, Bluetooth 6.0 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Cancel",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🌱 Yeni yüksələn məhsul (462 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ep1QDS51L._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 462,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-16T09:10:20+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Bluetooth 5.4 Headphones HIFI Stereo/Crystal clear White | Noise Cancelling Mic Ear buds with 50H Playback,",
+      "url": "https://www.amazon.com/dp/B0HMHV3ZX5",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "💎 Erkən trend: cəmi 67 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.99 → tövsiyə satış: ~$47.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61PPiCaslSL._AC_UL900_SR900,600_.jpg",
+      "price": 18.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMHV3ZX5",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 67,
+        "suggested_dtc_price": 47.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-16T09:10:20+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 115 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 115,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-16T09:10:20+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-14T23:58:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-14T20:57:36+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-14T19:57:10+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Heads",
+      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "🌱 Yeni yüksələn məhsul (424 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.98 → tövsiyə satış: ~$59.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cmAChhQKL._AC_UL900_SR900,600_.jpg",
+      "price": 23.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1MJ6LW",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 424,
+        "suggested_dtc_price": 59.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-16T09:10:20+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "TRAUSI Wireless Earbuds Bluetooth Headphones, 54H Playtime Stereo Over Ear Buds with ENC Noise Cancelling, LED Power Display,",
+      "url": "https://www.amazon.com/dp/B0HHS6TH1Q",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "🌱 Yeni yüksələn məhsul (190 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.99 → tövsiyə satış: ~$52.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714q0+lMZuL._AC_UL900_SR900,600_.jpg",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHS6TH1Q",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 190,
+        "suggested_dtc_price": 52.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-16T09:10:20+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Core USB-C to 4K HDMI Adapter",
+      "url": "https://satechi.net/products/core-usb-c-to-4k-hdmi-adapter",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: masterdynamic.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/CoreUSB-Cto4KHDMIAdapterindigo2.webp?v=1794187710",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Satechi",
+        "product_type": "Adapters ## Cables",
+        "category": "electronics",
+        "cross_store_matches": [
+          "masterdynamic.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "Form Desk Mat",
+      "url": "https://satechi.net/products/form-desk-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: moft.us"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FormDeskMatindigo6.webp?v=1794182529",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Satechi",
+        "product_type": "Accessories",
+        "category": "electronics",
+        "cross_store_matches": [
+          "moft.us"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Classic Magnetic Wallet Stand - Polka Hi",
+      "url": "https://esrgear.com/products/polka-hi-magsafe-phone-wallet-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Polka_Hi_Magsafe_Wallet_Stand.jpg?v=1794451296",
+      "price": 42.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 Pro UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/toughest-iphone-17-pro-armorite-corning-glass-screen-protectors-2-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-Pro-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240680017.jpg?v=1783010715",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPhone 17 UltraFit Armorite®️ Pro Screen Protector - 2 Pack",
+      "url": "https://esrgear.com/products/strongest-iphone-17-ultrafit-corning-glass-screen-protectors-2-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPhone-17-UltraFit-Armoriter_-Pro-Screen-Protector-2-Pack-ESR-240679212.jpg?v=1783010645",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 6,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP13PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP12PMAX_LondonFog.jpg?v=1793124992",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog The Kiss iPhone 14 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-the-kiss-eco-friendly-iphone-14-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/THE-KISS_IP14PMAX_LondonFog.jpg?v=1793124994",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 14 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-16T09:10:25+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Holiday Centerpiece with Candle",
+      "url": "https://livelyroot.com/products/mixed-evergreen-holiday-centerpiece-with-candle-18",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($72.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/Center-Piece-Mixed-Eved-Green-w--Candle_Deco-Pot_6in.jpg?v=1793928452",
+      "price": 72.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Lively Root",
+        "product_type": "Wreaths & Garlands",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-16T08:10:18+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Holiday Centerpiece",
+      "url": "https://livelyroot.com/products/mixed-evergreen-holiday-centerpiece-12",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: vitruvi.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/pomelli_photoshoot_image_1_1_1110.png?v=1794331489",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Lively Root",
+        "product_type": "Wreaths & Garlands",
+        "category": "home",
+        "cross_store_matches": [
+          "vitruvi.com"
+        ]
+      },
+      "detected_at": "2026-11-16T08:10:18+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Miniature Christmas Tree Kit",
+      "url": "https://livelyroot.com/products/miniature-christmas-tree-kit",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: homesick.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/pomelli_photoshoot_image_1_1_1108_1.png?v=1794195170",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "homesick.com"
+        ]
+      },
+      "detected_at": "2026-11-16T08:10:18+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beistravel.com",
+      "title": "The Luggage Tag in Midnight",
+      "url": "https://beistravel.com/products/the-luggage-tag-in-midnight",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($28.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: carlfriedrik.com, monos.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0032/3423/4479/files/BEIS197301-TheLuggageTag-Midnight-Product-0347_78985080-2974-40d2-ae13-0866050a3e30.jpg?v=1792090819",
+      "price": 28.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "BÉIS Travel",
+        "product_type": "ACCESSORIES, LUGGAGE TAG",
+        "category": "outdoor",
+        "cross_store_matches": [
+          "carlfriedrik.com",
+          "monos.com"
+        ]
+      },
+      "detected_at": "2026-11-15T02:59:59+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

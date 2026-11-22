@@ -1,0 +1,541 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-05T14:48:00+00:00",
+  "finished_at": "2026-11-05T14:48:45+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 6,
+    "pages_fetched": 12,
+    "pages_ok": 11,
+    "items_scanned": 330,
+    "filtered_out": 102,
+    "first_run_pages": 0,
+    "signals_above_threshold": 93
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "OneBug 100 Count Disposable XL Pee Wee Pet Training Pads for Dog, 28x34 in | Super Absorbent Leakproof, 6-Layer Protection, Q",
+      "url": "https://www.amazon.com/dp/B0HP1SDMFQ",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 73 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $34.99 → tövsiyə satış: ~$87.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81KdLZ3RkOL._AC_UL900_SR900,600_.jpg",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HP1SDMFQ",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 73,
+        "suggested_dtc_price": 87.48,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:automotive:new-releases",
+      "title": "2Pcs 1/2-28 to 3/4-16 Thread Adapter, Steel Oil Filter Converter w/ Washers | Precision thread conversion, rubber washers pre",
+      "url": "https://www.amazon.com/dp/B0HCPHWN3Y",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 11 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.77 → tövsiyə satış: ~$36.92)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Xd41A47hL._AC_UL900_SR900,600_.jpg",
+      "price": 14.77,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCPHWN3Y",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 11,
+        "suggested_dtc_price": 36.92,
+        "category": "automotive"
+      },
+      "detected_at": "2026-11-05T14:48:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "VIVITAN Facial Hair Removal for Women - Rechargeable Eyebrow & Face Shaver | 2-IN-1 Rechargeable Face Razors for Women, Eyebr",
+      "url": "https://www.amazon.com/dp/B0HGWXK6QQ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 92 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nWVEnx8XL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGWXK6QQ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 92,
+        "suggested_dtc_price": 31.99,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-05T14:48:21+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "New Upgrade Smart Dog Bark Collar for Small Medium Large Dogs 10-100lbs, Humane Anti-Bark Device with Anti-False Trigger & Ba",
+      "url": "https://www.amazon.com/dp/B0HHKYJHTT",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💎 Erkən trend: cəmi 43 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $34.98 → tövsiyə satış: ~$87.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81SYB-y2mFL._AC_UL900_SR900,600_.jpg",
+      "price": 34.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHKYJHTT",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 43,
+        "suggested_dtc_price": 87.45,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:automotive:new-releases",
+      "title": "Upgraded Electric Fuel Transfer Pump with Smart Auto-Stop, 3.8↑ GPM Gas Can Pump with 51\" Hose, 4 Adapters & Leak Guard, Batt",
+      "url": "https://www.amazon.com/dp/B0HFS21SJB",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "💎 Erkən trend: cəmi 69 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $34.98 → tövsiyə satış: ~$87.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Jq5NyOvBL._AC_UL900_SR900,600_.jpg",
+      "price": 34.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFS21SJB",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 69,
+        "suggested_dtc_price": 87.45,
+        "category": "automotive"
+      },
+      "detected_at": "2026-11-05T14:48:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:automotive:new-releases",
+      "title": "Prime Guard -50°F RV & Marine Premium Antifreeze | 6 Gallons | Ethanol-Based Formula | Ready-to-Use Water System Antifreeze|",
+      "url": "https://www.amazon.com/dp/B0HDZQGNRN",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 3 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717fstkYDGL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDZQGNRN",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 3,
+        "category": "automotive"
+      },
+      "detected_at": "2026-11-05T14:48:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:home-garden:new-releases",
+      "title": "Large Portable Printed Tote Bag for Women,Lightweight Foldable Reusable Shopping Bag for Travel,Storage,Grocery，Daily Go-out",
+      "url": "https://www.amazon.com/dp/B0HM424SHB",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "💎 Erkən trend: cəmi 4 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)",
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "🔥 Həmçinin new-releases siyahısında yer alır"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QAa9iAxOL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM424SHB",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 4,
+        "category": "home-garden"
+      },
+      "detected_at": "2026-11-05T14:48:05+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Fall & Thanksgiving Tablecloth Rectangular, Tartan Plaid, 60\"x84\" | Yarn Dyed Fabric Table Cloth for Autumn & Harves",
+      "url": "https://www.amazon.com/dp/B0H3NN4LNW",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#12)",
+        "💎 Erkən trend: cəmi 74 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.95 → tövsiyə satış: ~$49.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81-DbmUf1yL._AC_UL900_SR900,600_.jpg",
+      "price": 19.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NN4LNW",
+        "rank": 12,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 74,
+        "suggested_dtc_price": 49.88,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-05T14:48:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "24 Pack Glass Spice Jars : 492 Lables & Pepper Grinder & Bamboo Lids | 4oz Spice Containers: Dual Shaker Lids, Cleaning Brush",
+      "url": "https://www.amazon.com/dp/B0HDQ4XH5W",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "💎 Erkən trend: cəmi 11 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.99 → tövsiyə satış: ~$59.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81mHvQvL4xL._AC_UL900_SR900,600_.jpg",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDQ4XH5W",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 11,
+        "suggested_dtc_price": 59.97,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-05T14:48:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Fall Tablecloths Rectangular 6ft, 2-Pack Waterproof Slub Texture | 60x102 Inch, Stain Resistant Autumn Harvest & Tha",
+      "url": "https://www.amazon.com/dp/B0H3NCPLGS",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "💎 Erkən trend: cəmi 62 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81em4O4eJHL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NCPLGS",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 62,
+        "suggested_dtc_price": 49.97,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-05T14:48:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK 2 Pack Black Open Back Fitted Tablecloth Rectangle for 6ft Table | Wrinkle Resistant Washable Folding Table Cover, 3",
+      "url": "https://www.amazon.com/dp/B0H4T2VSBW",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "💎 Erkən trend: cəmi 44 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.49 → tövsiyə satış: ~$71.22)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512mvIrvEoL._AC_UL900_SR900,600_.jpg",
+      "price": 28.49,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4T2VSBW",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 44,
+        "suggested_dtc_price": 71.22,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-05T14:48:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "eos Naughty or Nice Lip Balm Gift Set- Stocking Stuffers, 0.25 oz, 3-pack",
+      "url": "https://www.amazon.com/dp/B0CWRJ7Y1V",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 23 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $10.83 → tövsiyə satış: ~$32.83)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dO+zrMnSL._AC_UL900_SR900,600_.jpg",
+      "price": 10.83,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0CWRJ7Y1V",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 23,
+        "suggested_dtc_price": 32.83,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-05T14:48:21+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "REMEDY 15% Azelaic Acid Complex Advanced Clarifying Serum | Redness, Dark Spots and Blemish-Prone Skin, Water-Light Texture,",
+      "url": "https://www.amazon.com/dp/B0HGKNXFX6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "💎 Erkən trend: cəmi 104 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.99 → tövsiyə satış: ~$62.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61m8lYWy3QL._AC_UL900_SR900,600_.jpg",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGKNXFX6",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 104,
+        "suggested_dtc_price": 62.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-05T14:48:21+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "OIRLVCE 24Rolls 360 Dog Poop Bags,Leak Proof for Dog Walks Lavender | 9\" x 13\" ,Leak-Proof,Extra Thick & Easy-Tear Dog Waste",
+      "url": "https://www.amazon.com/dp/B0H8HDKGKQ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🌱 Yeni yüksələn məhsul (346 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $10.99 → tövsiyə satış: ~$32.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717K070pEgL._AC_UL900_SR900,600_.jpg",
+      "price": 10.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8HDKGKQ",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 346,
+        "suggested_dtc_price": 32.99,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Anowbo Cat Deterrent Spray, Cat Repellent Indoor and Outdoor, Cat Deterrent for Furniture Protection, Pee Spraying, Excessive",
+      "url": "https://www.amazon.com/dp/B0HLMJTS41",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "💎 Erkən trend: cəmi 45 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81SGXxw+cSL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HLMJTS41",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 45,
+        "suggested_dtc_price": 49.97,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Smart Bark Collar for Large Medium Small Dogs, Rechargeable No-Bark Collar, Stop Barking Collar, 2026 Upgraded Dog Bark Colla",
+      "url": "https://www.amazon.com/dp/B0HN6NVY8D",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "💎 Erkən trend: cəmi 26 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $27.99 → tövsiyə satış: ~$69.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ALEaAGflL._AC_UL900_SR900,600_.jpg",
+      "price": 27.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HN6NVY8D",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 26,
+        "suggested_dtc_price": 69.97,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Puppy Pee Pads with Pheromones, Washable Puppy Training Pads for Dogs Reusable Puppy Potty Pads for Dogs and Cats(with Pet Ha",
+      "url": "https://www.amazon.com/dp/B0HJ8S9YMX",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "💎 Erkən trend: cəmi 9 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.79 → tövsiyə satış: ~$59.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nluh+y7LL._AC_UL900_SR900,600_.jpg",
+      "price": 23.79,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ8S9YMX",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 9,
+        "suggested_dtc_price": 59.47,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Dog Bark Deterrent Device, Upgrade Anti Barking Device for Dogs | Ultrasonic Dog Barking Silencer with 3 Frequency Settings,",
+      "url": "https://www.amazon.com/dp/B0HNN8M1HD",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "💎 Erkən trend: cəmi 47 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.77 → tövsiyə satış: ~$74.42)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hrSRShtPL._AC_UL900_SR900,600_.jpg",
+      "price": 29.77,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNN8M1HD",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 47,
+        "suggested_dtc_price": 74.42,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "CAWOOYII 2 PACK Crinkle Newspaper Dog Toy , Dog Newspaper toy | Stuffing-Free, Satisfying Crisp Sound for Gentle Play & Daily",
+      "url": "https://www.amazon.com/dp/B0H99GDV6V",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "💎 Erkən trend: cəmi 21 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.99 → tövsiyə satış: ~$52.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YHk5Dtu0L._AC_UL900_SR900,600_.jpg",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H99GDV6V",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 21,
+        "suggested_dtc_price": 52.47,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-05T14:48:29+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:automotive:new-releases",
+      "title": "Car Vacuum Cleaner for Car Home Pet, Handheld Vacuum Cordless High Power | Cordless, Powerful Suction, Long Runtime, Lightwei",
+      "url": "https://www.amazon.com/dp/B0HCTVV1WM",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "🌱 Yeni yüksələn məhsul (226 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $35.98 → tövsiyə satış: ~$89.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hbmh2cWQL._AC_UL900_SR900,600_.jpg",
+      "price": 35.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCTVV1WM",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 226,
+        "suggested_dtc_price": 89.95,
+        "category": "automotive"
+      },
+      "detected_at": "2026-11-05T14:48:45+00:00"
+    }
+  ],
+  "page_errors": {
+    "sporting-goods__new-releases": "captcha_or_throttled — skipped"
+  }
+}

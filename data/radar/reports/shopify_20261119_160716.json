@@ -1,0 +1,556 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-19T12:07:01+00:00",
+  "finished_at": "2026-11-19T12:07:16+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 18,
+    "stores_ok": 17,
+    "products_scanned": 4117,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 398
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towel - 25 Pack",
+      "url": "https://theragcompany.com/products/car-wash-towel-copy",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 53% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($30.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/car-wash-16x27-black-25ct-main-web.jpg?v=1784816393",
+      "price": 30.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 53,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-19T11:06:14+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-19T10:05:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Sweater Polo - Beige",
+      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-beige",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_Beige_JR_V1.jpg?v=1795037724",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 20,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Sweater Polo - Black",
+      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_Black_JR_V1.jpg?v=1795036730",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 20,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Sweater Polo - Navy",
+      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-navy",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_Navy_JR_V1.jpg?v=1795036081",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 20,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "kith.com",
+      "title": "New Balance 1906R - Fresh Air / White",
+      "url": "https://kith.com/products/nwbu19069y8",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: goodr.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0094/2252/files/16564470_fpx-1.jpg?v=1790076143",
+      "price": 96.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 40,
+        "vendor": "New Balance",
+        "product_type": "Low Top Sneakers",
+        "category": "fashion",
+        "cross_store_matches": [
+          "goodr.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Microfiber Wash Mitt - White/Grey",
+      "url": "https://theragcompany.com/products/microfiber-wash-mitt-white-grey",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/detail-factory-wash-mitt-web.jpg?v=1782335938",
+      "price": 6.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 60,
+        "vendor": "The Rag Company",
+        "product_type": "",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towels - 3 Pack",
+      "url": "https://theragcompany.com/products/car-wash-3-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 64% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/Spa-and-Workout-16x27-Black-3pk-stacked-web.jpg?v=1759861263",
+      "price": 5.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 64,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "2016 - Revenge Joggers",
+      "url": "https://youngla.com/products/2016",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($60.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: transparentlabs.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/2016_black_002_01_15_rudy_ecomm.jpg?v=1735684744",
+      "price": 60.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "transparentlabs.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "4123 - Yu-Gi-Oh!® Tees",
+      "url": "https://youngla.com/products/4123",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($44.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: crossrope.com, manduka.com, nobullproject.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Yugioh_-192.jpg?v=1742219086",
+      "price": 44.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "crossrope.com",
+          "manduka.com",
+          "nobullproject.com",
+          "repfitness.com",
+          "tenthousand.cc"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "5193 - Streetwear Sherpa Jacket",
+      "url": "https://youngla.com/products/5193",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: outdoorvoices.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/UtahGavin22.jpg?v=1765118338",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "outdoorvoices.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Men's LFG Tee",
+      "url": "https://nobullproject.com/products/mens-lfg-tee-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-apparel-men-s-lfg-tee-1225011010.png?v=1772660639",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "NOBULL",
+        "product_type": "Apparel",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Boxer Briefs 12-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs-12-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACKX4.jpg?v=1771791744",
+      "price": 119.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 60,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "puravidabracelets.com",
+      "title": "Green Bracelet",
+      "url": "https://puravidabracelets.com/products/green-bracelet",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 70% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: mvmt.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0297/6313/files/Solid-Original-Green_fd1cd10b-99ba-4319-99d1-1ca5706a7911.jpg?v=1794456268",
+      "price": 2.4,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 70,
+        "vendor": "Pura Vida Bracelets",
+        "product_type": "Bracelets",
+        "category": "fashion",
+        "cross_store_matches": [
+          "mvmt.com"
+        ]
+      },
+      "detected_at": "2026-11-19T12:07:12+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-2",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($38.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LipScrub_LipMask_NeopreneBag.jpg?v=1794863110",
+      "price": 38.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 7,
+        "vendor": "Versed Skin",
+        "product_type": "Black Friday 2026 GWP",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-19T11:06:14+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-1",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LIPDUO2HERO.jpg?v=1794860210",
+      "price": 26.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 5,
+        "vendor": "Versed Skin",
+        "product_type": "The Smooth Lip Duo",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-19T11:06:14+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "cozyearth.com",
+      "title": "Classic Stripe Resort Towel",
+      "url": "https://cozyearth.com/products/classic-stripe-resort-towel",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: snowehome.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2114/3697/files/Australian_Cotton_Resort_Towel_Mandarin_Stripe_1.jpg?v=1774632826",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Cozy Earth",
+        "product_type": "",
+        "category": "home",
+        "cross_store_matches": [
+          "snowehome.com"
+        ]
+      },
+      "detected_at": "2026-11-19T10:05:05+00:00"
+    }
+  ],
+  "store_errors": {
+    "bombas.com": "rate_limited (429) — skipped this run"
+  }
+}

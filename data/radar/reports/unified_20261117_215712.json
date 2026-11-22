@@ -1,0 +1,557 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-17T17:57:12+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 14,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 19,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 2
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Fhumsh Wireless Earbuds, Bluetooth 6.0 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Cancel",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🌱 Yeni yüksələn məhsul (470 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ep1QDS51L._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 470,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Bluetooth 5.4 Headphones HIFI Stereo/Crystal clear White | Noise Cancelling Mic Ear buds with 50H Playback,",
+      "url": "https://www.amazon.com/dp/B0HMHV3ZX5",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "💎 Erkən trend: cəmi 73 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.99 → tövsiyə satış: ~$47.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61PPiCaslSL._AC_UL900_SR900,600_.jpg",
+      "price": 18.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMHV3ZX5",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 73,
+        "suggested_dtc_price": 47.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 121 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 121,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-17T13:52:35+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-17T12:51:13+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-17T11:50:00+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "2016 - Revenge Joggers",
+      "url": "https://youngla.com/products/2016",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($60.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: transparentlabs.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/2016_black_002_01_15_rudy_ecomm.jpg?v=1735684744",
+      "price": 60.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "transparentlabs.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "4123 - Yu-Gi-Oh!® Tees",
+      "url": "https://youngla.com/products/4123",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($44.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: crossrope.com, manduka.com, nobullproject.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Yugioh_-192.jpg?v=1742219086",
+      "price": 44.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "crossrope.com",
+          "manduka.com",
+          "nobullproject.com",
+          "repfitness.com",
+          "tenthousand.cc"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "5193 - Streetwear Sherpa Jacket",
+      "url": "https://youngla.com/products/5193",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: outdoorvoices.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/UtahGavin22.jpg?v=1765118338",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "outdoorvoices.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Men's LFG Tee",
+      "url": "https://nobullproject.com/products/mens-lfg-tee-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-apparel-men-s-lfg-tee-1225011010.png?v=1772660639",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "NOBULL",
+        "product_type": "Apparel",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "FindAll™ Magnetic Wallet Stand",
+      "url": "https://satechi.net/products/findall-magnetic-wallet-stand",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com, ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FindAllMagneticWalletStandBlack1_dbb96b04-4b73-4d04-b223-6f1472f52ea5.webp?v=1794890622",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Satechi",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "esrgear.com",
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-17T10:48:53+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Heads",
+      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "🌱 Yeni yüksələn məhsul (432 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.98 → tövsiyə satış: ~$59.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cmAChhQKL._AC_UL900_SR900,600_.jpg",
+      "price": 23.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1MJ6LW",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 432,
+        "suggested_dtc_price": 59.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "TRAUSI Wireless Earbuds Bluetooth Headphones, 54H Playtime Stereo Over Ear Buds with ENC Noise Cancelling, LED Power Display,",
+      "url": "https://www.amazon.com/dp/B0HHS6TH1Q",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "🌱 Yeni yüksələn məhsul (190 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.99 → tövsiyə satış: ~$52.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714q0+lMZuL._AC_UL900_SR900,600_.jpg",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHS6TH1Q",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 190,
+        "suggested_dtc_price": 52.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Gymsoul Active Noise Cancelling Ear Buds Wireless Earbuds 90 Hrs Playtime Bluetooth Headphones with Power Display Case Hi-Fi",
+      "url": "https://www.amazon.com/dp/B0HJLN35VV",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "💎 Erkən trend: cəmi 43 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $41.50 → tövsiyə satış: ~$103.75)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71t-NRjVRtL._AC_UL900_SR900,600_.jpg",
+      "price": 41.5,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJLN35VV",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 43,
+        "suggested_dtc_price": 103.75,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-17T10:48:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Princess Ball Petticoat Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-princess-ball-puff-sleeve-embroidery-bow-petticoat-bodysuit-dress",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS152-DBP-LIFESTYLE-2.jpg?v=1784572987",
+      "price": 74.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Posh Peanut",
+        "product_type": "Dresses",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-red-mahogany-navy",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-RedMahogany-Front-2631.png?v=1793903082",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-navy-iris",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-NavyIris-Front-00041.png?v=1793903078",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "outdoorvoices.com",
+      "title": "Sherpa Jacket",
+      "url": "https://outdoorvoices.com/products/m-sherpa-jacket-chinois-green-mediterranean",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0190/1390/files/OV63503M-ChinoisGreen-Front-00006.png?v=1793903073",
+      "price": 88.97,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Outdoor Voices",
+        "product_type": "Outerwear",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Women's Journey 2",
+      "url": "https://nobullproject.com/products/womens-lunar-mineral-white-journey-2",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🔄 Tükənmişdi, yenidən stoka gəlib (tələbat siqnalı)",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($75.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-footwear-men-s-journey-2-1244799831.png?v=1781703162",
+      "price": 75.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 50,
+        "vendor": "NOBULL",
+        "product_type": "Footwear",
+        "category": "fitness"
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

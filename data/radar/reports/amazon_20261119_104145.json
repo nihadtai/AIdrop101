@@ -1,0 +1,538 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-19T06:41:40+00:00",
+  "finished_at": "2026-11-19T06:41:45+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 2,
+    "items_scanned": 60,
+    "filtered_out": 19,
+    "first_run_pages": 0,
+    "signals_above_threshold": 22
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Sports Bluetooth Headphones, Running Headphones | 75Hrs Playtime Ear Buds with LED Power Display, Noise Can",
+      "url": "https://www.amazon.com/dp/B0HMQLM3H2",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 73 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.98 → tövsiyə satış: ~$52.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aKa1+MVXL._AC_UL900_SR900,600_.jpg",
+      "price": 20.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMQLM3H2",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 73,
+        "suggested_dtc_price": 52.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "XHDATA D226 Radios Portable AM FM Shortwave, USB C & Battery Powered, Green | Easy-Read Large Dial Reliable Reception, Built-",
+      "url": "https://www.amazon.com/dp/B0H69NKX1K",
+      "score": 85,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (295 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $33.99 → tövsiyə satış: ~$84.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71xO5RumFsL._AC_UL900_SR900,600_.jpg",
+      "price": 33.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H69NKX1K",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 295,
+        "suggested_dtc_price": 84.98,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hand Crank Radio Emergency Radio with AM/FM/NOAA Weather Band 2027NEW | Wind Up Radio Emergency, LED Flashlights, SOS Functio",
+      "url": "https://www.amazon.com/dp/B0HQB57GQZ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 1 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NgeWhaeVL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQB57GQZ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 1,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hand Crank Radio, AM FM NOAA Weather Radio with Solar Panel, Type-C Charging, Flashlight, Reading Lamp and SOS Alarm, Portabl",
+      "url": "https://www.amazon.com/dp/B0HQRCT5W4",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 4 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZdjhrDPTL._AC_UL900_SR900,600_.jpg",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQRCT5W4",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 4,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Ring Outdoor Cam, Solar (newest model), Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Night Visio",
+      "url": "https://www.amazon.com/dp/B0H2G9SHF3",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 12 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xiBNa+UrL._AC_UL900_SR900,600_.jpg",
+      "price": 69.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H2G9SHF3",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 12,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Solar Hand Crank Emergency AM/FM/NOAA Weather Band Radio SOS Alarm (Yellow) | Portable Solar Hand Crank Emergency Weather Rad",
+      "url": "https://www.amazon.com/dp/B0HQBWD2JH",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71KZaFRw04L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQBWD2JH",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 2,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "JBL Tune 530BT (2026) – Wireless On-Ear Bluetooth Headphones (Black) | JBL Pure Bass Sound, Up to 76H Battery Life (19H More",
+      "url": "https://www.amazon.com/dp/B0GHY4PR3N",
+      "score": 77,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#26)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (283 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.95 → tövsiyə satış: ~$74.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bxgOa0vCL._AC_UL900_SR900,600_.jpg",
+      "price": 29.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GHY4PR3N",
+        "rank": 26,
+        "list_type": "bestsellers",
+        "rating": 4.4,
+        "reviews": 283,
+        "suggested_dtc_price": 74.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#19)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJTS6LXB",
+        "rank": 19,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 659,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Bluetooth Headphones, Hybrid Active Noise Cancelling Over Ear Headphones | 80H Playtime, HiFi Stereo Foldable wireless Headph",
+      "url": "https://www.amazon.com/dp/B0HFMFPPGG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "💎 Erkən trend: cəmi 76 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.98 → tövsiyə satış: ~$54.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616PNgGY97L._AC_UL900_SR900,600_.jpg",
+      "price": 21.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFMFPPGG",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 76,
+        "suggested_dtc_price": 54.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "SUPERDANNY Extension Cord,Flat Plug Surge Protector Power Strip,10Ft | 8 AC & 4 USB Ports (2 USB C),Surge Protector with 1050",
+      "url": "https://www.amazon.com/dp/B0DZ254SSR",
+      "score": 67,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#11)",
+        "📈 Reytinqdə 13 pillə yüksəlib (#24 → #11)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.99 → tövsiyə satış: ~$33.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612NrGLfOqL._AC_UL900_SR900,600_.jpg",
+      "price": 11.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DZ254SSR",
+        "rank": 11,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 9177,
+        "rank_jump": 13,
+        "suggested_dtc_price": 33.99,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big JBL Pro Sound with Punchy bass, 7-Hour Built-in Ba",
+      "url": "https://www.amazon.com/dp/B0CTNWBT1Z",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#12)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $31.95 → tövsiyə satış: ~$79.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kzInVwzgL._AC_UL900_SR900,600_.jpg",
+      "price": 31.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0CTNWBT1Z",
+        "rank": 12,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 20441,
+        "suggested_dtc_price": 79.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "Miracase Magnetic for iPhone 18 Pro Max Case 6.9\", Glacier Blue | Translucent Matte, Compatible with MagSafe, N56 Stronger Ma",
+      "url": "https://www.amazon.com/dp/B0HCVX8XHV",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#14)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⚠️ Çox köhnə/doymuş məhsul (40,724 rəy)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $21.99 → tövsiyə satış: ~$54.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)",
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🔥 Həmçinin new-releases siyahısında yer alır"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QBBf1CHiL._AC_UL900_SR900,600_.jpg",
+      "price": 21.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCVX8XHV",
+        "rank": 14,
+        "list_type": "bestsellers",
+        "rating": 4.5,
+        "reviews": 40724,
+        "suggested_dtc_price": 54.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "Command Cord Bundlers, Gray, 6 bundlers, 12 strips | Command Hooks For Garland, Holiday Decor, Damage Free Hanging, Good For",
+      "url": "https://www.amazon.com/dp/B0797LMJF5",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.90 → tövsiyə satış: ~$33.90)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hK1eh3mgL._AC_UL900_SR900,600_.jpg",
+      "price": 11.9,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0797LMJF5",
+        "rank": 23,
+        "list_type": "bestsellers",
+        "rating": 4.6,
+        "reviews": 10454,
+        "suggested_dtc_price": 33.9,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "JBL Go 5 - Ultra-portable IP68 waterproof & drop-proof speaker (Black) | JBL legendary sound & ambient edge lighting, Up to 1",
+      "url": "https://www.amazon.com/dp/B0GHYJ7BS9",
+      "score": 62,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#29)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.95 → tövsiyə satış: ~$99.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/716d1HFuLLL._AC_UL900_SR900,600_.jpg",
+      "price": 39.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GHYJ7BS9",
+        "rank": 29,
+        "list_type": "bestsellers",
+        "rating": 4.7,
+        "reviews": 1580,
+        "suggested_dtc_price": 99.88,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Blossom Pink | Instant film camera with selfie mirror, close-up m",
+      "url": "https://www.amazon.com/dp/B0HB6W86LR",
+      "score": 61,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "📈 Reytinqdə 3 pillə yüksəlib (#30 → #27)",
+        "💎 Erkən trend: cəmi 39 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81jVIWXuVgL._AC_UL900_SR900,600_.jpg",
+      "price": 79.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HB6W86LR",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 39,
+        "rank_jump": 3,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless earbuds, Bluetooth 5.3 Ear buds Headphones with Digital Display | 50H Long Playtime Earphones, HiFi Stereo, ENC Nois",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 55,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.97 → tövsiyə satış: ~$47.42)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+W-dfYPxL._AC_UL900_SR900,600_.jpg",
+      "price": 18.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 797,
+        "suggested_dtc_price": 47.42,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "HANYCONY Surge Protector Power Strip, 1080J, 5 Ft Braided Extension Cord | 8 Outlets 4 USB Ports(2 USB C), Outlet Extender, F",
+      "url": "https://www.amazon.com/dp/B092J8LPWR",
+      "score": 47,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#16)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⚠️ Çox köhnə/doymuş məhsul (69,667 rəy)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $11.99 → tövsiyə satış: ~$33.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61q9hmplGFL._AC_UL900_SR900,600_.jpg",
+      "price": 11.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B092J8LPWR",
+        "rank": 16,
+        "list_type": "bestsellers",
+        "rating": 4.8,
+        "reviews": 69667,
+        "suggested_dtc_price": 33.99,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:42+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Blink Outdoor 4 with Free Battery Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K battery doorbell. Sync",
+      "url": "https://www.amazon.com/dp/B0H1HWXW35",
+      "score": 45,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "💎 Erkən trend: cəmi 43 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41CeTIQJStL._AC_UL900_SR900,600_.jpg",
+      "price": 104.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H1HWXW35",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 43,
+        "rank_jump": 2,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "BassBloom ROAR 3 Portable Bluetooth Speaker,IPX6 Waterproof,20W | Powerful Sound with JIKE Bass,24H Playtime,Bluetooth 5.4,RG",
+      "url": "https://www.amazon.com/dp/B0HJSW1G3J",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#12)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $17.99 → tövsiyə satış: ~$44.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SjRnpTuUL._AC_UL900_SR900,600_.jpg",
+      "price": 17.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJSW1G3J",
+        "rank": 12,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 1125,
+        "rank_jump": 2,
+        "suggested_dtc_price": 44.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Hybrid Active Noise Cancelling Bluetooth Headphones Wireless Headphones | Over Ear, 120H Playtime, Hi-Res Audio, Deep Bass, M",
+      "url": "https://www.amazon.com/dp/B0HFM63KVW",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $30.98 → tövsiyə satış: ~$77.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/610B9+2JRvL._AC_UL900_SR900,600_.jpg",
+      "price": 30.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFM63KVW",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 755,
+        "suggested_dtc_price": 77.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-19T06:41:45+00:00"
+    }
+  ],
+  "page_errors": {}
+}

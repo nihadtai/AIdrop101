@@ -1,0 +1,2705 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light dark" />
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem('apexcart_color_scheme') || localStorage.getItem('color-scheme');
+        if (saved === 'dark' || saved === 'light') {
+          var m = document.querySelector('meta[name="color-scheme"]');
+          if (m) m.content = saved;
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <title>ApexCart AI — 6-Agent E-Commerce & Dropshipping Automation Platform</title>
+  <meta name="description" content="Discover winning products, source directly from factories, generate AI UGC video ads, and automate SMM & Meta Ads ROAS with 6 autonomous AI agents." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="ApexCart AI — Make Your Dropshipping Business Profitable with AI" />
+  <meta property="og:description" content="Trend Radar, 3PL & Fulfillment, 1-Click Store Builder, AI UGC Video Studio, SMM, and Meta Ads ROAS optimization." />
+  <meta name="theme-color" content="#050d0a" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2306140f'/%3E%3Cpath d='M32 12L50 50H40.5L36.5 41H27.5L23.5 50H14L32 12ZM30 33H34L32 27L30 33Z' fill='%2310b981'/%3E%3Cpath d='M16 42L46 18M46 18H34M46 18V30' stroke='%2334d399' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@700;800&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: light-dark(#f4f9f6, #040b08);
+      --bg-surface: light-dark(#ffffff, #081410);
+      --bg-card: light-dark(#ffffff, #0b1b15);
+      --bg-glass: light-dark(rgba(255, 255, 255, 0.86), rgba(6, 16, 12, 0.82));
+      --bg-subtle: light-dark(#e6f4ed, #0f241c);
+      --text: light-dark(#06140f, #f4fbf7);
+      --text-muted: light-dark(#3d5a4f, #94b3a6);
+      --border: light-dark(rgba(6, 20, 15, 0.1), rgba(16, 185, 129, 0.16));
+      --border-strong: light-dark(rgba(16, 185, 129, 0.35), rgba(16, 185, 129, 0.42));
+      --emerald: #10b981;
+      --emerald-bright: #22c55e;
+      --emerald-glow: rgba(16, 185, 129, 0.32);
+      --gold: #f59e0b;
+      --gold-bright: #fbbf24;
+      --rose: #f43f5e;
+      --shadow-sm: light-dark(0 4px 16px rgba(6, 20, 15, 0.06), 0 6px 24px rgba(0, 0, 0, 0.45));
+      --shadow-lg: light-dark(0 24px 60px rgba(16, 185, 129, 0.14), 0 28px 70px rgba(0, 0, 0, 0.72));
+      --radius-sm: 10px;
+      --radius-md: 16px;
+      --radius-lg: 22px;
+      --max-w: 1260px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #040b08;
+        --bg-surface: #081410;
+        --bg-card: #0b1b15;
+        --bg-glass: rgba(6, 16, 12, 0.82);
+        --bg-subtle: #0f241c;
+        --text: #f4fbf7;
+        --text-muted: #94b3a6;
+        --border: rgba(16, 185, 129, 0.16);
+        --border-strong: rgba(16, 185, 129, 0.42);
+      }
+    }
+
+    :root:has(> head > meta[name="color-scheme"][content="dark"]) {
+      color-scheme: dark;
+      --bg: #040b08;
+      --bg-surface: #081410;
+      --bg-card: #0b1b15;
+      --bg-glass: rgba(6, 16, 12, 0.82);
+      --bg-subtle: #0f241c;
+      --text: #f4fbf7;
+      --text-muted: #94b3a6;
+      --border: rgba(16, 185, 129, 0.16);
+      --border-strong: rgba(16, 185, 129, 0.42);
+      --shadow-sm: 0 6px 24px rgba(0, 0, 0, 0.45);
+      --shadow-lg: 0 28px 70px rgba(0, 0, 0, 0.72);
+    }
+
+    :root:has(> head > meta[name="color-scheme"][content="light"]) {
+      color-scheme: light;
+      --bg: #f4f9f6;
+      --bg-surface: #ffffff;
+      --bg-card: #ffffff;
+      --bg-glass: rgba(255, 255, 255, 0.88);
+      --bg-subtle: #e6f4ed;
+      --text: #06140f;
+      --text-muted: #3d5a4f;
+      --border: rgba(6, 20, 15, 0.1);
+      --border-strong: rgba(16, 185, 129, 0.35);
+      --shadow-sm: 0 4px 16px rgba(6, 20, 15, 0.06);
+      --shadow-lg: 0 24px 60px rgba(16, 185, 129, 0.14);
+    }
+
+    @supports not (scrollbar-color: auto) {
+      ::-webkit-scrollbar { width: 9px; height: 9px; }
+      ::-webkit-scrollbar-track { background: var(--bg); }
+      ::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 999px; }
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background:
+        radial-gradient(ellipse 60% 50% at 74% 22%, rgba(16, 185, 129, 0.16) 0%, transparent 70%),
+        radial-gradient(ellipse 45% 40% at 15% 12%, rgba(16, 185, 129, 0.09) 0%, transparent 65%),
+        var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+      letter-spacing: -0.03em;
+      margin: 0;
+    }
+
+    .tabular { font-variant-numeric: tabular-nums; }
+    a { color: inherit; text-decoration: none; }
+    button { font-family: inherit; cursor: pointer; }
+
+    .svg-icon {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 1.85;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .container {
+      width: min(100% - 2.2rem, var(--max-w));
+      margin-inline: auto;
+    }
+
+    .gold-text {
+      background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 55%, #d97706 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .emerald-text {
+      color: var(--emerald);
+    }
+
+    /* Concept B Sticky Top Navbar */
+    .navbar {
+      position: sticky;
+      top: 0;
+      z-index: 60;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      background: var(--bg-glass);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.2rem;
+      min-height: 76px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.65rem;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-weight: 800;
+      font-size: 1.32rem;
+      letter-spacing: -0.025em;
+    }
+
+    .brand-icon {
+      width: 36px;
+      height: 36px;
+      display: grid;
+      place-items: center;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2.1rem;
+      font-size: 0.93rem;
+      font-weight: 500;
+      color: var(--text-muted);
+    }
+
+    .nav-links a {
+      transition: color 0.16s ease;
+      white-space: nowrap;
+    }
+
+    .nav-links a:hover { color: var(--text); }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+    }
+
+    .icon-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      height: 38px;
+      padding: 0 0.72rem;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 700;
+      transition: border-color 0.16s, color 0.16s;
+    }
+
+    .icon-btn:hover { border-color: var(--border-strong); color: var(--text); }
+
+    .btn-login-link {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.93rem;
+      padding: 0.5rem 0.75rem;
+      transition: color 0.16s;
+    }
+
+    .btn-login-link:hover { color: var(--emerald); }
+
+    .btn-emerald {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 0.68rem 1.4rem;
+      border-radius: 10px;
+      font-weight: 700;
+      font-size: 0.92rem;
+      border: 1px solid rgba(52, 211, 153, 0.35);
+      background: linear-gradient(180deg, #10b981 0%, #059669 100%);
+      color: #ffffff;
+      box-shadow: 0 10px 26px -6px rgba(16, 185, 129, 0.5);
+      transition: transform 0.16s ease, box-shadow 0.2s ease, filter 0.16s ease;
+      white-space: nowrap;
+    }
+
+    .btn-emerald:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.06);
+      box-shadow: 0 14px 32px -6px rgba(16, 185, 129, 0.65);
+    }
+
+    .btn-pill-primary {
+      border-radius: 999px;
+      padding: 0.92rem 2rem;
+      font-size: 1rem;
+    }
+
+    .btn-pill-outline {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 0.92rem 2rem;
+      border-radius: 999px;
+      font-weight: 600;
+      font-size: 1rem;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1.5px solid rgba(244, 251, 247, 0.65);
+      color: var(--text);
+      transition: background 0.18s ease, border-color 0.18s ease, transform 0.16s ease;
+    }
+
+    :root:has(> head > meta[name="color-scheme"][content="light"]) .btn-pill-outline {
+      border-color: rgba(6, 20, 15, 0.45);
+    }
+
+    .btn-pill-outline:hover {
+      background: rgba(16, 185, 129, 0.1);
+      border-color: var(--emerald);
+      transform: translateY(-2px);
+    }
+
+    .mobile-menu-btn {
+      display: none;
+      width: 38px;
+      height: 38px;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text);
+    }
+
+    /* Concept B Hero Section */
+    .hero {
+      position: relative;
+      padding: 4rem 0 4.5rem;
+      overflow: hidden;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.02fr 0.98fr;
+      align-items: center;
+      gap: 2.5rem;
+    }
+
+    .hero h1 {
+      font-size: clamp(2.55rem, 4.7vw, 4rem);
+      line-height: 1.08;
+      font-weight: 800;
+      margin-bottom: 1.35rem;
+      letter-spacing: -0.035em;
+    }
+
+    .hero-lead {
+      font-size: 1.12rem;
+      color: var(--text-muted);
+      max-width: 50ch;
+      margin: 0 0 1.85rem;
+      line-height: 1.65;
+    }
+
+    /* Trust Logos Row (Shopify + Meta + TikTok + CJ) */
+    .hero-trust-logos {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1.6rem;
+      margin-bottom: 2.1rem;
+    }
+
+    .trust-brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-weight: 700;
+      font-size: 1.12rem;
+      color: var(--text);
+      opacity: 0.92;
+    }
+
+    .hero-ctas {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    /* Concept B Right Side: 3D Isometric Layered Stack + TikTok UGC + Neon Profit Card */
+    .iso-stage {
+      position: relative;
+      min-height: 520px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .iso-glow-backdrop {
+      position: absolute;
+      width: 440px;
+      height: 440px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.28) 0%, rgba(16, 185, 129, 0.05) 55%, transparent 75%);
+      filter: blur(22px);
+      pointer-events: none;
+    }
+
+    .iso-stack-wrap {
+      position: relative;
+      width: 100%;
+      max-width: 590px;
+      height: 500px;
+    }
+
+    /* Base Isometric Platform: Factory -> 3PL Truck -> Store */
+    .iso-layer-base {
+      position: absolute;
+      left: 18px;
+      bottom: 22px;
+      width: 390px;
+      height: 235px;
+      border-radius: 22px;
+      background: linear-gradient(145deg, rgba(14, 34, 26, 0.96), rgba(7, 19, 14, 0.98));
+      border: 1.5px solid rgba(16, 185, 129, 0.35);
+      box-shadow:
+        0 30px 60px rgba(0, 0, 0, 0.75),
+        inset 0 1px 0 rgba(255, 255, 255, 0.12);
+      transform: perspective(1100px) rotateX(44deg) rotateZ(-28deg);
+      transform-style: preserve-3d;
+      padding: 1.2rem;
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    /* Middle Emerald Translucent 3PL Layer */
+    .iso-layer-mid {
+      position: absolute;
+      left: 42px;
+      bottom: 118px;
+      width: 350px;
+      height: 195px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.34), rgba(5, 150, 105, 0.18));
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1.5px solid rgba(52, 211, 153, 0.65);
+      box-shadow: 0 22px 45px rgba(0, 0, 0, 0.5), 0 0 30px rgba(16, 185, 129, 0.25);
+      transform: perspective(1100px) rotateX(44deg) rotateZ(-28deg);
+      display: flex;
+      align-items: flex-end;
+      padding: 1rem 1.25rem;
+      color: #ecfdf5;
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: 0.01em;
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    /* Top Isometric Winning Product Card Layer */
+    .iso-layer-top {
+      position: absolute;
+      left: 52px;
+      top: 26px;
+      width: 340px;
+      height: 225px;
+      border-radius: 20px;
+      background: linear-gradient(160deg, #162921 0%, #0c1813 100%);
+      border: 1.5px solid rgba(255, 255, 255, 0.18);
+      box-shadow: 0 28px 55px rgba(0, 0, 0, 0.72);
+      transform: perspective(1100px) rotateX(42deg) rotateZ(-28deg);
+      padding: 0.85rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .iso-stage:hover .iso-layer-top {
+      transform: perspective(1100px) rotateX(38deg) rotateZ(-24deg) translateY(-8px);
+    }
+    .iso-stage:hover .iso-layer-mid {
+      transform: perspective(1100px) rotateX(40deg) rotateZ(-25deg) translateY(-4px);
+    }
+
+    .iso-product-photo {
+      width: 100%;
+      height: 138px;
+      border-radius: 13px;
+      object-fit: cover;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    .iso-skeleton-lines {
+      display: grid;
+      gap: 6px;
+      padding: 0 0.25rem;
+    }
+
+    .iso-skeleton-lines span {
+      display: block;
+      height: 7px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.18);
+    }
+
+    .iso-skeleton-lines span:nth-child(1) { width: 78%; background: rgba(52, 211, 153, 0.45); }
+    .iso-skeleton-lines span:nth-child(2) { width: 56%; }
+
+    /* Upright TikTok UGC Phone Card on Top-Right */
+    .tiktok-card {
+      position: absolute;
+      right: 12px;
+      top: 10px;
+      width: 192px;
+      height: 312px;
+      border-radius: 22px;
+      background: #07110d;
+      border: 2px solid rgba(255, 255, 255, 0.18);
+      box-shadow: 0 28px 60px rgba(0, 0, 0, 0.8), 0 0 28px rgba(16, 185, 129, 0.2);
+      overflow: hidden;
+      z-index: 4;
+      transition: transform 0.3s ease;
+    }
+
+    .tiktok-card:hover { transform: translateY(-5px) scale(1.02); }
+
+    .tiktok-bg {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: brightness(0.88);
+    }
+
+    .tiktok-overlay {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      padding: 0.75rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: linear-gradient(180deg, rgba(0,0,0,0.45) 0%, transparent 35%, rgba(0,0,0,0.78) 100%);
+      color: #fff;
+    }
+
+    .tiktok-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.72rem;
+      font-weight: 700;
+    }
+
+    .tiktok-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 0.18rem 0.5rem;
+      border-radius: 999px;
+      background: rgba(0, 0, 0, 0.55);
+      backdrop-filter: blur(6px);
+    }
+
+    .tiktok-play-btn {
+      align-self: center;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      border: 2px solid rgba(251, 191, 36, 0.85);
+      background: rgba(245, 158, 11, 0.28);
+      backdrop-filter: blur(6px);
+      color: #fff;
+      display: grid;
+      place-items: center;
+      box-shadow: 0 0 24px rgba(245, 158, 11, 0.55);
+    }
+
+    .tiktok-actions {
+      position: absolute;
+      right: 8px;
+      bottom: 62px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+      font-size: 0.64rem;
+      font-weight: 700;
+    }
+
+    .tiktok-act-dot {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.55);
+      display: grid;
+      place-items: center;
+    }
+
+    .tiktok-caption {
+      font-size: 0.68rem;
+      line-height: 1.35;
+      color: #e2e8f0;
+    }
+
+    .tiktok-caption strong {
+      display: block;
+      color: #34d399;
+      font-size: 0.72rem;
+    }
+
+    /* Glowing Neon Profit Card on Bottom-Right (+$14.80 Net Profit / 4.4x ROAS) */
+    .profit-neon-card {
+      position: absolute;
+      right: 6px;
+      bottom: 34px;
+      z-index: 5;
+      min-width: 225px;
+      padding: 1.1rem 1.35rem;
+      border-radius: 18px;
+      background: rgba(8, 24, 18, 0.92);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border: 1.5px solid #10b981;
+      box-shadow:
+        0 0 0 4px rgba(16, 185, 129, 0.14),
+        0 0 42px rgba(16, 185, 129, 0.45),
+        0 20px 40px rgba(0, 0, 0, 0.65);
+      text-align: center;
+    }
+
+    .profit-neon-card strong {
+      display: block;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 2.3rem;
+      font-weight: 800;
+      line-height: 1.05;
+      color: #34d399;
+      text-shadow: 0 0 22px rgba(52, 211, 153, 0.45);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .profit-neon-card span {
+      display: block;
+      margin-top: 0.3rem;
+      font-size: 0.86rem;
+      font-weight: 600;
+      color: #cbd5e1;
+    }
+
+    /* Concept B 6-Agent Bento Grid */
+    section.section {
+      padding: 4.5rem 0;
+    }
+
+    .section-title-left {
+      font-size: clamp(1.75rem, 2.8vw, 2.35rem);
+      font-weight: 800;
+      margin-bottom: 0.5rem;
+    }
+
+    .section-sub-left {
+      color: var(--text-muted);
+      font-size: 0.98rem;
+      margin: 0 0 2rem;
+    }
+
+    .bento-strip {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.15rem;
+    }
+
+    .bento-agent-card {
+      position: relative;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 1.45rem;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 1.1rem;
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .bento-agent-card.active-glow,
+    .bento-agent-card:hover {
+      border-color: #10b981;
+      box-shadow: 0 0 28px rgba(16, 185, 129, 0.2), var(--shadow-sm);
+      transform: translateY(-4px);
+    }
+
+    .bento-icon-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+    }
+
+    .bento-glyph {
+      width: 42px;
+      height: 42px;
+      border-radius: 11px;
+      display: grid;
+      place-items: center;
+      background: rgba(16, 185, 129, 0.12);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      color: var(--emerald);
+    }
+
+    .bento-glyph.gold {
+      background: rgba(245, 158, 11, 0.12);
+      border-color: rgba(245, 158, 11, 0.32);
+      color: var(--gold-bright);
+    }
+
+    .bento-step-pill {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.22rem 0.6rem;
+      border-radius: 999px;
+      background: var(--bg-subtle);
+      color: var(--emerald);
+      border: 1px solid var(--border);
+    }
+
+    .bento-agent-card h3 {
+      font-size: 1.12rem;
+      margin: 0.65rem 0 0.4rem;
+    }
+
+    .bento-agent-card p {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      margin: 0;
+    }
+
+    .bento-mini-widget {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      padding: 0.75rem 0.9rem;
+      border-radius: 12px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      font-size: 0.8rem;
+    }
+
+    .bento-mini-thumb {
+      width: 44px;
+      height: 44px;
+      border-radius: 9px;
+      object-fit: cover;
+      border: 1px solid var(--border);
+    }
+
+    .ring-score {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      border: 3px solid var(--emerald);
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+      font-size: 0.76rem;
+      color: var(--emerald);
+      box-shadow: 0 0 14px rgba(16, 185, 129, 0.3);
+    }
+
+    /* Live Trend Radar Preview */
+    .radar-shell {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 1.65rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .radar-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1.25rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .radar-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.1rem;
+    }
+
+    .radar-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 1.15rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 0.85rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .radar-card:hover { border-color: var(--emerald); transform: translateY(-2px); }
+
+    .radar-badge-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.74rem;
+      font-weight: 700;
+    }
+
+    .pill-source {
+      padding: 0.2rem 0.55rem;
+      border-radius: 6px;
+      background: rgba(245, 158, 11, 0.14);
+      color: var(--gold-bright);
+    }
+
+    .pill-score {
+      padding: 0.2rem 0.55rem;
+      border-radius: 6px;
+      background: rgba(16, 185, 129, 0.14);
+      color: var(--emerald);
+    }
+
+    .radar-locked {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.55rem 0.75rem;
+      border-radius: 10px;
+      background: var(--bg-subtle);
+      border: 1px dashed var(--border-strong);
+      font-size: 0.78rem;
+    }
+
+    .blur-secret { filter: blur(4px); user-select: none; opacity: 0.75; }
+
+    /* 6-Stage Pipeline Flow */
+    .pipeline-flow {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 0.95rem;
+    }
+
+    .pipe-step {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 1.25rem 1rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .pipe-step:hover {
+      border-color: var(--emerald);
+      transform: translateY(-3px);
+    }
+
+    .pipe-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.75rem;
+    }
+
+    .pipe-num {
+      width: 30px;
+      height: 30px;
+      border-radius: 9px;
+      background: linear-gradient(135deg, #10b981, #059669);
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.84rem;
+      display: grid;
+      place-items: center;
+      box-shadow: 0 6px 16px rgba(16, 185, 129, 0.35);
+    }
+
+    .pipe-step h4 { font-size: 0.96rem; margin-bottom: 0.3rem; }
+    .pipe-step p { font-size: 0.8rem; color: var(--text-muted); margin: 0; }
+
+    /* Comparison Table + Calculator */
+    .roi-stack { display: grid; gap: 1.75rem; }
+
+    .compare-card, .calc-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 2rem;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .cmp-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .cmp-pill-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.38rem 0.85rem;
+      border-radius: 999px;
+      background: rgba(245, 158, 11, 0.14);
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--gold-bright);
+    }
+
+    .table-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      border: 1px solid var(--border-strong);
+      border-radius: var(--radius-md);
+      background: var(--bg-surface);
+    }
+
+    .compare-table {
+      width: 100%;
+      min-width: 720px;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.87rem;
+    }
+
+    .compare-table th,
+    .compare-table td {
+      padding: 0.85rem 1.05rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+      line-height: 1.4;
+    }
+
+    .compare-table tbody tr:last-child th,
+    .compare-table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    .compare-table thead th {
+      background: var(--bg-subtle);
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+    }
+
+    .compare-table thead th.cmp-col-apex {
+      background: linear-gradient(180deg, rgba(16, 185, 129, 0.2), rgba(16, 185, 129, 0.06));
+      color: var(--text);
+      border-inline: 1px solid var(--border-strong);
+      border-top: 2px solid var(--emerald);
+    }
+
+    .compare-table tbody th { width: 25%; font-weight: 700; color: var(--text); }
+    .compare-table tbody td:nth-child(2) { width: 25%; }
+    .compare-table tbody td:nth-child(3) {
+      width: 28%;
+      background: rgba(16, 185, 129, 0.045);
+      border-inline: 1px solid rgba(16, 185, 129, 0.2);
+    }
+    .compare-table tbody td:nth-child(4) { width: 22%; }
+
+    .cmp-agent-cell { display: flex; align-items: center; gap: 0.7rem; }
+    .cmp-icon {
+      flex-shrink: 0;
+      width: 34px;
+      height: 34px;
+      border-radius: 9px;
+      display: grid;
+      place-items: center;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      color: var(--emerald);
+    }
+
+    .cmp-agent-sub {
+      display: block;
+      font-size: 0.67rem;
+      font-weight: 700;
+      color: var(--gold-bright);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .cmp-bad-txt { color: var(--text-muted); font-weight: 500; }
+    .cmp-bad-txt::before { content: "— "; color: var(--text-soft); font-weight: 700; }
+    .cmp-apex-txt { color: var(--text); font-weight: 600; }
+    .cmp-apex-txt::before { content: "✓ "; color: var(--emerald); font-weight: 800; }
+
+    .save-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.3rem 0.68rem;
+      border-radius: 999px;
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.26);
+      color: var(--emerald);
+      font-size: 0.76rem;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+
+    .cmp-summary-strip {
+      margin-top: 1.15rem;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.9rem;
+    }
+
+    .cmp-sum-box {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.65rem 1rem;
+      padding: 1rem 1.2rem;
+      border-radius: var(--radius-md);
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+    }
+
+    .cmp-sum-box.apex {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.14), rgba(245, 158, 11, 0.08));
+      border-color: rgba(16, 185, 129, 0.42);
+      box-shadow: 0 10px 28px rgba(16, 185, 129, 0.12);
+    }
+
+    .cmp-sum-lbl {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+      margin-bottom: 0.2rem;
+    }
+
+    .cmp-sum-box.apex .cmp-sum-lbl { color: var(--emerald); }
+
+    .cmp-sum-val {
+      font-size: 0.98rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .cmp-sum-box.apex .cmp-sum-val {
+      color: var(--text);
+      font-weight: 800;
+    }
+
+    .cmp-sum-badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.36rem 0.78rem;
+      border-radius: 999px;
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.2), rgba(16, 185, 129, 0.2));
+      border: 1px solid rgba(251, 191, 36, 0.42);
+      color: var(--gold-bright);
+      font-size: 0.76rem;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 760px) {
+      .cmp-summary-strip { grid-template-columns: 1fr; }
+    }
+
+    .range-slider {
+      width: 100%;
+      accent-color: var(--emerald);
+      margin: 1rem 0 1.4rem;
+      cursor: pointer;
+    }
+
+    .calc-kpis {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.95rem;
+    }
+
+    .calc-kpi {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.1rem;
+      text-align: center;
+    }
+
+    .calc-kpi strong {
+      display: block;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 1.5rem;
+      color: var(--emerald);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .calc-kpi span { font-size: 0.8rem; color: var(--text-muted); }
+
+    /* Pricing */
+    .billing-toggle-wrap {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 2.2rem;
+    }
+
+    .billing-switch {
+      display: inline-flex;
+      padding: 0.3rem;
+      border-radius: 999px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      gap: 0.25rem;
+    }
+
+    .billing-btn {
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      padding: 0.5rem 1.15rem;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.85rem;
+    }
+
+    .billing-btn.active {
+      background: var(--emerald);
+      color: #fff;
+    }
+
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1.15rem;
+    }
+
+    .price-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 1.7rem 1.4rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+    }
+
+    .price-card.featured {
+      border: 1.5px solid var(--emerald);
+      box-shadow: 0 0 38px rgba(16, 185, 129, 0.22), var(--shadow-lg);
+    }
+
+    .popular-pill {
+      position: absolute;
+      top: -11px;
+      right: 16px;
+      background: linear-gradient(135deg, #fbbf24, #f59e0b);
+      color: #06140f;
+      font-size: 0.69rem;
+      font-weight: 800;
+      padding: 0.22rem 0.68rem;
+      border-radius: 999px;
+    }
+
+    .price-amount {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 2.25rem;
+      font-weight: 800;
+      margin: 0.65rem 0 0.2rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .price-period { font-size: 0.84rem; color: var(--text-muted); font-weight: 500; }
+
+    .price-features {
+      list-style: none;
+      padding: 0;
+      margin: 1.15rem 0 1.6rem;
+      display: grid;
+      gap: 0.6rem;
+      font-size: 0.86rem;
+      color: var(--text-muted);
+    }
+
+    .price-features li::before {
+      content: "✓ ";
+      color: var(--emerald);
+      font-weight: 800;
+    }
+
+    /* Stack & FAQ */
+    .stack-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.1rem;
+    }
+
+    .stack-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 1.35rem;
+    }
+
+    .stack-head {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      margin-bottom: 0.5rem;
+      color: var(--emerald);
+    }
+
+    .stack-card h4 { font-size: 0.96rem; color: var(--text); }
+    .stack-card p { font-size: 0.85rem; color: var(--text-muted); margin: 0; }
+
+    .faq-list {
+      max-width: 800px;
+      margin: 0 auto;
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    details.faq-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 1.05rem 1.35rem;
+    }
+
+    details.faq-item summary {
+      font-weight: 700;
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    details.faq-item summary::after { content: "+"; font-size: 1.2rem; color: var(--emerald); }
+    details.faq-item[open] summary::after { content: "−"; }
+    details.faq-item p { margin: 0.75rem 0 0; color: var(--text-muted); font-size: 0.9rem; }
+
+    footer.footer {
+      border-top: 1px solid var(--border);
+      padding: 2.25rem 0;
+      background: var(--bg-surface);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    /* Native Accessible Dialog */
+    dialog.auth-dialog {
+      border: 1.5px solid var(--border-strong);
+      border-radius: var(--radius-lg);
+      background: var(--bg-card);
+      color: var(--text);
+      width: min(94vw, 450px);
+      padding: 1.75rem;
+      box-shadow: var(--shadow-lg);
+      margin: auto;
+    }
+
+    dialog:modal { overscroll-behavior: contain; }
+    dialog::backdrop {
+      background: rgba(3, 10, 7, 0.78);
+      backdrop-filter: blur(8px);
+      overflow: hidden;
+      overscroll-behavior: contain;
+    }
+
+    .dialog-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    .dialog-close {
+      border: 1px solid var(--border);
+      background: var(--bg-surface);
+      color: var(--text);
+      width: 34px;
+      height: 34px;
+      border-radius: 9px;
+      display: grid;
+      place-items: center;
+    }
+
+    .auth-tabs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.35rem;
+      padding: 0.28rem;
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      margin-bottom: 1.2rem;
+    }
+
+    .auth-tab-btn {
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      padding: 0.5rem;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.86rem;
+    }
+
+    .auth-tab-btn[aria-selected="true"] {
+      background: var(--emerald);
+      color: #fff;
+    }
+
+    .form-grid { display: grid; gap: 0.9rem; }
+    .field label { display: block; font-size: 0.82rem; font-weight: 600; margin-bottom: 0.35rem; }
+    .field input {
+      width: 100%;
+      padding: 0.7rem 0.9rem;
+      border-radius: 9px;
+      border: 1px solid var(--border);
+      background: var(--bg-surface);
+      color: var(--text);
+      font-size: 0.92rem;
+      font-family: inherit;
+    }
+
+    .field input:focus { outline: 2px solid var(--emerald); outline-offset: 1px; }
+    .field input:user-invalid { border-color: var(--rose); }
+
+    .pw-wrap { position: relative; display: flex; align-items: center; }
+    .pw-wrap input { padding-right: 4.5rem; }
+    .pw-toggle {
+      position: absolute;
+      right: 0.45rem;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-muted);
+      border-radius: 7px;
+      padding: 0.25rem 0.55rem;
+      font-size: 0.74rem;
+      font-weight: 700;
+    }
+
+    .form-note { font-size: 0.79rem; color: var(--text-muted); margin: 0.25rem 0 0; }
+
+    @media (max-width: 1080px) {
+      .hero-grid { grid-template-columns: 1fr; }
+      .bento-strip, .radar-grid, .stack-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .pipeline-flow { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .pricing-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 76px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: var(--bg-card);
+        border-bottom: 1px solid var(--border);
+        padding: 1rem 1.5rem;
+      }
+      .nav-links.open { display: flex; }
+      .mobile-menu-btn { display: inline-flex; }
+      .bento-strip, .radar-grid, .pipeline-flow, .pricing-grid, .stack-grid, .calc-kpis { grid-template-columns: 1fr; }
+      .iso-stage { min-height: 460px; transform: scale(0.84); transform-origin: top center; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Concept B Top Navbar -->
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a href="/" class="brand">
+        <span class="brand-icon">
+          <svg viewBox="0 0 40 40" width="34" height="34" fill="none">
+            <path d="M20 5L35 34H27.5L24.2 27H15.8L12.5 34H5L20 5Z" fill="#10b981"/>
+            <path d="M8 29L33 10M33 10H23M33 10V20" stroke="#34d399" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </span>
+        <span>ApexCart <span class="emerald-text">AI</span></span>
+      </a>
+
+      <nav class="nav-links" id="mainNavLinks" aria-label="Primary Navigation">
+        <a href="#agents" data-i18n="nav_agents">Agents &amp; Pipeline</a>
+        <a href="#radar-preview" data-i18n="nav_pipeline">Trend Radar</a>
+        <a href="#calculator" data-i18n="nav_about">ROI Calculator</a>
+        <a href="#pricing" data-i18n="nav_pricing">Pricing</a>
+      </nav>
+
+      <div class="nav-actions">
+        <button type="button" class="icon-btn" id="langToggleBtn" aria-label="Switch Language">
+          <span id="langBadge">EN</span>
+        </button>
+        <button type="button" class="icon-btn" id="themeToggleBtn" aria-label="Switch Theme">
+          <span id="themeIconWrap">
+            <svg class="svg-icon" viewBox="0 0 24 24" style="width:15px;height:15px;"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+          </span>
+        </button>
+        <button type="button" class="btn-login-link" id="openLoginBtn" data-i18n="nav_login">Customer Login</button>
+        <button type="button" class="btn-emerald" id="openRegisterBtn" data-i18n="nav_start">Start Free</button>
+        <button type="button" class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Menu">
+          <svg class="svg-icon" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Concept B Split Hero with Isometric 3D Product/3PL/TikTok Stack -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>
+            <span data-i18n="hero_t1">Make Your Dropshipping Business</span>
+            <span class="gold-text" data-i18n="hero_t2">Profitable with ApexCart AI</span>
+          </h1>
+          <p class="hero-lead" data-i18n="hero_lead">
+            Discover winning products, source directly from factories without middlemen, optimize video ads, and scale your sales with our 6 autonomous AI agents.
+          </p>
+
+          <!-- Brand Logos Row (Shopify, Meta, TikTok, CJ) -->
+          <div class="hero-trust-logos" aria-label="Integrated Platforms">
+            <span class="trust-brand">
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="#95BF47"><path d="M19.5 6.5L17 5.8c-.2-.9-.9-1.8-2-1.8-.3 0-.6.1-.9.2-.5-.6-1.2-.9-2-.9-2 0-3.3 1.7-3.7 3.6l-2.9.9L4 21.5l11.8 1.5 5.2-1.3-1.5-15.2z"/></svg>
+              shopify
+            </span>
+            <span class="trust-brand" style="color:var(--text-muted);">
+              <svg class="svg-icon" viewBox="0 0 24 24" style="color:#38bdf8;"><path d="M18 6c-2.5 0-4.3 2.1-6 4.8C10.3 8.1 8.5 6 6 6 3.2 6 1.5 8.5 1.5 12S3.4 18 6 18c2.3 0 4.2-1.9 6-4.8 1.8 2.9 3.7 4.8 6 4.8 2.6 0 4.5-2.5 4.5-6S20.8 6 18 6z"/></svg>
+              Meta Ads
+            </span>
+            <span class="trust-brand">
+              <span style="color:#25F4EE;">Tik</span><span style="color:#FE2C55;">Tok</span>
+            </span>
+            <span class="trust-brand" style="color:var(--text-muted);">
+              <svg class="svg-icon" viewBox="0 0 24 24" style="color:#fbbf24;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+              CJ &amp; 1688
+            </span>
+          </div>
+
+          <div class="hero-ctas">
+            <button type="button" class="btn-emerald btn-pill-primary" id="heroStartBtn" data-i18n="hero_cta_primary">
+              Start Free
+            </button>
+            <a href="/app" class="btn-pill-outline" data-i18n="hero_cta_workspace">
+              Watch Demo
+            </a>
+          </div>
+        </div>
+
+        <!-- Concept B 3D Isometric Layered Stack -->
+        <div class="iso-stage">
+          <div class="iso-glow-backdrop"></div>
+          <canvas id="heroThreeCanvas" style="position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:0.45;"></canvas>
+
+          <div class="iso-stack-wrap">
+            <!-- Base Layer: Factory -> 3PL Truck -> Store Route -->
+            <div class="iso-layer-base">
+              <svg viewBox="0 0 360 190" width="100%" height="100%" fill="none">
+                <!-- Route Line -->
+                <path d="M55 75 L185 148 L305 88" stroke="#fbbf24" stroke-width="3" stroke-dasharray="6 5" stroke-linecap="round"/>
+                <!-- Factory Icon Node -->
+                <g transform="translate(22, 26)">
+                  <rect x="0" y="22" width="54" height="36" rx="6" fill="#1e293b" stroke="#34d399" stroke-width="2"/>
+                  <rect x="8" y="4" width="10" height="18" fill="#94a3b8"/>
+                  <rect x="24" y="8" width="10" height="14" fill="#94a3b8"/>
+                  <circle cx="13" cy="4" r="4" fill="#f87171"/>
+                  <text x="4" y="74" fill="#94b3a6" font-size="11" font-weight="700" data-i18n="iso_factory">1688 Factory</text>
+                </g>
+                <!-- Map Location Pins -->
+                <circle cx="118" cy="110" r="8" fill="#10b981"/>
+                <circle cx="118" cy="110" r="3" fill="#fff"/>
+                <circle cx="246" cy="118" r="8" fill="#10b981"/>
+                <circle cx="246" cy="118" r="3" fill="#fff"/>
+                <!-- 3PL Truck Node -->
+                <g transform="translate(154, 118)">
+                  <rect x="0" y="10" width="42" height="26" rx="5" fill="#10b981"/>
+                  <rect x="42" y="16" width="18" height="20" rx="4" fill="#fbbf24"/>
+                  <circle cx="14" cy="38" r="6" fill="#0f172a" stroke="#fff" stroke-width="2"/>
+                  <circle cx="48" cy="38" r="6" fill="#0f172a" stroke="#fff" stroke-width="2"/>
+                </g>
+                <!-- Storefront Node -->
+                <g transform="translate(278, 42)">
+                  <rect x="0" y="14" width="52" height="38" rx="6" fill="#065f46" stroke="#34d399" stroke-width="2"/>
+                  <path d="M-4 14 L26 0 L56 14 Z" fill="#10b981"/>
+                  <rect x="18" y="28" width="16" height="24" rx="3" fill="#fbbf24"/>
+                </g>
+              </svg>
+            </div>
+
+            <!-- Middle Layer: Translucent Emerald 3PL Fulfillment Plane -->
+            <div class="iso-layer-mid">
+              <span data-i18n="iso_mid">3PL Fulfillment • 0.4s Auto-Failover</span>
+            </div>
+
+            <!-- Top Layer: Winning Product Showcase Plane -->
+            <div class="iso-layer-top">
+              <img src="/static/img/landing/hero_product.jpg" alt="Winning Portable Smoothie Blender Product" class="iso-product-photo" />
+              <div class="iso-skeleton-lines">
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <!-- Upright TikTok UGC Video Ad Card -->
+            <div class="tiktok-card" onclick="window.openAuthModal('register', 'Growth Pro')" title="AI UGC Video Studio Preview">
+              <img src="/static/img/landing/hero_ugc.jpg" alt="TikTok UGC Creator Video Ad" class="tiktok-bg" />
+              <div class="tiktok-overlay">
+                <div class="tiktok-top">
+                  <span class="tiktok-badge">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="#25F4EE"><path d="M16 4v5.5a4.5 4.5 0 1 1-4.5-4.5V9a1.5 1.5 0 1 0 1.5 1.5V2h3a4 4 0 0 0 4 4v3a7 7 0 0 1-4-1.3z"/></svg>
+                    TikTok
+                  </span>
+                  <span style="font-size:0.65rem;opacity:0.9;" data-i18n="tiktok_views">1.4M views</span>
+                </div>
+
+                <button type="button" class="tiktok-play-btn" aria-label="Play AI UGC Video Preview">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="#ffffff"><polygon points="8 5 19 12 8 19 8 5"/></svg>
+                </button>
+
+                <div class="tiktok-actions">
+                  <span class="tiktok-act-dot">♥</span><span>48.2K</span>
+                  <span class="tiktok-act-dot">💬</span><span>1.2K</span>
+                  <span class="tiktok-act-dot">↗</span><span>8.9K</span>
+                </div>
+
+                <div class="tiktok-caption">
+                  <strong>@blendgo.official</strong>
+                  <span data-i18n="tiktok_cap">UGC video ad generated by AI Agent 04</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Bottom-Right Glowing Neon Profit Card -->
+            <div class="profit-neon-card">
+              <strong>+$14.80</strong>
+              <span data-i18n="hero_profit_sub">Net Profit / 4.4x ROAS</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Merged: 6-Agent Bento Grid & 1-Click 6-Stage Pipeline Under One Heading -->
+    <section class="section" id="agents">
+      <div class="container">
+        <h2 class="section-title-left" data-i18n="agents_title">6-Agent Bento Grid &amp; 1-Click Pipeline Flow</h2>
+        <p class="section-sub-left" data-i18n="agents_desc">Each autonomous agent executes its stage and automatically hands off the output to the next agent in a single synchronized 6-stage pipeline.</p>
+
+        <div class="bento-strip">
+          <!-- Agent 01 -->
+          <article class="bento-agent-card active-glow">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph"><svg class="svg-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag1_pill">Agent 01 • Trend Hunter</span>
+              </div>
+              <h3 data-i18n="ag1_t">Trend Hunter Agent</h3>
+              <p data-i18n="ag1_d">Scans Shopify, Amazon, and social signals to score viral demand and competitive whitespace.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <div style="display:flex;align-items:center;gap:0.65rem;">
+                <img src="/static/img/landing/hero_product.jpg" alt="Trending Item" class="bento-mini-thumb" />
+                <div>
+                  <strong style="display:block;font-size:0.82rem;">Portable Blender V3</strong>
+                  <span style="color:var(--text-muted);font-size:0.74rem;" data-i18n="ag1_w_sub">Viral Demand Spike</span>
+                </div>
+              </div>
+              <div class="ring-score">96%</div>
+            </div>
+          </article>
+
+          <!-- Agent 02 (Merged Supply, 3PL & Fulfillment) -->
+          <article class="bento-agent-card">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph gold"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag2_pill">Agent 02 • Supply, 3PL &amp; Fulfillment</span>
+              </div>
+              <h3 data-i18n="ag2_t">Supply, Margin &amp; Fulfillment Agent</h3>
+              <p data-i18n="ag2_d">Verifies CJ Dropshipping, 1688 &amp; 3PL costs/margins, dispatches orders automatically, and triggers backup supplier Auto-Failover.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <span><span data-i18n="ag2_w_lbl">Factory Cost:</span> <strong class="emerald-text tabular">$6.40</strong></span>
+              <span class="save-pill" data-i18n="ag2_w_val">0.4s Auto-Failover</span>
+            </div>
+          </article>
+
+          <!-- Agent 03 -->
+          <article class="bento-agent-card">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph"><svg class="svg-icon" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag3_pill">Agent 03 • Store Builder</span>
+              </div>
+              <h3 data-i18n="ag3_t">Store &amp; SEO Builder Agent</h3>
+              <p data-i18n="ag3_d">Publishes high-converting Shopify product pages, persuasive SEO copy, and structured pricing in 1 click.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <span data-i18n="ag3_w_lbl">Shopify CRO Store</span>
+              <strong class="emerald-text" data-i18n="ag3_w_val">1-Click Publish</strong>
+            </div>
+          </article>
+
+          <!-- Agent 04 -->
+          <article class="bento-agent-card">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph gold"><svg class="svg-icon" viewBox="0 0 24 24"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag4_pill">Agent 04 • Creative Studio</span>
+              </div>
+              <h3 data-i18n="ag4_t">AI Video Ad Studio Agent</h3>
+              <p data-i18n="ag4_d">Creates high-CTR ad scripts, voiceovers, and studio-grade AI UGC clips for TikTok &amp; Reels.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <div style="display:flex;align-items:center;gap:0.65rem;">
+                <img src="/static/img/landing/hero_ugc.jpg" alt="AI UGC Video" class="bento-mini-thumb" />
+                <span data-i18n="ag4_w_lbl">9:16 AI UGC Render</span>
+              </div>
+              <span class="save-pill">00:24s HD</span>
+            </div>
+          </article>
+
+          <!-- Agent 05 (SMM) -->
+          <article class="bento-agent-card">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag5_pill">Agent 05 • SMM</span>
+              </div>
+              <h3 data-i18n="ag5_t">Social Media Manager (SMM)</h3>
+              <p data-i18n="ag5_d">Automates social channels: scheduling videos/images, writing captions, and replying to customer comments.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <span>IG / TikTok / Reels</span>
+              <strong class="emerald-text" data-i18n="ag5_w_val">24/7 Auto-Pilot</strong>
+            </div>
+          </article>
+
+          <!-- Agent 06 (Meta Ads & ROAS) -->
+          <article class="bento-agent-card">
+            <div>
+              <div class="bento-icon-row">
+                <span class="bento-glyph gold"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg></span>
+                <span class="bento-step-pill" data-i18n="ag6_pill">Agent 06 • Ad Ops</span>
+              </div>
+              <h3 data-i18n="ag6_t">Meta Ads &amp; ROAS Agent</h3>
+              <p data-i18n="ag6_d">Launches Meta Ads campaigns, guards CPA/ROAS targets, and auto-pauses underperforming creatives.</p>
+            </div>
+            <div class="bento-mini-widget">
+              <span data-i18n="ag6_w_lbl">Live Meta ROAS</span>
+              <strong class="emerald-text tabular" style="font-size:1.05rem;">4.4x (+38%)</strong>
+            </div>
+          </article>
+        </div>
+
+        <!-- Integrated 1-Click 6-Stage Pipeline Strip under the same heading -->
+        <div id="pipeline" style="margin-top: 1.5rem;">
+          <div class="pipeline-flow">
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">1</div><svg class="svg-icon" style="color:var(--emerald)" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+              <h4 data-i18n="p1_t">Find Trend</h4>
+              <p data-i18n="p1_d">Niche selection via live signals</p>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">2</div><svg class="svg-icon" style="color:var(--emerald)" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+              <h4 data-i18n="p2_t">Supply &amp; Fulfillment</h4>
+              <p data-i18n="p2_d">CJ, 3PL margin &amp; order routing</p>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">3</div><svg class="svg-icon" style="color:var(--emerald)" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+              <h4 data-i18n="p3_t">Store</h4>
+              <p data-i18n="p3_d">Live Shopify product publish</p>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">4</div><svg class="svg-icon" style="color:var(--emerald)" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+              <h4 data-i18n="p4_t">Ad Studio</h4>
+              <p data-i18n="p4_d">AI UGC video &amp; creatives</p>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">5</div><svg class="svg-icon" style="color:var(--emerald)" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+              <h4 data-i18n="p5_t">SMM</h4>
+              <p data-i18n="p5_d">Auto-posting videos &amp; copy</p>
+            </div>
+            <div class="pipe-step">
+              <div class="pipe-head"><div class="pipe-num">6</div><svg class="svg-icon" style="color:var(--gold-bright)" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>
+              <h4 data-i18n="p6_t">Meta Ads</h4>
+              <p data-i18n="p6_d">Campaign &amp; CPA/ROAS control</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Live Trend Radar Preview -->
+    <section class="section" id="radar-preview">
+      <div class="container">
+        <h2 class="section-title-left" data-i18n="radar_title">Live Trend Radar Preview</h2>
+        <p class="section-sub-left" data-i18n="radar_desc">High-margin product signals detected in real time by our system. Create a free account to unlock direct factory links.</p>
+
+        <div class="radar-shell">
+          <div class="radar-toolbar">
+            <div>
+              <strong data-i18n="radar_feed_label">Real-Time Signal Feed</strong>
+              <span style="color:var(--text-muted); font-size:0.84rem; margin-left:0.5rem;" id="radarStatusText">Loading...</span>
+            </div>
+            <button type="button" class="icon-btn" id="refreshRadarBtn" data-i18n="radar_refresh">Refresh</button>
+          </div>
+          <div class="radar-grid" id="radarPreviewGrid"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Traditional Dropshipping vs ApexCart AI Table + ROI Calculator -->
+    <section class="section" id="calculator">
+      <div class="container roi-stack">
+        <div class="compare-card">
+          <div class="cmp-header">
+            <div>
+              <h3 id="cmpTableHeading" style="font-size:1.65rem;" data-i18n="cmp_title">Traditional Dropshipping vs ApexCart AI (6 Agents)</h3>
+            </div>
+            <span class="cmp-pill-badge" data-i18n="cmp_badge">6 Agents • 95%+ Saved</span>
+          </div>
+          <div class="table-wrapper" tabindex="0" role="region" aria-labelledby="cmpTableHeading">
+            <table class="compare-table">
+              <thead>
+                <tr>
+                  <th scope="col" data-i18n="cmp_th_agent">Agent / Stage</th>
+                  <th scope="col" data-i18n="cmp_th_old">Traditional</th>
+                  <th scope="col" class="cmp-col-apex" data-i18n="cmp_th_new">ApexCart AI</th>
+                  <th scope="col" data-i18n="cmp_th_save">Savings</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 01</span><span data-i18n="cmp_r1_a">Product Research</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r1_old">Hours of manual hunting</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r1_new">Minutes via Trend Radar</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r1_s">~6–10 hrs/day</span></td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 02</span><span data-i18n="cmp_r2_a">Sourcing &amp; 3PL</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r2_old">Manual orders &amp; middlemen</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r2_new">Direct factory &amp; auto-routing</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r2_s">15–30% lower COGS</span></td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 03</span><span data-i18n="cmp_r3_a">Website Design</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r3_old">Days &amp; costly designers</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r3_new">1-click store in minutes</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r3_s">3–7 days + $300–$1k</span></td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 04</span><span data-i18n="cmp_r4_a">Ad Videos</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r4_old">Costly creators &amp; delays</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r4_new">AI UGC videos in minutes</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r4_s">$150–$500 + 3–5 days</span></td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 05</span><span data-i18n="cmp_r5_a">SMM Management</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r5_old">High monthly SMM retainers</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r5_new">Auto-posts &amp; DM/Q&amp;A replies</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r5_s">$300–$800/mo</span></td>
+                </tr>
+                <tr>
+                  <th scope="row">
+                    <div class="cmp-agent-cell">
+                      <span class="cmp-icon"><svg class="svg-icon" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg></span>
+                      <div><span class="cmp-agent-sub">Agent 06</span><span data-i18n="cmp_r6_a">Meta Ads</span></div>
+                    </div>
+                  </th>
+                  <td><span class="cmp-bad-txt" data-i18n="cmp_r6_old">Wasted ad budget</span></td>
+                  <td><span class="cmp-apex-txt" data-i18n="cmp_r6_new">Auto CPA &amp; ROAS control</span></td>
+                  <td><span class="save-pill" data-i18n="cmp_r6_s">25–40% less waste</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="cmp-summary-strip" aria-label="1-product launch comparison summary">
+            <div class="cmp-sum-box">
+              <div>
+                <span class="cmp-sum-lbl" data-i18n="cmp_sum_old_lbl">Traditional (1 Product)</span>
+                <div class="cmp-sum-val" data-i18n="cmp_sum_old_val">7–14 days • $500–$1,500+</div>
+              </div>
+            </div>
+            <div class="cmp-sum-box apex">
+              <div>
+                <span class="cmp-sum-lbl" data-i18n="cmp_sum_new_lbl">ApexCart AI (1 Product)</span>
+                <div class="cmp-sum-val" data-i18n="cmp_sum_new_val">~15–20 min • $29–$79/mo</div>
+              </div>
+              <span class="cmp-sum-badge" data-i18n="cmp_sum_save">~95%+ faster &amp; $450–$1,400+ saved</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ROI Calculator (Aligned to the 6-Agent Comparison Table) -->
+        <div class="calc-card">
+          <div style="display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:1rem;">
+            <div>
+              <h3 style="font-size:1.45rem;" data-i18n="calc_title">Select Your Monthly Order Volume</h3>
+              <p style="margin:0.25rem 0 0; font-size:0.84rem; color:var(--text-muted);" data-i18n="calc_sub">Calculated directly from the 6-Agent table: $500–$1,500 launch/SMM costs + 15–30% COGS &amp; 25–40% ad savings vs $29–$79/mo plan</p>
+            </div>
+            <div style="font-weight:800; display:flex; align-items:baseline; gap:0.5rem;">
+              <span data-i18n="calc_orders_lbl" style="color:var(--text-muted); font-size:0.9rem;">Monthly Orders:</span>
+              <span class="gold-text tabular" id="calcOrdersOut" style="font-size:1.5rem;">350 orders (4 products)</span>
+            </div>
+          </div>
+          <input type="range" min="50" max="2500" step="50" value="350" class="range-slider" id="ordersRange" aria-label="Monthly orders slider" />
+          <div class="calc-kpis">
+            <div class="calc-kpi">
+              <strong id="calcSavedHours">28 days (~224 hrs)</strong>
+              <span data-i18n="calc_kpi1">Time Saved (7–14 days/product + ~6–10 hrs/day)</span>
+            </div>
+            <div class="calc-kpi">
+              <strong id="calcExtraMargin">$4,525</strong>
+              <span data-i18n="calc_kpi2">Traditional Cost (Design, UGC, SMM + COGS/Ad Waste)</span>
+            </div>
+            <div class="calc-kpi">
+              <strong id="calcEstProfit">+$4,446</strong>
+              <span data-i18n="calc_kpi3">Net Savings with ApexCart AI (After $29–$79/mo plan)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="section" id="pricing">
+      <div class="container">
+        <h2 class="section-title-left" style="text-align:center;" data-i18n="price_title">Choose a Plan Built for Your Scale</h2>
+        <p class="section-sub-left" style="text-align:center;" data-i18n="price_desc">Upgrade or cancel anytime. Save 25% with annual billing.</p>
+
+        <div class="billing-toggle-wrap">
+          <div class="billing-switch" role="group" aria-label="Billing Cycle">
+            <button type="button" class="billing-btn active" data-billing="monthly" id="billMonthlyBtn" data-i18n="bill_monthly">Monthly</button>
+            <button type="button" class="billing-btn" data-billing="yearly" id="billYearlyBtn" data-i18n="bill_yearly">Yearly (-25%)</button>
+          </div>
+        </div>
+
+        <div class="pricing-grid">
+          <div class="price-card">
+            <div>
+              <h3 data-i18n="plan1_name">Free Trial</h3>
+              <div class="price-amount">$<span class="price-val" data-monthly="0" data-yearly="0">0</span> <span class="price-period" data-i18n="per_7days">/ 7 days</span></div>
+              <ul class="price-features">
+                <li data-i18n="pf_1_1">1 Store Integration</li>
+                <li data-i18n="pf_1_2">3 AI Trend Scans / Day</li>
+                <li data-i18n="pf_1_3">10 Sandbox Pipeline Runs</li>
+                <li data-i18n="pf_1_4">CJ &amp; Factory Cost Preview</li>
+              </ul>
+            </div>
+            <button type="button" class="icon-btn" style="width:100%;justify-content:center;height:42px;" onclick="openAuthModal('register', 'Free Trial')" data-i18n="price_btn_1">Try Free</button>
+          </div>
+
+          <div class="price-card">
+            <div>
+              <h3 data-i18n="plan2_name">Starter</h3>
+              <div class="price-amount">$<span class="price-val" data-monthly="29" data-yearly="22">29</span> <span class="price-period" data-i18n="per_month">/ mo</span></div>
+              <ul class="price-features">
+                <li data-i18n="pf_2_1">1 Live Shopify Store</li>
+                <li data-i18n="pf_2_2">25 Full 6-Agent Pipelines / Mo</li>
+                <li data-i18n="pf_2_3">15 AI UGC Video Renders</li>
+                <li data-i18n="pf_2_4">Autonomous SMM + Telegram Alerts</li>
+              </ul>
+            </div>
+            <button type="button" class="icon-btn" style="width:100%;justify-content:center;height:42px;" onclick="openAuthModal('register', 'Starter')" data-i18n="price_btn_2">Choose Starter</button>
+          </div>
+
+          <div class="price-card featured">
+            <span class="popular-pill" data-i18n="popular_badge">MOST POPULAR</span>
+            <div>
+              <h3 data-i18n="plan3_name">Growth Pro</h3>
+              <div class="price-amount">$<span class="price-val" data-monthly="79" data-yearly="59">79</span> <span class="price-period" data-i18n="per_month">/ mo</span></div>
+              <ul class="price-features">
+                <li data-i18n="pf_3_1">5 Shopify Stores</li>
+                <li data-i18n="pf_3_2">Unlimited Radar &amp; 150 Pipelines</li>
+                <li data-i18n="pf_3_3">100 AI Videos + 3PL Auto-Failover</li>
+                <li data-i18n="pf_3_4">Full SMM + Meta Ads ROAS Bot</li>
+              </ul>
+            </div>
+            <button type="button" class="btn-emerald" style="width:100%;height:42px;" onclick="openAuthModal('register', 'Growth Pro')" data-i18n="price_btn_3">Start Growth Pro</button>
+          </div>
+
+          <div class="price-card">
+            <div>
+              <h3 data-i18n="plan4_name">Agency</h3>
+              <div class="price-amount">$<span class="price-val" data-monthly="199" data-yearly="149">199</span> <span class="price-period" data-i18n="per_month">/ mo</span></div>
+              <ul class="price-features">
+                <li data-i18n="pf_4_1">25 Client Stores &amp; Team Seats</li>
+                <li data-i18n="pf_4_2">Unlimited AI Pipeline &amp; Video Studio</li>
+                <li data-i18n="pf_4_3">White-Label Reports + Global CDN</li>
+                <li data-i18n="pf_4_4">Dedicated Priority Worker &amp; SLA</li>
+              </ul>
+            </div>
+            <button type="button" class="icon-btn" style="width:100%;justify-content:center;height:42px;" onclick="openAuthModal('register', 'Agency')" data-i18n="price_btn_4">Choose Agency</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section" id="faq">
+      <div class="container">
+        <h2 class="section-title-left" style="text-align:center;margin-bottom:2rem;" data-i18n="faq_title">Frequently Asked Questions</h2>
+        <div class="faq-list">
+          <details class="faq-item" open>
+            <summary data-i18n="fq1_q">Can I connect my existing Shopify and CJ Dropshipping accounts?</summary>
+            <p data-i18n="fq1_a">Yes. Inside the Workspace under "Settings &amp; Integrations", you can connect your Shopify token, CJ API key, and Telegram bot in under 1 minute.</p>
+          </details>
+          <details class="faq-item">
+            <summary data-i18n="fq2_q">What is included in the 7-day free trial?</summary>
+            <p data-i18n="fq2_a">Real-time Trend Radar signals, supplier margin simulation, and the 6-Agent Pipeline sandbox mode are unlocked immediately.</p>
+          </details>
+          <details class="faq-item">
+            <summary data-i18n="fq3_q">How much do I save with annual billing?</summary>
+            <p data-i18n="fq3_a">Annual billing gives you a permanent 25% discount across all subscription tiers.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div data-i18n="footer_copy">© 2026 ApexCart AI SaaS. All rights reserved.</div>
+      <div style="display:flex; gap:1.35rem;">
+        <a href="#agents" data-i18n="footer_agents">Agents &amp; Pipeline</a>
+        <a href="#pricing" data-i18n="footer_pricing">Pricing</a>
+        <a href="/app" data-i18n="footer_workspace">Agent Workspace</a>
+        <a href="/api/health" data-i18n="footer_status">API Status</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Native Accessible Login / Register Dialog -->
+  <dialog id="authDialog" class="auth-dialog" closedby="any" aria-labelledby="authDialogTitle">
+    <div class="dialog-head">
+      <h3 id="authDialogTitle" style="font-size:1.25rem;" data-i18n="auth_login_title">Customer Login</h3>
+      <button type="button" class="dialog-close" id="closeAuthDialogBtn" aria-label="Close">
+        <svg class="svg-icon" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <div class="auth-tabs" role="tablist" aria-label="Authentication Mode">
+      <button type="button" class="auth-tab-btn" role="tab" id="tabLoginBtn" aria-selected="true" data-i18n="auth_tab_login">Login</button>
+      <button type="button" class="auth-tab-btn" role="tab" id="tabRegisterBtn" aria-selected="false" data-i18n="auth_tab_register">Register</button>
+    </div>
+
+    <form id="authForm" method="POST" action="/app" aria-labelledby="authDialogTitle" class="form-grid">
+      <div class="field" id="nameFieldGroup" hidden>
+        <label for="authFullName" data-i18n="auth_lbl_name">Full Name</label>
+        <input type="text" id="authFullName" name="full_name" autocomplete="name" placeholder="e.g. Alex Morgan" data-i18n-placeholder="auth_ph_name" />
+      </div>
+
+      <div class="field">
+        <label for="authEmail" data-i18n="auth_lbl_email">Work Email</label>
+        <input type="email" id="authEmail" name="email" required autocomplete="email" placeholder="name@company.com" />
+      </div>
+
+      <div class="field">
+        <label for="authPassword" data-i18n="auth_lbl_pw">Password</label>
+        <div class="pw-wrap">
+          <input type="password" id="authPassword" name="password" required minlength="6" autocomplete="current-password" placeholder="••••••••" />
+          <button type="button" class="pw-toggle" id="togglePwBtn" aria-pressed="false" data-i18n="auth_pw_show">Show</button>
+        </div>
+      </div>
+
+      <div class="field" id="planFieldBadge" hidden>
+        <div style="padding:0.6rem 0.85rem; border-radius:9px; background:var(--bg-subtle); font-size:0.83rem; font-weight:600;">
+          <span data-i18n="auth_selected_plan">Selected Plan:</span> <span id="selectedPlanLabel" class="gold-text">Growth Pro</span>
+        </div>
+      </div>
+
+      <button type="submit" class="btn-emerald" id="authSubmitBtn" style="width:100%; height:44px;">
+        Sign In &amp; Open Workspace
+      </button>
+      <p class="form-note" id="authFormNote" data-i18n="auth_note">
+        Upon signing in, you will be redirected directly to the 6-Agent SaaS Workspace (/app).
+      </p>
+    </form>
+  </dialog>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" defer></script>
+  <script>
+    (function () {
+      const I18N = {
+        en: {
+          page_title: "ApexCart AI — 6-Agent E-Commerce & Dropshipping Automation Platform",
+          nav_agents: "Agents & Pipeline",
+          nav_pipeline: "Trend Radar",
+          nav_about: "ROI Calculator",
+          nav_pricing: "Pricing",
+          nav_login: "Customer Login",
+          nav_start: "Start Free",
+          hero_t1: "Make Your Dropshipping Business",
+          hero_t2: "Profitable with ApexCart AI",
+          hero_lead: "Discover winning products, source directly from factories without middlemen, optimize video ads, and scale your sales with our 6 autonomous AI agents.",
+          hero_cta_primary: "Start Free",
+          hero_cta_workspace: "Watch Demo",
+          hero_profit_sub: "Net Profit / 4.4x ROAS",
+          iso_factory: "1688 Factory",
+          iso_mid: "3PL Fulfillment • 0.4s Auto-Failover",
+          tiktok_views: "1.4M views",
+          tiktok_cap: "UGC video ad generated by AI Agent 04",
+          agents_title: "6-Agent Bento Grid & 1-Click Pipeline Flow",
+          agents_desc: "Each autonomous agent executes its stage and automatically hands off the output to the next agent in a single synchronized 6-stage pipeline.",
+          ag1_pill: "Agent 01 • Trend Hunter",
+          ag1_t: "Trend Hunter Agent",
+          ag1_d: "Scans Shopify, Amazon, and social signals to score viral demand and competitive whitespace.",
+          ag1_w_sub: "Viral Demand Spike",
+          ag2_pill: "Agent 02 • Supply, 3PL & Fulfillment",
+          ag2_t: "Supply, Margin & Fulfillment Agent",
+          ag2_d: "Verifies CJ Dropshipping, 1688 & 3PL costs/margins, dispatches orders automatically, and triggers backup supplier Auto-Failover.",
+          ag2_w_lbl: "Factory Cost:",
+          ag2_w_val: "0.4s Auto-Failover",
+          ag3_pill: "Agent 03 • Store Builder",
+          ag3_t: "Store & SEO Builder Agent",
+          ag3_d: "Publishes high-converting Shopify product pages, persuasive SEO copy, and structured pricing in 1 click.",
+          ag3_w_lbl: "Shopify CRO Store",
+          ag3_w_val: "1-Click Publish",
+          ag4_pill: "Agent 04 • Creative Studio",
+          ag4_t: "AI Video Ad Studio Agent",
+          ag4_d: "Creates high-CTR ad scripts, voiceovers, and studio-grade AI UGC clips for TikTok & Reels.",
+          ag4_w_lbl: "9:16 AI UGC Render",
+          ag5_pill: "Agent 05 • SMM",
+          ag5_t: "Social Media Manager (SMM)",
+          ag5_d: "Automates social channels: scheduling videos/images, writing captions, and replying to customer comments.",
+          ag5_w_val: "24/7 Auto-Pilot",
+          ag6_pill: "Agent 06 • Ad Ops",
+          ag6_t: "Meta Ads & ROAS Agent",
+          ag6_d: "Launches Meta Ads campaigns, guards CPA/ROAS targets, and auto-pauses underperforming creatives.",
+          ag6_w_lbl: "Live Meta ROAS",
+          p1_t: "Find Trend",
+          p1_d: "Niche selection via live signals",
+          p2_t: "Supply & Fulfillment",
+          p2_d: "CJ, 3PL margin & order routing",
+          p3_t: "Store",
+          p3_d: "Live Shopify product publish",
+          p4_t: "Ad Studio",
+          p4_d: "AI UGC video & creatives",
+          p5_t: "SMM",
+          p5_d: "Auto-posting videos & copy",
+          p6_t: "Meta Ads",
+          p6_d: "Campaign & CPA/ROAS control",
+          radar_title: "Live Trend Radar Preview",
+          radar_desc: "High-margin product signals detected in real time by our system. Create a free account to unlock direct factory links.",
+          radar_feed_label: "Real-Time Signal Feed",
+          radar_refresh: "Refresh",
+          radar_checking: "Scanning radar...",
+          radar_live_prefix: "Live",
+          radar_signals_unit: "signals",
+          radar_demo_signals: "Demo signals",
+          radar_demo_mode: "Demo mode",
+          radar_rec_price: "Recommended retail:",
+          radar_secret: "Factory $6.40 • +$14.80 net",
+          radar_unlock: "Unlock",
+          cmp_title: "Traditional Dropshipping vs ApexCart AI (6 Agents)",
+          cmp_badge: "6 Agents • 95%+ Saved",
+          cmp_th_agent: "Agent / Stage",
+          cmp_th_old: "Traditional",
+          cmp_th_new: "ApexCart AI",
+          cmp_th_save: "Savings",
+          cmp_r1_a: "Product Research",
+          cmp_r1_old: "Hours of manual hunting",
+          cmp_r1_new: "Minutes via Trend Radar",
+          cmp_r1_s: "~6–10 hrs/day",
+          cmp_r2_a: "Sourcing & 3PL",
+          cmp_r2_old: "Manual orders & middlemen",
+          cmp_r2_new: "Direct factory & auto-routing",
+          cmp_r2_s: "15–30% lower COGS",
+          cmp_r3_a: "Website Design",
+          cmp_r3_old: "Days & costly designers",
+          cmp_r3_new: "1-click store in minutes",
+          cmp_r3_s: "3–7 days + $300–$1k",
+          cmp_r4_a: "Ad Videos",
+          cmp_r4_old: "Costly creators & delays",
+          cmp_r4_new: "AI UGC videos in minutes",
+          cmp_r4_s: "$150–$500 + 3–5 days",
+          cmp_r5_a: "SMM Management",
+          cmp_r5_old: "High monthly SMM retainers",
+          cmp_r5_new: "Auto-posts & DM/Q&A replies",
+          cmp_r5_s: "$300–$800/mo",
+          cmp_r6_a: "Meta Ads",
+          cmp_r6_old: "Wasted ad budget",
+          cmp_r6_new: "Auto CPA & ROAS control",
+          cmp_r6_s: "25–40% less waste",
+          cmp_sum_old_lbl: "Traditional (1 Product)",
+          cmp_sum_old_val: "7–14 days • $500–$1,500+",
+          cmp_sum_new_lbl: "ApexCart AI (1 Product)",
+          cmp_sum_new_val: "~15–20 min • $29–$79/mo",
+          cmp_sum_save: "~95%+ faster & $450–$1,400+ saved",
+          calc_title: "Select Your Monthly Order Volume",
+          calc_sub: "Calculated directly from the 6-Agent table: $500–$1,500 launch/SMM costs + 15–30% COGS & 25–40% ad savings vs $29–$79/mo plan",
+          calc_orders_lbl: "Monthly Orders:",
+          calc_orders_unit: "orders",
+          calc_prod_singular: "product",
+          calc_prod_plural: "products",
+          calc_days_unit: "days",
+          calc_hrs_unit: "hrs",
+          calc_kpi1: "Time Saved (7–14 days/product + ~6–10 hrs/day)",
+          calc_kpi2: "Traditional Cost (Design, UGC, SMM + COGS/Ad Waste)",
+          calc_kpi3: "Net Savings with ApexCart AI (After $29–$79/mo plan)",
+          price_title: "Choose a Plan Built for Your Scale",
+          price_desc: "Upgrade or cancel anytime. Save 25% with annual billing.",
+          bill_monthly: "Monthly",
+          bill_yearly: "Yearly (-25%)",
+          plan1_name: "Free Trial",
+          plan2_name: "Starter",
+          plan3_name: "Growth Pro",
+          plan4_name: "Agency",
+          per_7days: "/ 7 days",
+          per_month: "/ mo",
+          popular_badge: "MOST POPULAR",
+          pf_1_1: "1 Store Integration",
+          pf_1_2: "3 AI Trend Scans / Day",
+          pf_1_3: "10 Sandbox Pipeline Runs",
+          pf_1_4: "CJ & Factory Cost Preview",
+          pf_2_1: "1 Live Shopify Store",
+          pf_2_2: "25 Full 6-Agent Pipelines / Mo",
+          pf_2_3: "15 AI UGC Video Renders",
+          pf_2_4: "Autonomous SMM + Telegram Alerts",
+          pf_3_1: "5 Shopify Stores",
+          pf_3_2: "Unlimited Radar & 150 Pipelines",
+          pf_3_3: "100 AI Videos + 3PL Auto-Failover",
+          pf_3_4: "Full SMM + Meta Ads ROAS Bot",
+          pf_4_1: "25 Client Stores & Team Seats",
+          pf_4_2: "Unlimited AI Pipeline & Video Studio",
+          pf_4_3: "White-Label Reports + Global CDN",
+          pf_4_4: "Dedicated Priority Worker & SLA",
+          price_btn_1: "Try Free",
+          price_btn_2: "Choose Starter",
+          price_btn_3: "Start Growth Pro",
+          price_btn_4: "Choose Agency",
+          faq_title: "Frequently Asked Questions",
+          fq1_q: "Can I connect my existing Shopify and CJ Dropshipping accounts?",
+          fq1_a: "Yes. Inside the Workspace under \"Settings & Integrations\", you can connect your Shopify token, CJ API key, and Telegram bot in under 1 minute.",
+          fq2_q: "What is included in the 7-day free trial?",
+          fq2_a: "Real-time Trend Radar signals, supplier margin simulation, and the 6-Agent Pipeline sandbox mode are unlocked immediately.",
+          fq3_q: "How much do I save with annual billing?",
+          fq3_a: "Annual billing gives you a permanent 25% discount across all subscription tiers.",
+          footer_copy: "© 2026 ApexCart AI SaaS. All rights reserved.",
+          footer_agents: "Agents & Pipeline",
+          footer_pricing: "Pricing",
+          footer_workspace: "Agent Workspace",
+          footer_status: "API Status",
+          auth_login_title: "Customer Login",
+          auth_reg_title: "Create SaaS Account",
+          auth_tab_login: "Login",
+          auth_tab_register: "Register",
+          auth_lbl_name: "Full Name",
+          auth_ph_name: "e.g. Alex Morgan",
+          auth_lbl_email: "Work Email",
+          auth_lbl_pw: "Password",
+          auth_pw_show: "Show",
+          auth_pw_hide: "Hide",
+          auth_selected_plan: "Selected Plan:",
+          auth_submit_login: "Sign In & Open Workspace",
+          auth_submit_reg: "Create Account & Open Workspace",
+          auth_note: "Upon signing in, you will be redirected directly to the 6-Agent SaaS Workspace (/app)."
+        },
+        az: {
+          page_title: "ApexCart AI — 6-Agent E-Commerce & Dropshipping Avtomatlaşdırma Platforması",
+          nav_agents: "Agentlər & Pipeline",
+          nav_pipeline: "Trend Radar",
+          nav_about: "ROI Kalkulyator",
+          nav_pricing: "Qiymətlər",
+          nav_login: "Müştəri Girişi",
+          nav_start: "Pulsuz Başla",
+          hero_t1: "Dropshipping Biznesinizi ApexCart AI ilə",
+          hero_t2: "Mənfəətli Edin",
+          hero_lead: "Süni intellekt əsaslı agentlərimizlə qalib məhsulları tapın, vasitəçisiz fabrikdən tədarük edin, reklamları optimallaşdırın və satışlarınızı artırın.",
+          hero_cta_primary: "Pulsuz Başla",
+          hero_cta_workspace: "Demoya Bax",
+          hero_profit_sub: "Xalis Mənfəət / 4.4x ROAS",
+          iso_factory: "1688 Fabrik",
+          iso_mid: "3PL Fulfillment • 0.4s Avto-Failover",
+          tiktok_views: "1.4M baxış",
+          tiktok_cap: "AI Agent 04 tərəfindən hazırlanan UGC reklam çarxı",
+          agents_title: "6-Agent Bento Grid və 1 Kliklə Pipeline Prosesi",
+          agents_desc: "Hər avtonom agent öz mərhələsini icra edir və nəticəni vahid 6 mərhələli sinxron iş axınında növbəti agentə ötürür.",
+          ag1_pill: "Agent 01 • Trend Kəşfiyyatı",
+          ag1_t: "Trend Kəşfiyyat Agentı",
+          ag1_d: "Shopify, Amazon və sosial bazar siqnallarını tarayır, viral potensialı və rəqabət boşluğunu bal ilə ölçür.",
+          ag1_w_sub: "Viral Tələb Artımı",
+          ag2_pill: "Agent 02 • Təchizat, 3PL & Fulfillment",
+          ag2_t: "Təchizat, Marja & Sifariş Agentı",
+          ag2_d: "CJ Dropshipping, 1688 və 3PL qiymətlərini/marjanı hesablayır, gələn sifarişləri avtomatik yönləndirir və stok bitdikdə ehtiyat təchizatçıya Avto-Failover edir.",
+          ag2_w_lbl: "Fabrik Maya:",
+          ag2_w_val: "0.4s Avto-Failover",
+          ag3_pill: "Agent 03 • Mağaza Qurucu",
+          ag3_t: "Mağaza & SEO Agentı",
+          ag3_d: "Shopify məhsul səhifəsini, konversiyaya fokuslu təsvirləri, qiymət çərçivəsini və şəkilləri 1 kliklə dərc edir.",
+          ag3_w_lbl: "Shopify CRO Mağaza",
+          ag3_w_val: "1-Klik Dərc",
+          ag4_pill: "Agent 04 • Kreativ Studiya",
+          ag4_t: "AI Video Reklam Agentı",
+          ag4_d: "TikTok və Meta Reels üçün yüksək CTR-li reklam ssenariləri, səsləndirmə və peşəkar AI UGC videoları yaradır.",
+          ag4_w_lbl: "9:16 AI UGC Render",
+          ag5_pill: "Agent 05 • SMM",
+          ag5_t: "Sosial Media Menecer (SMM)",
+          ag5_d: "Sosial media hesablarının avtomatik idarə edilməsi: video və şəkil paylaşımı, başlıq/açıqlama yazılması və müştəri suallarının cavablanması.",
+          ag5_w_val: "24/7 Avto-İdarə",
+          ag6_pill: "Agent 06 • Reklam Əməliyyatları",
+          ag6_t: "Reklam & ROAS Agentı",
+          ag6_d: "Meta Ads kampaniyalarını işə salır, CPA və ROAS hədlərini izləyir, zəif reklamları avtomatik dayandırır.",
+          ag6_w_lbl: "Canlı Meta ROAS",
+          p1_t: "Trend Tap",
+          p1_d: "Real siqnallarla niş seçimi",
+          p2_t: "Təchizat & Fulfillment",
+          p2_d: "CJ, 3PL marja və sifariş axını",
+          p3_t: "Mağaza",
+          p3_d: "Shopify canlı məhsul dərci",
+          p4_t: "Reklam",
+          p4_d: "AI UGC video və kreativ",
+          p5_t: "SMM",
+          p5_d: "Avtomatik paylaşım & mətnlər",
+          p6_t: "Meta Ads",
+          p6_d: "Kampaniya & CPA/ROAS nəzarəti",
+          radar_title: "Canlı Trend Radar Ön-Baxışı",
+          radar_desc: "Sistemimizin real vaxtda tapdığı yüksək marjalı siqnallar. Təchizatçı linklərini açmaq üçün hesab yaradın.",
+          radar_feed_label: "Real-Time Siqnal Axını",
+          radar_refresh: "Yenilə",
+          radar_checking: "Radar yoxlanılır...",
+          radar_live_prefix: "Canlı",
+          radar_signals_unit: "siqnal",
+          radar_demo_signals: "Demo siqnallar",
+          radar_demo_mode: "Demo rejim",
+          radar_rec_price: "Tövsiyə satış:",
+          radar_secret: "Fabrik $6.40 • +$14.80 xalis",
+          radar_unlock: "Kilidi Aç",
+          cmp_title: "Ənənəvi Dropshipping vs ApexCart AI (6 Agent Üzrə)",
+          cmp_badge: "6 Agent • 95%+ Qənaət",
+          cmp_th_agent: "Agent / Mərhələ",
+          cmp_th_old: "Ənənəvi",
+          cmp_th_new: "ApexCart AI",
+          cmp_th_save: "Qənaət",
+          cmp_r1_a: "Məhsul Araşdırması",
+          cmp_r1_old: "Saatlarla əl ilə axtarış",
+          cmp_r1_new: "Trend Radar ilə dəqiqələrə",
+          cmp_r1_s: "~6–10 saat/gün",
+          cmp_r2_a: "Tədarük & 3PL",
+          cmp_r2_old: "Əl ilə sifariş & vasitəçi",
+          cmp_r2_new: "Fabrikdən birbaşa & avtomatik",
+          cmp_r2_s: "15–30% maya dəyəri",
+          cmp_r3_a: "Vebsayt Dizaynı",
+          cmp_r3_old: "Günlər & baha dizayner",
+          cmp_r3_new: "1 kliklə hazır mağaza",
+          cmp_r3_s: "3–7 gün + $300–$1k",
+          cmp_r4_a: "Reklam Videoları",
+          cmp_r4_old: "Baha influencer & gecikmə",
+          cmp_r4_new: "Dəqiqələrə AI UGC video",
+          cmp_r4_s: "$150–$500 + 3–5 gün",
+          cmp_r5_a: "SMM İdarəetməsi",
+          cmp_r5_old: "Yüksək aylıq SMM maaşı",
+          cmp_r5_new: "Avtomatik post & DM/şərh",
+          cmp_r5_s: "$300–$800/ay",
+          cmp_r6_a: "Meta Reklamlar",
+          cmp_r6_old: "Boşa gedən reklam büdcəsi",
+          cmp_r6_new: "Avtomatik CPA & ROAS nəzarəti",
+          cmp_r6_s: "25–40% az israf",
+          cmp_sum_old_lbl: "Ənənəvi (1 Məhsul)",
+          cmp_sum_old_val: "7–14 gün • $500–$1,500+",
+          cmp_sum_new_lbl: "ApexCart AI (1 Məhsul)",
+          cmp_sum_new_val: "~15–20 dəq • $29–$79/ay",
+          cmp_sum_save: "~95%+ zaman & $450–$1,400+ qənaət",
+          calc_title: "Aylıq Sifariş Həcminizi Seçin",
+          calc_sub: "6-Agent cədvəlindəki qiymətlərə uyğun: $500–$1,500 buraxılış/SMM xərci + 15–30% maya & 25–40% reklam qənaəti vs $29–$79/ay plan",
+          calc_orders_lbl: "Aylıq Sifariş Sayı:",
+          calc_orders_unit: "sifariş",
+          calc_prod_singular: "məhsul",
+          calc_prod_plural: "məhsul",
+          calc_days_unit: "gün",
+          calc_hrs_unit: "saat",
+          calc_kpi1: "Aylıq Vaxt Qənaəti (7–14 gün/məhsul + ~6–10 saat/gün)",
+          calc_kpi2: "Ənənəvi Xərc (Dizayn, UGC, SMM + Maya/Reklam İtkisi)",
+          calc_kpi3: "ApexCart AI İlə Xalis Qənaət ($29–$79/ay plan çıxılmaqla)",
+          price_title: "Biznesinizin Həcminə Uyğun Plan Seçin",
+          price_desc: "İstənilən vaxt yüksəldin və ya ləğv edin. İllik ödənişdə 25% qənaət.",
+          bill_monthly: "Aylıq",
+          bill_yearly: "İllik (-25%)",
+          plan1_name: "Free Trial",
+          plan2_name: "Starter",
+          plan3_name: "Growth Pro",
+          plan4_name: "Agency",
+          per_7days: "/ 7 gün",
+          per_month: "/ ay",
+          popular_badge: "ƏN ÇOX SEÇİLƏN",
+          pf_1_1: "1 Mağaza İnteqrasiyası",
+          pf_1_2: "Gündə 3 AI Trend Analizi",
+          pf_1_3: "10 Sandbox Pipeline Testi",
+          pf_1_4: "CJ & Fabrik Qiymət Ön-Baxışı",
+          pf_2_1: "1 Canlı Shopify Mağazası",
+          pf_2_2: "Ayda 25 Tam 6-Agent Pipeline",
+          pf_2_3: "15 AI UGC Video Renderi",
+          pf_2_4: "Avtonom SMM + Telegram Bildiriş",
+          pf_3_1: "5 Shopify Mağazası",
+          pf_3_2: "Limitsiz Radar & 150 Pipeline",
+          pf_3_3: "100 AI Video + 3PL Avto-Failover",
+          pf_3_4: "Tam SMM + Meta Ads ROAS Bot",
+          pf_4_1: "25 Müştəri Mağazası & Komanda Yeri",
+          pf_4_2: "Limitsiz AI Pipeline & Video Studiya",
+          pf_4_3: "White-Label Hesabatlar + Qlobal CDN",
+          pf_4_4: "Ayrılmış Prioritet Worker & SLA",
+          price_btn_1: "Pulsuz Yoxla",
+          price_btn_2: "Starter Seç",
+          price_btn_3: "Growth Pro Başlat",
+          price_btn_4: "Agency Seç",
+          faq_title: "Tez-tez Verilən Suallar",
+          fq1_q: "Mövcud Shopify və CJ Dropshipping hesabımı qoşa bilərəmmi?",
+          fq1_a: "Bəli. Workspace daxilində \"Settings & Integrations\" bölməsindən öz Shopify token, CJ API və Telegram bot açarlarınızı 1 dəqiqədə bağlaya bilərsiniz.",
+          fq2_q: "Pulsuz 7 günlük sınaq müddətində nələr aktivdir?",
+          fq2_a: "Trend Radar siqnalları, təchizatçı marja simulyasiyası və 6-Agent Pipeline sandbox rejimi dərhal açıqdır.",
+          fq3_q: "İllik abunəliyə keçdikdə nə qədər qənaət edirəm?",
+          fq3_a: "İllik ödəniş planında bütün paketlərdə 25% daimi endirim tətbiq olunur.",
+          footer_copy: "© 2026 ApexCart AI SaaS. Bütün hüquqlar qorunur.",
+          footer_agents: "Agentlər & Pipeline",
+          footer_pricing: "Qiymətlər",
+          footer_workspace: "Agent Workspace",
+          footer_status: "API Status",
+          auth_login_title: "Müştəri Girişi",
+          auth_reg_title: "SaaS Hesabı Yarat",
+          auth_tab_login: "Giriş (Login)",
+          auth_tab_register: "Qeydiyyat",
+          auth_lbl_name: "Ad və Soyad",
+          auth_ph_name: "Məs: Elvin Məmmədov",
+          auth_lbl_email: "İş E-poçtu",
+          auth_lbl_pw: "Şifrə",
+          auth_pw_show: "Göstər",
+          auth_pw_hide: "Gizlət",
+          auth_selected_plan: "Seçilmiş Plan:",
+          auth_submit_login: "Daxil ol və Workspace-i Aç",
+          auth_submit_reg: "Hesabı Yarat və Workspace-i Aç",
+          auth_note: "Daxil olduqda birbaşa 6-Agent SaaS əməliyyat panelinə (/app) yönləndiriləcəksiniz."
+        }
+      };
+
+      // Primary / Default language is English ('en')
+      let currentLang = localStorage.getItem('apexcart_ui_lang') || 'en';
+      let cachedRadarItems = [];
+      let radarLiveCount = 0;
+      let radarState = 'loading'; // 'loading' | 'live' | 'demo_signals' | 'demo_mode'
+
+      const slider = document.getElementById('ordersRange');
+      const authDialog = document.getElementById('authDialog');
+      const authTitle = document.getElementById('authDialogTitle');
+      const tabLoginBtn = document.getElementById('tabLoginBtn');
+      const tabRegisterBtn = document.getElementById('tabRegisterBtn');
+      const nameFieldGroup = document.getElementById('nameFieldGroup');
+      const planFieldBadge = document.getElementById('planFieldBadge');
+      const selectedPlanLabel = document.getElementById('selectedPlanLabel');
+      const authPassword = document.getElementById('authPassword');
+      const authSubmitBtn = document.getElementById('authSubmitBtn');
+      const authForm = document.getElementById('authForm');
+      const togglePwBtn = document.getElementById('togglePwBtn');
+      let authMode = 'login';
+
+      // ROI Calculator aligned with the 6-Agent Comparison Table numbers:
+      // - 1 Product Traditional base cost: $850 (within $500–$1,500+: Website $300–$1k, UGC $150–$500, SMM $300–$800/mo)
+      // - Additional active product/campaign cost: +$450 per product
+      // - Per-order savings (Agent 02 15–30% COGS + Agent 06 25–40% Meta Ads waste reduction): $5.00/order
+      // - Time saved: 10 days (~80 hrs) for 1st product (within 7–14 days) + 6 days (48 hrs) per extra product
+      // - ApexCart AI subscription deducted: $29/mo (Starter <=150 orders) or $79/mo (Growth Pro >150 orders)
+      function updateCalc() {
+        const dict = I18N[currentLang] || I18N.en;
+        const orders = Number(slider?.value || 350);
+        const products = Math.max(1, Math.round(orders / 100));
+        const prodWord = products === 1 ? dict.calc_prod_singular : dict.calc_prod_plural;
+
+        const savedDays = 10 + (products - 1) * 6;
+        const savedHours = savedDays * 8;
+
+        const traditionalCost = 850 + (products - 1) * 450 + Math.round(orders * 5);
+        const apexSubCost = orders <= 150 ? 29 : 79;
+        const netSavings = traditionalCost - apexSubCost;
+
+        const outEl = document.getElementById('calcOrdersOut');
+        if (outEl) outEl.textContent = `${orders} ${dict.calc_orders_unit} (${products} ${prodWord})`;
+
+        const hrsEl = document.getElementById('calcSavedHours');
+        if (hrsEl) hrsEl.textContent = `${savedDays} ${dict.calc_days_unit} (~${savedHours} ${dict.calc_hrs_unit})`;
+
+        const tradEl = document.getElementById('calcExtraMargin');
+        if (tradEl) tradEl.textContent = '$' + traditionalCost.toLocaleString();
+
+        const netEl = document.getElementById('calcEstProfit');
+        if (netEl) netEl.textContent = '+$' + netSavings.toLocaleString();
+      }
+
+      function updateRadarStatusText() {
+        const statusEl = document.getElementById('radarStatusText');
+        if (!statusEl) return;
+        const dict = I18N[currentLang] || I18N.en;
+        if (radarState === 'loading') statusEl.textContent = dict.radar_checking;
+        else if (radarState === 'live') statusEl.textContent = `${dict.radar_live_prefix} (${radarLiveCount} ${dict.radar_signals_unit})`;
+        else if (radarState === 'demo_signals') statusEl.textContent = dict.radar_demo_signals;
+        else statusEl.textContent = dict.radar_demo_mode;
+      }
+
+      function renderRadarCards() {
+        const grid = document.getElementById('radarPreviewGrid');
+        if (!grid) return;
+        const dict = I18N[currentLang] || I18N.en;
+        const renderList = cachedRadarItems.length ? cachedRadarItems : [
+          { title: "Portable USB Smoothie Blender Pro", source: "Shopify + TikTok", score: 96, sell_price: "$39.90" },
+          { title: "Smart Portable Espresso Maker", source: "Amazon Movers", score: 92, sell_price: "$54.00" },
+          { title: "Magnetic Posture Corrector V2", source: "CJ Trending", score: 89, sell_price: "$24.50" }
+        ];
+        grid.innerHTML = renderList.map((item) => {
+          const title = (item.title || item.name || 'Trending Winner Product').slice(0, 56);
+          const src = item.source || item.platform || 'Unified Radar';
+          const score = item.score || item.viral_score || item.demand_score || 92;
+          const price = item.price || item.sell_price || '$39.90';
+          return `
+            <article class="radar-card">
+              <div>
+                <div class="radar-badge-row" style="margin-bottom:0.6rem;">
+                  <span class="pill-source">${src}</span>
+                  <span class="pill-score">Score ${score}/100</span>
+                </div>
+                <h4 style="font-size:0.98rem; margin-bottom:0.35rem;">${title}</h4>
+                <div style="font-size:0.82rem; color:var(--text-muted);">${dict.radar_rec_price} <strong class="tabular">${price}</strong></div>
+              </div>
+              <div class="radar-locked">
+                <span class="blur-secret">${dict.radar_secret}</span>
+                <button type="button" class="btn-emerald" style="height:30px; padding:0 0.75rem; font-size:0.74rem;" onclick="openAuthModal('register', 'Growth Pro')">${dict.radar_unlock}</button>
+              </div>
+            </article>
+          `;
+        }).join('');
+      }
+
+      function setAuthMode(mode, planName) {
+        authMode = mode;
+        const isReg = mode === 'register';
+        const dict = I18N[currentLang] || I18N.en;
+        tabLoginBtn?.setAttribute('aria-selected', String(!isReg));
+        tabRegisterBtn?.setAttribute('aria-selected', String(isReg));
+        if (authTitle) authTitle.textContent = isReg ? dict.auth_reg_title : dict.auth_login_title;
+        if (nameFieldGroup) nameFieldGroup.hidden = !isReg;
+        const fullNameInput = document.getElementById('authFullName');
+        if (fullNameInput) fullNameInput.required = isReg;
+        if (authPassword) authPassword.autocomplete = isReg ? 'new-password' : 'current-password';
+        if (authSubmitBtn) authSubmitBtn.textContent = isReg ? dict.auth_submit_reg : dict.auth_submit_login;
+        if (planName && selectedPlanLabel && planFieldBadge) {
+          selectedPlanLabel.textContent = planName;
+          planFieldBadge.hidden = false;
+        } else if (planFieldBadge) {
+          planFieldBadge.hidden = !isReg;
+        }
+      }
+
+      function applyLang(lang) {
+        currentLang = (lang === 'az' || lang === 'en') ? lang : 'en';
+        try {
+          localStorage.setItem('apexcart_ui_lang', currentLang);
+        } catch (e) {}
+        document.documentElement.lang = currentLang;
+        const dict = I18N[currentLang] || I18N.en;
+        if (dict.page_title) document.title = dict.page_title;
+        const badge = document.getElementById('langBadge');
+        if (badge) badge.textContent = currentLang.toUpperCase();
+
+        document.querySelectorAll('[data-i18n]').forEach((el) => {
+          const k = el.getAttribute('data-i18n');
+          if (dict[k]) el.textContent = dict[k];
+        });
+        document.querySelectorAll('[data-i18n-placeholder]').forEach((el) => {
+          const k = el.getAttribute('data-i18n-placeholder');
+          if (dict[k]) el.setAttribute('placeholder', dict[k]);
+        });
+
+        if (togglePwBtn && authPassword) {
+          const showing = authPassword.type === 'text';
+          togglePwBtn.textContent = showing ? dict.auth_pw_hide : dict.auth_pw_show;
+        }
+        updateCalc();
+        updateRadarStatusText();
+        renderRadarCards();
+        setAuthMode(authMode, selectedPlanLabel?.textContent || '');
+      }
+
+      document.getElementById('langToggleBtn')?.addEventListener('click', () => {
+        applyLang(currentLang === 'en' ? 'az' : 'en');
+      });
+
+      // Dark / Light Color Scheme Sync
+      const metaScheme = document.querySelector('meta[name="color-scheme"]');
+      const mqDark = window.matchMedia('(prefers-color-scheme: dark)');
+      function getCurrentTheme() {
+        if (metaScheme.content === 'dark' || metaScheme.content === 'light') return metaScheme.content;
+        return mqDark.matches ? 'dark' : 'light';
+      }
+      function updateThemeUI() {
+        const wrap = document.getElementById('themeIconWrap');
+        if (!wrap) return;
+        const isDark = getCurrentTheme() === 'dark';
+        wrap.innerHTML = isDark
+          ? '<svg class="svg-icon" viewBox="0 0 24 24" style="width:15px;height:15px;"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>'
+          : '<svg class="svg-icon" viewBox="0 0 24 24" style="width:15px;height:15px;"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      }
+      function setTheme(next) {
+        const system = mqDark.matches ? 'dark' : 'light';
+        metaScheme.content = next;
+        try {
+          if (next === system) localStorage.removeItem('apexcart_color_scheme');
+          else localStorage.setItem('apexcart_color_scheme', next);
+        } catch (e) {}
+        updateThemeUI();
+      }
+      document.getElementById('themeToggleBtn')?.addEventListener('click', () => {
+        setTheme(getCurrentTheme() === 'dark' ? 'light' : 'dark');
+      });
+      window.addEventListener('storage', (ev) => {
+        if (ev.key === 'apexcart_color_scheme') {
+          metaScheme.content = (ev.newValue === 'dark' || ev.newValue === 'light') ? ev.newValue : 'light dark';
+          updateThemeUI();
+        }
+      });
+      updateThemeUI();
+
+      // Mobile nav
+      document.getElementById('mobileMenuBtn')?.addEventListener('click', () => {
+        document.getElementById('mainNavLinks')?.classList.toggle('open');
+      });
+
+      slider?.addEventListener('input', updateCalc);
+
+      // Billing Cycle Toggle
+      const billBtns = document.querySelectorAll('.billing-btn');
+      billBtns.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const mode = btn.dataset.billing;
+          billBtns.forEach((b) => b.classList.toggle('active', b === btn));
+          document.querySelectorAll('.price-val').forEach((el) => {
+            el.textContent = mode === 'yearly' ? el.dataset.yearly : el.dataset.monthly;
+          });
+        });
+      });
+
+      // Live Trend Radar Preview (/api/radar/unified)
+      async function loadRadarPreview() {
+        const grid = document.getElementById('radarPreviewGrid');
+        if (!grid) return;
+        radarState = 'loading';
+        updateRadarStatusText();
+        try {
+          const res = await fetch('/api/radar/unified');
+          const data = await res.json();
+          const items = (data.items || data.products || data.signals || []).slice(0, 3);
+          cachedRadarItems = items;
+          radarLiveCount = items.length;
+          radarState = items.length ? 'live' : 'demo_signals';
+          updateRadarStatusText();
+          renderRadarCards();
+        } catch (err) {
+          cachedRadarItems = [];
+          radarState = 'demo_mode';
+          updateRadarStatusText();
+          renderRadarCards();
+        }
+      }
+      document.getElementById('refreshRadarBtn')?.addEventListener('click', loadRadarPreview);
+
+      window.openAuthModal = function (mode = 'login', planName = '') {
+        setAuthMode(mode, planName);
+        if (authDialog && !authDialog.open) authDialog.showModal();
+      };
+
+      document.getElementById('openLoginBtn')?.addEventListener('click', () => window.openAuthModal('login'));
+      document.getElementById('openRegisterBtn')?.addEventListener('click', () => window.openAuthModal('register', 'Free Trial'));
+      document.getElementById('heroStartBtn')?.addEventListener('click', () => window.openAuthModal('register', 'Free Trial'));
+      document.getElementById('closeAuthDialogBtn')?.addEventListener('click', () => authDialog?.close());
+      tabLoginBtn?.addEventListener('click', () => setAuthMode('login'));
+      tabRegisterBtn?.addEventListener('click', () => setAuthMode('register', selectedPlanLabel?.textContent));
+
+      authDialog?.addEventListener('close', () => {
+        authDialog.returnValue = '';
+      });
+
+      if (authDialog && !('closedBy' in HTMLDialogElement.prototype)) {
+        authDialog.addEventListener('click', (e) => {
+          if (e.target === authDialog) authDialog.close();
+        });
+      }
+
+      togglePwBtn?.addEventListener('click', () => {
+        const dict = I18N[currentLang] || I18N.en;
+        const showing = authPassword.type === 'text';
+        authPassword.type = showing ? 'password' : 'text';
+        togglePwBtn.setAttribute('aria-pressed', String(!showing));
+        togglePwBtn.textContent = showing ? dict.auth_pw_show : dict.auth_pw_hide;
+      });
+
+      authForm?.addEventListener('submit', (e) => {
+        e.preventDefault();
+        if (!authForm.checkValidity()) {
+          authForm.reportValidity();
+          return;
+        }
+        authSubmitBtn.disabled = true;
+        const email = document.getElementById('authEmail').value.trim();
+        const name = document.getElementById('authFullName').value.trim() || email.split('@')[0];
+        const plan = selectedPlanLabel.textContent || 'Growth Pro';
+        try {
+          localStorage.setItem('apexcart_demo_user', JSON.stringify({ name, email, plan, mode: authMode }));
+        } catch (err) {}
+        authDialog.close();
+        window.location.href = '/app';
+      });
+
+      applyLang(currentLang);
+      loadRadarPreview();
+
+      // Ambient Emerald & Gold Three.js Particles around Isometric Stage
+      function initEmerald3D() {
+        const canvas = document.getElementById('heroThreeCanvas');
+        const stage = canvas?.parentElement;
+        if (!canvas || !stage) return;
+        const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (typeof window.THREE === 'undefined') return;
+
+        const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(45, stage.clientWidth / stage.clientHeight, 0.1, 100);
+        camera.position.z = 7;
+
+        const count = 130;
+        const geo = new THREE.BufferGeometry();
+        const pos = new Float32Array(count * 3);
+        for (let i = 0; i < count; i++) {
+          pos[i * 3] = (Math.random() - 0.5) * 10;
+          pos[i * 3 + 1] = (Math.random() - 0.5) * 8;
+          pos[i * 3 + 2] = (Math.random() - 0.5) * 5;
+        }
+        geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+        const mat = new THREE.PointsMaterial({ color: 0x10b981, size: 0.055, transparent: true, opacity: 0.65 });
+        const pts = new THREE.Points(geo, mat);
+        scene.add(pts);
+
+        function resize() {
+          const w = stage.clientWidth || 560;
+          const h = stage.clientHeight || 520;
+          renderer.setSize(w, h, false);
+          camera.aspect = w / h;
+          camera.updateProjectionMatrix();
+        }
+        resize();
+        window.addEventListener('resize', resize);
+
+        function tick() {
+          if (!reduced) {
+            pts.rotation.y += 0.0012;
+          }
+          renderer.render(scene, camera);
+          if (!reduced) requestAnimationFrame(tick);
+        }
+        tick();
+      }
+
+      if (document.readyState === 'complete') initEmerald3D();
+      else window.addEventListener('load', initEmerald3D);
+    })();
+  </script>
+</body>
+</html>

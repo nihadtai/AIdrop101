@@ -1,0 +1,519 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-07T20:11:38+00:00",
+  "finished_at": "2026-11-07T20:11:43+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 2,
+    "items_scanned": 60,
+    "filtered_out": 16,
+    "first_run_pages": 0,
+    "signals_above_threshold": 20
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Estée Lauder Glimmer Eau de Parfum Spray with Notes of Macaron Rose Accord, Amber Embrace Accord & Shimmering Patchouli | Per",
+      "url": "https://www.amazon.com/dp/B0H8FP12FR",
+      "score": 90,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#4)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51hUVKak63L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8FP12FR",
+        "rank": 4,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 2,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "WTVANE 280Pcs Thick Lash Clusters 260D Eyelash Clusters 14-24mm | Mega Volume Cluster Eyelash Extensions D Curl Individual La",
+      "url": "https://www.amazon.com/dp/B0HDZLG2B8",
+      "score": 83,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "📈 Reytinqdə 9 pillə yüksəlib (#26 → #17)",
+        "💎 Erkən trend: cəmi 98 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91T4RCR8UlL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDZLG2B8",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 98,
+        "rank_jump": 9,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "VIVITAN Facial Hair Removal for Women - Rechargeable Eyebrow & Face Shaver | 2-IN-1 Rechargeable Face Razors for Women, Eyebr",
+      "url": "https://www.amazon.com/dp/B0HGWXK6QQ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 106 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $12.99 → tövsiyə satış: ~$34.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nWVEnx8XL._AC_UL900_SR900,600_.jpg",
+      "price": 12.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGWXK6QQ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 106,
+        "suggested_dtc_price": 34.99,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Erborian CC Cream, Color-Correct, Evens Tone, Korean Skincare Makeup Hybrid | Moisturizing, lightweight, skin blurring for na",
+      "url": "https://www.amazon.com/dp/B0HD1LBYF7",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $26.00 → tövsiyə satış: ~$65.00)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TmrD0kTmL._AC_UL900_SR900,600_.jpg",
+      "price": 26.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HD1LBYF7",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 5018,
+        "suggested_dtc_price": 65.0,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "SpaLife Candy Cane Under Eye Patches | Gifts For Women | Christmas Eye Mask | Holiday Stocking Stuffers For Teens | Hydrating",
+      "url": "https://www.amazon.com/dp/B0HKPWWR6X",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "📈 Reytinqdə 5 pillə yüksəlib (#18 → #13)",
+        "🌱 Yeni yüksələn məhsul (258 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.99 → tövsiyə satış: ~$47.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Hfs3Sw3RL._AC_UL900_SR900,600_.jpg",
+      "price": 18.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HKPWWR6X",
+        "rank": 13,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 258,
+        "rank_jump": 5,
+        "suggested_dtc_price": 47.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "1 Pack Foot File Callus Remover for Feet, Beech Wood Handle Pedicure Foot Scrubber for Dead Skin and Rough Heels, Reusable Ma",
+      "url": "https://www.amazon.com/dp/B0HKGC9SKL",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 9 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81npI56lUsL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HKGC9SKL",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 9,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Dr. Squatch Natural Men's Bar Soap, Glow in the Dark Soap (5oz) | Limited Edition, Glow-in-the-Dark Cold Process Body Soap Ba",
+      "url": "https://www.amazon.com/dp/B0HM1YKK7B",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "🌱 Yeni yüksələn məhsul (354 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $8.00 → tövsiyə satış: ~$30.00)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81sSeOdv85L._AC_UL900_SR900,600_.jpg",
+      "price": 8.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM1YKK7B",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 354,
+        "suggested_dtc_price": 30.0,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "REMEDY 15% Azelaic Acid Complex Advanced Clarifying Serum | Redness, Dark Spots and Blemish-Prone Skin, Water-Light Texture,",
+      "url": "https://www.amazon.com/dp/B0HGKNXFX6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "💎 Erkən trend: cəmi 111 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.99 → tövsiyə satış: ~$62.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61m8lYWy3QL._AC_UL900_SR900,600_.jpg",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGKNXFX6",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 111,
+        "suggested_dtc_price": 62.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Lymphatic Drainage Massager & Anti Cellulite Massage Tool | Helps Reduce the Appearance of Cellulite, 4-in-1 Body Sculpting M",
+      "url": "https://www.amazon.com/dp/B0HLDTJ1QR",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.49 → tövsiyə satış: ~$61.22)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616LALZNJ1L._AC_UL900_SR900,600_.jpg",
+      "price": 24.49,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HLDTJ1QR",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 1161,
+        "suggested_dtc_price": 61.22,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Pantene Deep Nourishing Cream to Mist Leave In Spray, Co-Created with Abbey Yung, Heat Protectant & Detangler Spray for Hair.",
+      "url": "https://www.amazon.com/dp/B0HFM6BJJ7",
+      "score": 60,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "🌱 Yeni yüksələn məhsul (193 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71wyAeVsUKL._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFM6BJJ7",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 193,
+        "suggested_dtc_price": 37.48,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "YGZ Beard Trimmer for Men, Electric Razor Hair Clippers for Men, Gifts | 4-in-1 Grooming Kit With Guide Combs for Beard, Body",
+      "url": "https://www.amazon.com/dp/B0H6W613MY",
+      "score": 60,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "🌱 Yeni yüksələn məhsul (253 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.99 → tövsiyə satış: ~$62.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ONKGekzkL._AC_UL900_SR900,600_.jpg",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6W613MY",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 253,
+        "suggested_dtc_price": 62.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "COVERGIRL Lash Blast Showstopper Mascara, Dual-Material Double Act™ Brush, Intense Volume, Conditioning Complex, Long-Lasting",
+      "url": "https://www.amazon.com/dp/B0H4HSX371",
+      "score": 55,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#7)",
+        "💎 Erkən trend: cəmi 50 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FR0FpMcNL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4HSX371",
+        "rank": 7,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 50,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:bestsellers",
+      "title": "Luxe Color Changing Foundation for Mature Skin -  Light | Color Matching, Adapts to Your Skin Tone, Hydrating Hyaluronic Acid",
+      "url": "https://www.amazon.com/dp/B0G1VDB22X",
+      "score": 52,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#28)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $30.99 → tövsiyə satış: ~$77.47)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61IqKc-XjCL._AC_UL900_SR900,600_.jpg",
+      "price": 30.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0G1VDB22X",
+        "rank": 28,
+        "list_type": "bestsellers",
+        "rating": 4.0,
+        "reviews": 10329,
+        "suggested_dtc_price": 77.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "eos Holiday Super Balm- Cotton Candy Snow, Lip Sleeping Mask, 0.35 fl oz",
+      "url": "https://www.amazon.com/dp/B0CWRK6TNS",
+      "score": 50,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "💎 Erkən trend: cəmi 27 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71BWIdPnnEL._AC_UL900_SR900,600_.jpg",
+      "price": 4.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0CWRK6TNS",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 27,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Heyhae Semi Cured Gel Nail Strips - Hey, Berry First Kiss | Wine Jelly | Sun Cured No UV Light Needed, Salon Quality, Easy Ap",
+      "url": "https://www.amazon.com/dp/B0HCX7CDRN",
+      "score": 45,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FRtO+kBxL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCX7CDRN",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 3177,
+        "suggested_dtc_price": 31.99,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "SHPAVVER Head Shavers for Bald Men: 5-in-1 IPX7 Waterproof Grooming Kit - 7D Floating Electric Razor With Magnetic Removable",
+      "url": "https://www.amazon.com/dp/B0HGYDDD96",
+      "score": 45,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.97 → tövsiyə satış: ~$99.92)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71CkMbO8CgL._AC_UL900_SR900,600_.jpg",
+      "price": 39.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGYDDD96",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 8875,
+        "rank_jump": 1,
+        "suggested_dtc_price": 99.92,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "WOSADO Magnetic Eyelashes with Applicator, 21.5mm [No.17 Ice Black] Soft Reusable Glue-free Wispy Magnetic Lashes, Cruelty-fr",
+      "url": "https://www.amazon.com/dp/B0HHJCFL3Y",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "🌱 Yeni yüksələn məhsul (172 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61SH2iIOGxL._AC_UL900_SR900,600_.jpg",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHJCFL3Y",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 172,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:bestsellers",
+      "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz | Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon",
+      "url": "https://www.amazon.com/dp/B0DWFLY18Y",
+      "score": 40,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-30 (#26)",
+        "📈 Reytinqdə 4 pillə yüksəlib (#30 → #26)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HPLwL7omL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DWFLY18Y",
+        "rank": 26,
+        "list_type": "bestsellers",
+        "rating": 4.6,
+        "reviews": 7345,
+        "rank_jump": 4,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "e.l.f. Glow Reviver Lip Oil Stick, Plumstruck | Tinted, Non-Sticky & Hydrating For A Soft-Shine Shimmer Finish, Vegan & Cruel",
+      "url": "https://www.amazon.com/dp/B0HBCXKRPC",
+      "score": 40,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#1)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6177xxl+YQL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HBCXKRPC",
+        "rank": 1,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 2704,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Short Almond Press on Nails, Glossy Red Polka Dot Fake Nails, 24Pcs | Glue on Nails & Stick on Nails Feature Glossy Burgundy",
+      "url": "https://www.amazon.com/dp/B0HGR139LM",
+      "score": 40,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "💎 Erkən trend: cəmi 29 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ff26mJqZL._AC_UL900_SR900,600_.jpg",
+      "price": 6.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGR139LM",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 29,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-07T20:11:43+00:00"
+    }
+  ],
+  "page_errors": {}
+}

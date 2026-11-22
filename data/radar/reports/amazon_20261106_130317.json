@@ -1,0 +1,146 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-06T09:03:04+00:00",
+  "finished_at": "2026-11-06T09:03:17+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 2,
+    "pages_fetched": 4,
+    "pages_ok": 4,
+    "items_scanned": 120,
+    "filtered_out": 30,
+    "first_run_pages": 0,
+    "signals_above_threshold": 34
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "VIVITAN Facial Hair Removal for Women - Rechargeable Eyebrow & Face Shaver | 2-IN-1 Rechargeable Face Razors for Women, Eyebr",
+      "url": "https://www.amazon.com/dp/B0HGWXK6QQ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 96 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nWVEnx8XL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGWXK6QQ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 96,
+        "suggested_dtc_price": 31.99,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:03:17+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:home-garden:new-releases",
+      "title": "Thanksgiving Window Clings, Fall Stickers for Thanksgiving Decorations Indoor, Fall Window Decorations for Office Party Decor",
+      "url": "https://www.amazon.com/dp/B0HDYQVHY2",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "💎 Erkən trend: cəmi 83 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.98 → tövsiyə satış: ~$31.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Qh+qtJRPL._AC_UL900_SR900,600_.jpg",
+      "price": 9.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDYQVHY2",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 83,
+        "suggested_dtc_price": 31.98,
+        "category": "home-garden"
+      },
+      "detected_at": "2026-11-06T09:03:10+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Dr. Squatch Natural Men's Bar Soap, Glow in the Dark Soap (5oz) | Limited Edition, Glow-in-the-Dark Cold Process Body Soap Ba",
+      "url": "https://www.amazon.com/dp/B0HM1YKK7B",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "🌱 Yeni yüksələn məhsul (346 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $8.00 → tövsiyə satış: ~$30.00)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81sSeOdv85L._AC_UL900_SR900,600_.jpg",
+      "price": 8.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM1YKK7B",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 346,
+        "suggested_dtc_price": 30.0,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:03:17+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "REMEDY 15% Azelaic Acid Complex Advanced Clarifying Serum | Redness, Dark Spots and Blemish-Prone Skin, Water-Light Texture,",
+      "url": "https://www.amazon.com/dp/B0HGKNXFX6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "💎 Erkən trend: cəmi 106 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.99 → tövsiyə satış: ~$62.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61m8lYWy3QL._AC_UL900_SR900,600_.jpg",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGKNXFX6",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 106,
+        "suggested_dtc_price": 62.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:03:17+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:home-garden:new-releases",
+      "title": "2026 Christmas Squishies Advent Calendar， 24 Day Countdown Surprises Gifts | 24 Days Cute Squishies Included, 2026 Christmas",
+      "url": "https://www.amazon.com/dp/B0HNW7BP81",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81o6HupPsJL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNW7BP81",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 2,
+        "category": "home-garden"
+      },
+      "detected_at": "2026-11-06T09:03:10+00:00"
+    }
+  ],
+  "page_errors": {}
+}

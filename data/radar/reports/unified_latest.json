@@ -1,0 +1,566 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-21T10:52:52+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 17,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 1
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, Sports Bluetooth Headphones, Running Headphones | 75Hrs Playtime Ear Buds with LED Power Display, Noise Can",
+      "url": "https://www.amazon.com/dp/B0HMQLM3H2",
+      "score": 96,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "📈 Reytinqdə 8 pillə yüksəlib (#18 → #10)",
+        "🌱 Yeni yüksələn məhsul (277 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.89 → tövsiyə satış: ~$52.23)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aKa1+MVXL._AC_UL900_SR900,600_.jpg",
+      "price": 20.89,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMQLM3H2",
+        "rank": 10,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 277,
+        "rank_jump": 8,
+        "suggested_dtc_price": 52.23,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HP 14 inch Laptop, HD Display, Intel N150, 4 GB RAM, 128 GB UFS, Intel Graphics, Windows 11 Home, Includes a 1-Year Microsoft",
+      "url": "https://www.amazon.com/dp/B0H3KHVZS2",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#6)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 97 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Na4bC1-6L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3KHVZS2",
+        "rank": 6,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Blossom Pink | Instant film camera with selfie mirror, close-up m",
+      "url": "https://www.amazon.com/dp/B0HB6W86LR",
+      "score": 75,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "📈 Reytinqdə 11 pillə yüksəlib (#25 → #14)",
+        "💎 Erkən trend: cəmi 41 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81jVIWXuVgL._AC_UL900_SR900,600_.jpg",
+      "price": 79.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HB6W86LR",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.2,
+        "reviews": 41,
+        "rank_jump": 11,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617825",
+      "price": 36.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 62,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-21T10:52:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Max Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-max-case-essentials",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 52% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617734",
+      "price": 36.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 52,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-21T10:52:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
+      "price": 33.25,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 63,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-21T10:52:47+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towel - 25 Pack",
+      "url": "https://theragcompany.com/products/car-wash-towel-copy",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 53% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($30.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/car-wash-16x27-black-25ct-main-web.jpg?v=1784816393",
+      "price": 30.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 53,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "SHOKZ OpenRun Air 2 Bone Conduction Open-Ear Bluetooth Headphones，Black | Bundle with Hair Band；26.4g lightweight; Secure fit",
+      "url": "https://www.amazon.com/dp/B0H7HSSYG7",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (272 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qc-dve43L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H7HSSYG7",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 272,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Amazon Alexa Tablet 11 (all-new), 8GB RAM, 64GB, 11″ stunning 2.5K display, All-day battery, With Google Play, Designed for A",
+      "url": "https://www.amazon.com/dp/B0DN7GYYV2",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 129 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61MfxKC1UXL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DN7GYYV2",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 129,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Amazon Echo Time (all-new), Customizable smart clock, Smart alarms, Ambient sounds, Smart home hub, Ideal for bedrooms, Desig",
+      "url": "https://www.amazon.com/dp/B0FRPDXJYC",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 113 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dzZjmZ8LL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0FRPDXJYC",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 113,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-20T08:25:00+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-19T16:13:56+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-19T15:12:52+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
+      "score": 61,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "📈 Reytinqdə 3 pillə yüksəlib (#16 → #13)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.98 → tövsiyə satış: ~$47.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
+      "price": 18.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJTS6LXB",
+        "rank": 13,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 698,
+        "rank_jump": 3,
+        "suggested_dtc_price": 47.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-21T10:52:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Microfiber Wash Mitt - White/Grey",
+      "url": "https://theragcompany.com/products/microfiber-wash-mitt-white-grey",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/detail-factory-wash-mitt-web.jpg?v=1782335938",
+      "price": 6.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 60,
+        "vendor": "The Rag Company",
+        "product_type": "",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towels - 3 Pack",
+      "url": "https://theragcompany.com/products/car-wash-3-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 64% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/Spa-and-Workout-16x27-Black-3pk-stacked-web.jpg?v=1759861263",
+      "price": 5.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 64,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "2016 - Revenge Joggers",
+      "url": "https://youngla.com/products/2016",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($60.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: transparentlabs.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/2016_black_002_01_15_rudy_ecomm.jpg?v=1735684744",
+      "price": 60.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "transparentlabs.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "4123 - Yu-Gi-Oh!® Tees",
+      "url": "https://youngla.com/products/4123",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($44.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: crossrope.com, manduka.com, nobullproject.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Yugioh_-192.jpg?v=1742219086",
+      "price": 44.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "crossrope.com",
+          "manduka.com",
+          "nobullproject.com",
+          "repfitness.com",
+          "tenthousand.cc"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "youngla.com",
+      "title": "5193 - Streetwear Sherpa Jacket",
+      "url": "https://youngla.com/products/5193",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: outdoorvoices.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1775/6429/files/UtahGavin22.jpg?v=1765118338",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "YoungLA",
+        "product_type": "For Him",
+        "category": "fitness",
+        "cross_store_matches": [
+          "outdoorvoices.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-06T09:33:20+00:00",
+  "finished_at": "2026-11-06T09:34:05+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 6,
+    "pages_fetched": 12,
+    "pages_ok": 11,
+    "items_scanned": 330,
+    "filtered_out": 100,
+    "first_run_pages": 0,
+    "signals_above_threshold": 110
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Fall & Thanksgiving Tablecloth Rectangular, Tartan Plaid, 60\"x84\" | Yarn Dyed Fabric Table Cloth for Autumn & Harves",
+      "url": "https://www.amazon.com/dp/B0H3NN4LNW",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💎 Erkən trend: cəmi 74 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.95 → tövsiyə satış: ~$49.88)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81-DbmUf1yL._AC_UL900_SR900,600_.jpg",
+      "price": 19.95,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NN4LNW",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 74,
+        "suggested_dtc_price": 49.88,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-06T09:33:33+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "VIVITAN Facial Hair Removal for Women - Rechargeable Eyebrow & Face Shaver | 2-IN-1 Rechargeable Face Razors for Women, Eyebr",
+      "url": "https://www.amazon.com/dp/B0HGWXK6QQ",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 97 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.99 → tövsiyə satış: ~$31.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nWVEnx8XL._AC_UL900_SR900,600_.jpg",
+      "price": 9.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGWXK6QQ",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 97,
+        "suggested_dtc_price": 31.99,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:33:41+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "New Upgrade Smart Dog Bark Collar for Small Medium Large Dogs 10-100lbs, Humane Anti-Bark Device with Anti-False Trigger & Ba",
+      "url": "https://www.amazon.com/dp/B0HHKYJHTT",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#5)",
+        "💎 Erkən trend: cəmi 44 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $34.98 → tövsiyə satış: ~$87.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81SYB-y2mFL._AC_UL900_SR900,600_.jpg",
+      "price": 34.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHKYJHTT",
+        "rank": 5,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 44,
+        "suggested_dtc_price": 87.45,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-06T09:33:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "Hasbro Gaming Crossfire Game | Indoor Active Game for Kids and Teens | 2 Blasters, Marbles, Arena | Fun Family Board Games |",
+      "url": "https://www.amazon.com/dp/B0GHBKCYMX",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💎 Erkən trend: cəmi 71 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.97 → tövsiyə satış: ~$49.92)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZdHIjAz3L._AC_UL900_SR900,600_.jpg",
+      "price": 19.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GHBKCYMX",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 71,
+        "suggested_dtc_price": 49.92,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "2 in 1 Electric Hand Warmers Rechargeable Quick Heating Portable Reusable | Magnetic Turtle Shell Shape LED Display with Colo",
+      "url": "https://www.amazon.com/dp/B0HCM17QKB",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "💎 Erkən trend: cəmi 76 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/617ZOcOFmvL._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HCM17QKB",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 76,
+        "suggested_dtc_price": 37.48,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:automotive:new-releases",
+      "title": "AUTOONE H11 H8 H9 LED Bulbs, 80000LM Super Bright 6500K White,1:1 Mini Size | CANBUS Ready, No Flickering, 1400% Brightness w",
+      "url": "https://www.amazon.com/dp/B0H87XB3WG",
+      "score": 80,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "💎 Erkən trend: cəmi 81 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $26.09 → tövsiyə satış: ~$65.22)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615EnhCh4fL._AC_UL900_SR900,600_.jpg",
+      "price": 26.09,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H87XB3WG",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 81,
+        "suggested_dtc_price": 65.22,
+        "category": "automotive"
+      },
+      "detected_at": "2026-11-06T09:34:05+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:home-garden:new-releases",
+      "title": "Thanksgiving Window Clings, Fall Stickers for Thanksgiving Decorations Indoor, Fall Window Decorations for Office Party Decor",
+      "url": "https://www.amazon.com/dp/B0HDYQVHY2",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#30)",
+        "💎 Erkən trend: cəmi 83 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.98 → tövsiyə satış: ~$31.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Qh+qtJRPL._AC_UL900_SR900,600_.jpg",
+      "price": 9.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDYQVHY2",
+        "rank": 30,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 83,
+        "suggested_dtc_price": 31.98,
+        "category": "home-garden"
+      },
+      "detected_at": "2026-11-06T09:33:25+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "24 Pack Glass Spice Jars : 492 Lables & Pepper Grinder & Bamboo Lids | 4oz Spice Containers: Dual Shaker Lids, Cleaning Brush",
+      "url": "https://www.amazon.com/dp/B0HDQ4XH5W",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 11 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.99 → tövsiyə satış: ~$59.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81mHvQvL4xL._AC_UL900_SR900,600_.jpg",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HDQ4XH5W",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 11,
+        "suggested_dtc_price": 59.97,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-06T09:33:33+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Fall Tablecloths Rectangular 6ft, 2-Pack Waterproof Slub Texture | 60x102 Inch, Stain Resistant Autumn Harvest & Tha",
+      "url": "https://www.amazon.com/dp/B0H3NCPLGS",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "💎 Erkən trend: cəmi 63 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81em4O4eJHL._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NCPLGS",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 63,
+        "suggested_dtc_price": 49.97,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-06T09:33:33+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK 2 Pack Black Open Back Fitted Tablecloth Rectangle for 6ft Table | Wrinkle Resistant Washable Folding Table Cover, 3",
+      "url": "https://www.amazon.com/dp/B0H4T2VSBW",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "💎 Erkən trend: cəmi 45 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.49 → tövsiyə satış: ~$71.22)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512mvIrvEoL._AC_UL900_SR900,600_.jpg",
+      "price": 28.49,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H4T2VSBW",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 45,
+        "suggested_dtc_price": 71.22,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-06T09:33:33+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "Dr. Squatch Natural Men's Bar Soap, Glow in the Dark Soap (5oz) | Limited Edition, Glow-in-the-Dark Cold Process Body Soap Ba",
+      "url": "https://www.amazon.com/dp/B0HM1YKK7B",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "🌱 Yeni yüksələn məhsul (346 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $8.00 → tövsiyə satış: ~$30.00)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81sSeOdv85L._AC_UL900_SR900,600_.jpg",
+      "price": 8.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM1YKK7B",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 346,
+        "suggested_dtc_price": 30.0,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:33:41+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:beauty:new-releases",
+      "title": "REMEDY 15% Azelaic Acid Complex Advanced Clarifying Serum | Redness, Dark Spots and Blemish-Prone Skin, Water-Light Texture,",
+      "url": "https://www.amazon.com/dp/B0HGKNXFX6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "💎 Erkən trend: cəmi 106 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $24.99 → tövsiyə satış: ~$62.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61m8lYWy3QL._AC_UL900_SR900,600_.jpg",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HGKNXFX6",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 106,
+        "suggested_dtc_price": 62.47,
+        "category": "beauty"
+      },
+      "detected_at": "2026-11-06T09:33:41+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "OIRLVCE 24Rolls 360 Dog Poop Bags,Leak Proof for Dog Walks Lavender | 9\" x 13\" ,Leak-Proof,Extra Thick & Easy-Tear Dog Waste",
+      "url": "https://www.amazon.com/dp/B0H8HDKGKQ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "🌱 Yeni yüksələn məhsul (346 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $10.99 → tövsiyə satış: ~$32.99)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717K070pEgL._AC_UL900_SR900,600_.jpg",
+      "price": 10.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H8HDKGKQ",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 346,
+        "suggested_dtc_price": 32.99,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-06T09:33:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Smart Bark Collar for Large Medium Small Dogs, Rechargeable No-Bark Collar, Stop Barking Collar, 2026 Upgraded Dog Bark Colla",
+      "url": "https://www.amazon.com/dp/B0HN6NVY8D",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#11)",
+        "💎 Erkən trend: cəmi 26 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $27.99 → tövsiyə satış: ~$69.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ALEaAGflL._AC_UL900_SR900,600_.jpg",
+      "price": 27.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HN6NVY8D",
+        "rank": 11,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 26,
+        "suggested_dtc_price": 69.97,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-06T09:33:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:pet-supplies:new-releases",
+      "title": "Dog Bark Deterrent Device, Upgrade Anti Barking Device for Dogs | Ultrasonic Dog Barking Silencer with 3 Frequency Settings,",
+      "url": "https://www.amazon.com/dp/B0HNN8M1HD",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "💎 Erkən trend: cəmi 47 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $29.99 → tövsiyə satış: ~$74.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hrSRShtPL._AC_UL900_SR900,600_.jpg",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HNN8M1HD",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 47,
+        "suggested_dtc_price": 74.97,
+        "category": "pet-supplies"
+      },
+      "detected_at": "2026-11-06T09:33:49+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "Pedal Resistance Band with Handle, Foot Pedal Resistance Band for Women, Multifunction Exercise Bands for Home Gym Full Body",
+      "url": "https://www.amazon.com/dp/B0HB44PKF4",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "💎 Erkən trend: cəmi 61 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $17.99 → tövsiyə satış: ~$44.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71T0NDBKCGL._AC_UL900_SR900,600_.jpg",
+      "price": 17.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HB44PKF4",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 61,
+        "suggested_dtc_price": 44.97,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "Fbee Rechargeable Hand Warmers 2 Pack with Keychain, Gift for Women | Pocket-Size Design Fits Gloves, Smart Temp Control, Ele",
+      "url": "https://www.amazon.com/dp/B0HH8RYRJQ",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 132 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61I89Vi-WpL._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HH8RYRJQ",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 132,
+        "suggested_dtc_price": 37.48,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "DON'T DIE Emergency Blanket – 5 Pack – Thermal Mylar Foil Space Blankets | Ultralight Waterproof Essential Survival Gear Supp",
+      "url": "https://www.amazon.com/dp/B0GQJMP7BG",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#19)",
+        "💎 Erkən trend: cəmi 113 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $12.25 → tövsiyə satış: ~$34.25)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Z1P3bGVXL._AC_UL900_SR900,600_.jpg",
+      "price": 12.25,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GQJMP7BG",
+        "rank": 19,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 113,
+        "suggested_dtc_price": 34.25,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "Bearwind Electric Hand Warmers Rechargeable 2 Pack，Floral Art Design Magnetic Hand Warmers，0.1S Safe＆Fast Heating Cute Portab",
+      "url": "https://www.amazon.com/dp/B0HFZKWVWB",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "💎 Erkən trend: cəmi 106 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $16.99 → tövsiyə satış: ~$42.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dU5hkoDmL._AC_UL900_SR900,600_.jpg",
+      "price": 16.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HFZKWVWB",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 106,
+        "suggested_dtc_price": 42.47,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:sporting-goods:new-releases",
+      "title": "MrsRose Ultra Thin Rechargeable Hand Warmers 2 Pack with Carabiner Ring | Electric Hand Warmers, NTC Safety Control, 3 Heat L",
+      "url": "https://www.amazon.com/dp/B0HHJ31397",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "💎 Erkən trend: cəmi 115 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $14.99 → tövsiyə satış: ~$37.48)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710P5TiEK7L._AC_UL900_SR900,600_.jpg",
+      "price": 14.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHJ31397",
+        "rank": 27,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 115,
+        "suggested_dtc_price": 37.48,
+        "category": "sporting-goods"
+      },
+      "detected_at": "2026-11-06T09:33:57+00:00"
+    }
+  ],
+  "page_errors": {
+    "home-garden__bestsellers": "captcha_or_throttled — skipped"
+  }
+}

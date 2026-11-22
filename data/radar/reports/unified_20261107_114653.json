@@ -1,0 +1,555 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-07T07:46:53+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 14,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 16,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 2
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Heads",
+      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
+      "score": 100,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "📈 Reytinqdə 13 pillə yüksəlib (#27 → #14)",
+        "💎 Erkən trend: cəmi 83 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $23.98 → tövsiyə satış: ~$59.95)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cmAChhQKL._AC_UL900_SR900,600_.jpg",
+      "price": 23.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ1MJ6LW",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 83,
+        "rank_jump": 13,
+        "suggested_dtc_price": 59.95,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "8-in-1 Power Strip, Round USB & Type-C Fast Charging Station for Phones | 8-in-1 design with built-in charging ports eliminat",
+      "url": "https://www.amazon.com/dp/B0H989CW82",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 4 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616pcTTlM9L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H989CW82",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 4,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:51+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Dashboard Wireless Car Charger (HaloLock) - Black",
+      "url": "https://esrgear.com/products/15w-dashboard-wireless-car-charger-halolock",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Dashboard-Wireless-Car-Charger-_HaloLock_-Black-ESR-234342256.jpg?v=1765504852",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:51+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Fhumsh Wireless Earbuds, Bluetooth 6.0 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Cancel",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 70,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#3)",
+        "🌱 Yeni yüksələn məhsul (250 rəy — aşağı rəqabət)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.99 → tövsiyə satış: ~$49.97)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ep1QDS51L._AC_UL900_SR900,600_.jpg",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJ7MGWSZ",
+        "rank": 3,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 250,
+        "suggested_dtc_price": 49.97,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "TRAUSI Wireless Earbuds Bluetooth Headphones, 54H Playtime Stereo Over Ear Buds with ENC Noise Cancelling, LED Power Display,",
+      "url": "https://www.amazon.com/dp/B0HHS6TH1Q",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#16)",
+        "💎 Erkən trend: cəmi 35 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.99 → tövsiyə satış: ~$52.47)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.9/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714q0+lMZuL._AC_UL900_SR900,600_.jpg",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHS6TH1Q",
+        "rank": 16,
+        "list_type": "new-releases",
+        "rating": 4.9,
+        "reviews": 35,
+        "suggested_dtc_price": 52.47,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "INSIGNIA 40\" Class F40 Series 1080P Full HD Direct LED Smart Fire TV, Voice Remote with Alexa, Free & Live TV",
+      "url": "https://www.amazon.com/dp/B0HH1BM4D5",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 35 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Mp056fXiL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HH1BM4D5",
+        "rank": 26,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 35,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Crew Neck 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fashionnova.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Crew-Neck-3-Pack.jpg?v=1793590086",
+      "price": 55.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Crew",
+        "category": "fashion",
+        "cross_store_matches": [
+          "fashionnova.com"
+        ]
+      },
+      "detected_at": "2026-11-07T06:31:34+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-06T23:30:02+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-06T21:29:33+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Android 16 Tablet 10 Inch, 24GB RAM 64GB ROM 1TB,HD IPS,Fast WiFi 6, BT 5.4 | Electronics Tablets with HD IPS Touchscreen, 60",
+      "url": "https://www.amazon.com/dp/B0HN1ZXSWH",
+      "score": 65,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "📈 Reytinqdə 5 pillə yüksəlib (#30 → #25)",
+        "🌱 Yeni yüksələn məhsul (359 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71bv3j7wXTL._AC_UL900_SR900,600_.jpg",
+      "price": 79.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HN1ZXSWH",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 359,
+        "rank_jump": 5,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Active Noise Cancelling Ear Buds Wireless Bluetooth Headphones 80H Playtime Display Charging Case 50dB ANC Over Ear Hooks Ear",
+      "url": "https://www.amazon.com/dp/B0H68WX368",
+      "score": 61,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#12)",
+        "📈 Reytinqdə 3 pillə yüksəlib (#15 → #12)",
+        "💎 Erkən trend: cəmi 59 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.8/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71JunErTWgL._AC_UL900_SR900,600_.jpg",
+      "price": 89.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H68WX368",
+        "rank": 12,
+        "list_type": "new-releases",
+        "rating": 4.8,
+        "reviews": 59,
+        "rank_jump": 3,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-07T07:46:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Charging Pad (15W)- Black - 1 Set",
+      "url": "https://esrgear.com/products/qi2-mini-wireless-charger-black-1-set",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: status.co"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Charging-Pad-_15W_-Black-1-Set-ESR-234343952.jpg?v=1765509746",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 17,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "status.co"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:51+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Long Sleeve Pique Polo - Beige",
+      "url": "https://fashionnova.com/products/classic-long-sleeve-pique-polo-fncolorname-beige",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_10_B526MSW0937_Beige_KP_AM_08-12-31_0048-6_CM.jpg?v=1793991534",
+      "price": 15.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 40,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Knit Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-07T06:31:34+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Heavyweight Oversized Polo - Black",
+      "url": "https://fashionnova.com/products/classic-heavyweight-oversized-polo-fncolorname-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_13_B526MSW0935_Black_KP_AM_08-26-22_0068-5_CM.jpg?v=1793991635",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Knit Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-07T06:31:34+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Rib Knit Quarter Zip Sweater - Black",
+      "url": "https://fashionnova.com/products/rib-knit-quarter-zip-sweater-fncolorname-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-06-26_S9_56_P526MSW1213_Black_ZSR_KP_AM_13-20-38_0346-1_YB_CM.jpg?v=1793993836",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-07T06:31:34+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Lemon Lime Prayer Plant",
+      "url": "https://livelyroot.com/products/lemon-lime-prayer-plant",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($43.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: thesill.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/PB_MLL_ECO_CO_4IN1_living.jpg?v=1793670958",
+      "price": 43.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "thesill.com"
+        ]
+      },
+      "detected_at": "2026-11-07T04:31:08+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Universal Adjustable Lanyard Wrist Strap",
+      "url": "https://spigen.com/products/universal-adjustable-lanyard-wrist-strap",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_adjustable_lanyard_02.jpg?v=1793924648",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Accessories",
+        "product_type": "Phone Straps",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:50+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Rugged Armor + Athlex Air",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-rugged-armor-athlex-air",
+      "score": 55,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_ultra_rugged_armor_athlex_air_01.jpg?v=1793649859",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:50+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Athlex Air M",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-athlex-air-m",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_athlex_air_m_blk_orange_01.jpg?v=1793310828",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-07T07:46:50+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

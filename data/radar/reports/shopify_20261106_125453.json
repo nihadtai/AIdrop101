@@ -1,0 +1,535 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-06T08:54:38+00:00",
+  "finished_at": "2026-11-06T08:54:53+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 17,
+    "stores_ok": 16,
+    "products_scanned": 2780,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 2,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 390
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Wireless Car Charger with 36W Adapter - Black",
+      "url": "https://esrgear.com/products/esr-halolock-magnetic-wireless-car-charger-36w-adapter",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Wireless-Car-Charger-with-36W-Adapter-Black-ESR-247970627.jpg?v=1793379139",
+      "price": 22.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 34,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 6-Pack",
+      "url": "https://trueclassictees.com/products/black-briefs-6-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 67% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACK6PACK.png?v=1776890150",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 67,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-short-sleeve-polo-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($79.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/pack10.jpg?v=1793229531",
+      "price": 79.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "thursdayboots.com",
+      "title": "[W] Forever Flannel Shirt | Red & Black",
+      "url": "https://thursdayboots.com/products/w-mens-forever-flannel-shirt-red-black",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($68.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0419/1525/files/1024x1024-Mens-Shirts-ForeverFlannel-RedBlack-101223-Front.jpg?v=1697673869",
+      "price": 68.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 31,
+        "vendor": "Thursday - Men's Shirts (WH)",
+        "product_type": "Shirts",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Universal Adjustable Lanyard Wrist Strap",
+      "url": "https://spigen.com/products/universal-adjustable-lanyard-wrist-strap",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_adjustable_lanyard_02.jpg?v=1793924648",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Accessories",
+        "product_type": "Phone Straps",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Rugged Armor + Athlex Air",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-rugged-armor-athlex-air",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_ultra_rugged_armor_athlex_air_01.jpg?v=1793649859",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Cases",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-13-pro-max-case",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP13PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-12-pro-max-case",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP12PMAX_LondonFog.jpg?v=1793895860",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "London Fog Anthurium iPhone 15 Pro Max Case",
+      "url": "https://pelacase.com/products/london-fog-anthurium-eco-friendly-iphone-15-pro-max-case",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/ANTHURIUM_IP15PMAX_LondonFog.jpg?v=1793895862",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 15 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Athlex Air M",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-athlex-air-m",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_athlex_air_m_blk_orange_01.jpg?v=1793310828",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Purple",
+      "url": "https://esrgear.com/products/purple-ipad-pro-13-m5-airstance-magnetic-folio-case",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Purple-ESR-247982055.jpg?v=1793379422",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "iPad Pro 13\" (M5) 2025 AirStance Magnetic Case - Sky Blue",
+      "url": "https://esrgear.com/products/ipad-pro-13-m5-airstance-magnetic-folio-case-sky-blue",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($59.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/iPad-Pro-13_-_M5_-2025-AirStance-Magnetic-Case-Sky-Blue-ESR-247980377.jpg?v=1793379392",
+      "price": 59.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 25,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net"
+        ]
+      },
+      "detected_at": "2026-11-06T08:54:50+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "hexclad.com",
+      "title": "Small Silicone Baking Mat Set, 2-pk",
+      "url": "https://hexclad.com/products/small-silicone-baking-mat-set-2-pk",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0037/2110/1430/files/PLP_2_pack_small_silicone_baking_mat_MainImage_Desktop_3e7da3bd-b9ef-4196-a4ba-8f3eb01a11ee.png?v=1793634937",
+      "price": 29.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "HexClad Cookware",
+        "product_type": "Bakeware",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "stasherbag.com",
+      "title": "Reusable Silicone Baking Mat",
+      "url": "https://stasherbag.com/products/silicone-baking-mat",
+      "score": 55,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: hexclad.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2237/5935/files/BakingMat_MintGreen_LS_v1_2800.jpg?v=1787617648",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Stasher",
+        "product_type": "Baking Mat",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "hexclad.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "brumate.com",
+      "title": "Müv 25oz | Cherry",
+      "url": "https://brumate.com/products/muv-25oz-cherry",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($40.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fellowproducts.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1114/2308/files/Muv-25-Cherry.png?v=1793293240",
+      "price": 40.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "BrüMate",
+        "product_type": "Mugs + Tumblers",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "fellowproducts.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "brumate.com",
+      "title": "Müv 35oz | Cherry",
+      "url": "https://brumate.com/products/muv-35oz-cherry",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($45.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fellowproducts.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1114/2308/files/Muv-35-Cherry_f4439225-3796-41f9-bab6-49201d216c37.png?v=1793295208",
+      "price": 45.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "BrüMate",
+        "product_type": "Mugs + Tumblers",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "fellowproducts.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "brumate.com",
+      "title": "Müv 15oz | Cherry",
+      "url": "https://brumate.com/products/muv-15oz-cherry",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fellowproducts.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1114/2308/files/Muv-15-Cherry_0b1ae72f-fbd6-4ebc-8181-fd303149daee.png?v=1793295145",
+      "price": 35.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "BrüMate",
+        "product_type": "Mugs + Tumblers",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "fellowproducts.com"
+        ]
+      },
+      "detected_at": "2026-11-05T19:35:54+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Dressy Polo 3-Pack",
+      "url": "https://trueclassictees.com/products/all-navy-dressy-polo-3-pack",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Dressy-Polo-regularTCT4022_1.jpg?v=1793818118",
+      "price": 99.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 33,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "marinelayer.com",
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+      "price": 78.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Marine Layer",
+        "product_type": "Womens - Longsleeve - Lightweight",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-05T18:35:37+00:00"
+    }
+  ],
+  "store_errors": {
+    "nuphy.com": "rate_limited (429) — skipped this run"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-05T09:34:01+00:00",
+  "finished_at": "2026-11-05T09:34:05+00:00",
+  "baseline_run": true,
+  "stats": {
+    "stores_total": 5,
+    "stores_ok": 3,
+    "products_scanned": 480,
+    "best_seller_rank_available": 3,
+    "first_run_stores": 3,
+    "signals_above_threshold": 11
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "bruvi.com",
+      "title": "10oz Joe Coffee Mug",
+      "url": "https://bruvi.com/products/joe-coffee-mug",
+      "score": 55,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#6)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($25.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: blendjet.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/7582/1620/files/JoeCoffee1800x1200.png?v=1762199070",
+      "price": 25.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 380,
+        "best_seller_rank": 6,
+        "vendor": "Joe Coffee Company",
+        "product_type": "Drinkware",
+        "cross_store_matches": [
+          "blendjet.com"
+        ]
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "blendjet.com",
+      "title": "Best of BlendJet Bundle",
+      "url": "https://blendjet.com/products/best-of-blendjet-bundle",
+      "score": 45,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#5)",
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($47.50)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0066/4433/4658/products/BlendJet-2-BLACK.png?v=1730481488",
+      "price": 47.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 68,
+        "best_seller_rank": 5,
+        "discount_pct": 63,
+        "vendor": "BlendJet",
+        "product_type": "BlendJet"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fellowproducts.com",
+      "title": "The Pie Box",
+      "url": "https://fellowproducts.com/products/the-pie-box",
+      "score": 35,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0057/6235/1219/files/11.03.26_drops_AdditionalPDP_Black_White-Modcup.png?v=1793626655",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Black & White Coffee Roasters",
+        "product_type": "Coffee"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fellowproducts.com",
+      "title": "Abdo Aba Mecha Decaf",
+      "url": "https://fellowproducts.com/products/abdo-aba-mecha",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#3)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.10)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0057/6235/1219/files/12.18.25_drops_image_text_Madcap.jpg?v=1765835487",
+      "price": 23.1,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 324,
+        "best_seller_rank": 3,
+        "vendor": "Madcap Coffee Company",
+        "product_type": "Coffee"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bruvi.com",
+      "title": "10 oz Wolf Mug",
+      "url": "https://bruvi.com/products/wolf-mug",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#5)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($58.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/7582/1620/files/F5BAD4BB-2D9F-4685-B44F-177A04402E20-23685-000005CFC5FB8AC3_2048x_2dcef773-f920-4f66-bb47-4151609e2d04.jpg?v=1783634213",
+      "price": 58.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 106,
+        "best_seller_rank": 5,
+        "vendor": "Wolf Ceramics",
+        "product_type": "Drinkware"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bruvi.com",
+      "title": "10oz Wolf Cup",
+      "url": "https://bruvi.com/products/wolf-cup",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#7)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($44.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/7582/1620/files/wolf_971.jpg?v=1783634213",
+      "price": 44.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 106,
+        "best_seller_rank": 7,
+        "vendor": "Wolf Ceramics",
+        "product_type": "Drinkware"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bruvi.com",
+      "title": "10 oz Egg Cafe Latte Cup and Saucer - Mineral Colors",
+      "url": "https://bruvi.com/products/set-of-1-x-10oz-cafe-latte-cup-and-saucer-1",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#2)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/7582/1620/files/C088-B141B.png?v=1777503245",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 169,
+        "best_seller_rank": 2,
+        "vendor": "Loveramics-USshop",
+        "product_type": "Drinkware"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bruvi.com",
+      "title": "10 oz Bond Mug",
+      "url": "https://bruvi.com/products/10oz-mug",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#1)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($22.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/7582/1620/files/C098-176BCP.png?v=1778272481",
+      "price": 22.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 169,
+        "best_seller_rank": 1,
+        "vendor": "Loveramics-USshop",
+        "product_type": "Drinkware"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "blendjet.com",
+      "title": "BEAM Be Amazing Vegan Protein",
+      "url": "https://blendjet.com/products/vegan-protein",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#3)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0066/4433/4658/files/BEAM-Be-Amazing-Vegan-Protein-All-Natural-Birthday-Cake-Limited-Edition-MAIN_eb01c54e-0d6b-4be6-b246-882d2d486b4c.png?v=1710383095",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 966,
+        "best_seller_rank": 3,
+        "vendor": "BEAM",
+        "product_type": "Food And Beverage"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "blendjet.com",
+      "title": "BlendJet 2",
+      "url": "https://blendjet.com/products/blendjet-2",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-30 bestseller-i (#14)",
+        "🏷️ 64% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.95)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0066/4433/4658/products/BlendJet-2-ROYALBLUE_8ac051ec-ad90-4bff-8e2c-9820d441ac58.png?v=1607544473",
+      "price": 49.95,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2225,
+        "best_seller_rank": 14,
+        "discount_pct": 64,
+        "vendor": "BlendJet",
+        "product_type": "BlendJet"
+      },
+      "detected_at": "2026-11-05T09:34:05+00:00"
+    }
+  ],
+  "store_errors": {
+    "loopearplugs.com": "rate_limited (429) — skipped this run",
+    "hexclad.com": "rate_limited (429) — skipped this run"
+  }
+}

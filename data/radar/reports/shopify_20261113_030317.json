@@ -1,0 +1,539 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-12T23:03:02+00:00",
+  "finished_at": "2026-11-12T23:03:17+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 16,
+    "stores_ok": 16,
+    "products_scanned": 3124,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 110
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Airbrush Bandeau Bra - White",
+      "url": "https://aloyoga.com/products/w9969r-airbrush-bandeau-bra-white",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 31% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($47.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: girlfriend.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/W9969R_05594_b2_s1_a1_dSU26_m269.jpg?v=1779463711",
+      "price": 47.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 31,
+        "vendor": "Alo Yoga",
+        "product_type": "Women:Bras",
+        "category": "fitness",
+        "cross_store_matches": [
+          "girlfriend.com"
+        ]
+      },
+      "detected_at": "2026-11-12T22:02:55+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Coastal (Quilted Quarter-Zip)",
+      "url": "https://chubbiesshorts.com/products/the-coastal-quilted-quarter-zip",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($40.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_coastal_quarter_zip_1.webp?v=1769530128",
+      "price": 40.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 50,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Black Boxer Briefs 3-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "beardbrand.com",
+      "title": "Cologne And Deodorant Set",
+      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
+      "price": 50.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 35,
+        "vendor": "Beardbrand",
+        "product_type": "Bundles",
+        "category": "beauty",
+        "cross_store_matches": [
+          "bitetoothpastebits.com",
+          "glossier.com"
+        ]
+      },
+      "detected_at": "2026-11-12T19:02:06+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-12T21:02:40+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Princess Ball Petticoat Bodysuit Dress",
+      "url": "https://poshpeanut.com/products/disney-princess-ball-puff-sleeve-embroidery-bow-petticoat-bodysuit-dress",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2026-PP-BS152-DBP-LIFESTYLE-2.jpg?v=1784572987",
+      "price": 74.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Posh Peanut",
+        "product_type": "Dresses",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-12T23:03:14+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "aloyoga.com",
+      "title": "Repetition Jogger - Black",
+      "url": "https://aloyoga.com/products/m5251r-repetition-jogger-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: transparentlabs.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2185/2813/files/M5251R_01_b2_s1_a1_dFA26_m243.jpg?v=1786547252",
+      "price": 89.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 30,
+        "vendor": "Alo Yoga",
+        "product_type": "Men:Bottoms:Pants",
+        "category": "fitness",
+        "cross_store_matches": [
+          "transparentlabs.com"
+        ]
+      },
+      "detected_at": "2026-11-12T22:02:55+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "manduka.com",
+      "title": "Equilibria Reformer Pilates Towel",
+      "url": "https://manduka.com/products/equilibria-pilates-reformer-towel",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($66.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopbala.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/2P101A684-EQUILIBRIA-PILATES-TOWEL-LINEN_01.jpg?v=1794428882",
+      "price": 66.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Manduka",
+        "product_type": "Towels",
+        "category": "fitness",
+        "cross_store_matches": [
+          "shopbala.com"
+        ]
+      },
+      "detected_at": "2026-11-12T22:02:55+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Everyday Bowl Pack",
+      "url": "https://eastfork.com/products/everyday-bowl-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 55% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_SB2_PDP.jpg?v=1695662545",
+      "price": 158.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 55,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-12T21:02:40+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Tiny Cup Pack",
+      "url": "https://eastfork.com/products/tiny-cup-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($72.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: corkcicle.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_TC_PDP.jpg?v=1695662381",
+      "price": 72.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 10,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "corkcicle.com"
+        ]
+      },
+      "detected_at": "2026-11-12T21:02:40+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Classic Sweater Polo - Dark Grey",
+      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-dark-grey",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_DarkGrey_JR_V1.jpg?v=1794502251",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Screen Tops",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Logan Straight Leg Fleece Sweatpant - Heather Grey",
+      "url": "https://fashionnova.com/products/logan-straight-leg-fleece-sweatpant-fncolorname-heather-grey",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/10-26-26_S9_7_B12506MSB2209S_HeatherGrey_ZSR_AF_AM_15-24-52_24782-7_CM_d06d5c4b-56e2-4cb0-9d34-23f2243b57ce.jpg?v=1794261638",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Fashion Nova",
+        "product_type": "Mens Fleece Bottoms",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "fashionnova.com",
+      "title": "Everyday Basic II 10 Pack Sock Set - Black/combo",
+      "url": "https://fashionnova.com/products/everyday-basic-ii-10-pack-sock-set-fncolorname-black-combo",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 42% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: thursdayboots.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/JJD10GW_Black_combo_SL_V1.jpg?v=1794413243",
+      "price": 7.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 42,
+        "vendor": "Fashion Nova",
+        "product_type": "Accessories",
+        "category": "fashion",
+        "cross_store_matches": [
+          "thursdayboots.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Boxer Briefs 12-Pack",
+      "url": "https://trueclassictees.com/products/black-boxer-briefs-12-pack",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/TCT2000BLACKX4.jpg?v=1771791744",
+      "price": 119.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 60,
+        "vendor": "True Classic",
+        "product_type": "Boxer Briefs",
+        "category": "fashion",
+        "cross_store_matches": [
+          "marinelayer.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "puravidabracelets.com",
+      "title": "Green Bracelet",
+      "url": "https://puravidabracelets.com/products/green-bracelet",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: mvmt.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0297/6313/files/Solid-Original-Green_fd1cd10b-99ba-4319-99d1-1ca5706a7911.jpg?v=1794456268",
+      "price": 3.2,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 60,
+        "vendor": "Pura Vida Bracelets",
+        "product_type": "Bracelets",
+        "category": "fashion",
+        "cross_store_matches": [
+          "mvmt.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "gisou.com",
+      "title": "The Mini Lip Collectibles",
+      "url": "https://gisou.com/products/the-mini-lip-collectibles",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0361/1987/1619/files/DTC_SETC_PDP_02.jpg?v=1776412893",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "vendor": "Gisou EU",
+        "product_type": "Set",
+        "category": "beauty",
+        "cross_store_matches": [
+          "kyliecosmetics.com"
+        ]
+      },
+      "detected_at": "2026-11-12T19:02:06+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "chubbiesshorts.com",
+      "title": "The Shadowstorms (Comfort Short)",
+      "url": "https://chubbiesshorts.com/products/the-shadowstorms-comfort-short",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0077/0432/files/PDP_Shadowstorms_20_28Comfort_20Short_29_086261-00_OF.webp?v=1769617788",
+      "price": 49.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Chubbies Shorts",
+        "product_type": "",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "marinelayer.com",
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-5",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Winter_Sky-14610-Final-Final-Web.jpg?v=1793307361",
+      "price": 78.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Marine Layer",
+        "product_type": "Womens - Longsleeve - Lightweight",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "marinelayer.com",
+      "title": "Lexi Pointelle Long Sleeve Henley",
+      "url": "https://marinelayer.com/products/lexi-pointelle-henley-4",
+      "score": 55,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($78.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0831/9103/files/H2_W_Lexi_Pointelle_Henley_Emerald-15011-Final-Final-Web.jpg?v=1793307369",
+      "price": 78.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Marine Layer",
+        "product_type": "Womens - Longsleeve - Lightweight",
+        "category": "fashion",
+        "cross_store_matches": [
+          "trueclassictees.com"
+        ]
+      },
+      "detected_at": "2026-11-12T20:02:20+00:00"
+    }
+  ],
+  "store_errors": {}
+}

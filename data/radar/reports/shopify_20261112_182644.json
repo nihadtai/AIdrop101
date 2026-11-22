@@ -1,0 +1,531 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-12T14:26:34+00:00",
+  "finished_at": "2026-11-12T14:26:44+00:00",
+  "baseline_run": false,
+  "stats": {
+    "stores_total": 17,
+    "stores_ok": 3,
+    "products_scanned": 460,
+    "best_seller_rank_available": 0,
+    "first_run_stores": 0,
+    "catalog_stores_total": 172,
+    "categories_total": 10,
+    "signals_above_threshold": 26
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "15W Magnetic Wireless Car Charger(Halolock) - Black",
+      "url": "https://esrgear.com/products/15w-magnetic-wireless-car-charger-halolock",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: satechi.net, ugreen.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/15W-Magnetic-Wireless-Car-Charger_Halolock_-Black-ESR-234303125.jpg?v=1765449866",
+      "price": 26.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 33,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "satechi.net",
+          "ugreen.com"
+        ]
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "poshpeanut.com",
+      "title": "Disney Mickey Fair Isle Men's Luxe Pajama Pant Set",
+      "url": "https://poshpeanut.com/products/disney-mickey-fair-isle-mens-long-sleeve-relaxed-pant-luxe-loungewear",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: littlesleepies.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0262/5915/files/POSHPEANUT2025-PP-AD012-MFI-LIFESTYLE-1.jpg?v=1760570846",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 62,
+        "vendor": "Posh Peanut",
+        "product_type": "Loungewear",
+        "category": "kids",
+        "cross_store_matches": [
+          "littlesleepies.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "eastfork.com",
+      "title": "Bitty Bowl Pack",
+      "url": "https://eastfork.com/products/bitty-bowl-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🏷️ 57% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2281/6071/products/CORE-EG_4PK_PB1_PDP.jpg?v=1695662556",
+      "price": 48.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2,
+        "discount_pct": 57,
+        "vendor": "East Fork",
+        "product_type": "Pottery",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-07T22:12:17+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Classic Crew Neck 3-Pack",
+      "url": "https://trueclassictees.com/products/classic-crew-neck-tees-3-pack",
+      "score": 65,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: fashionnova.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/Classic-Crew-Neck-3-Pack.jpg?v=1793590086",
+      "price": 55.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 47,
+        "vendor": "True Classic",
+        "product_type": "Short Sleeve Crew",
+        "category": "fashion",
+        "cross_store_matches": [
+          "fashionnova.com"
+        ]
+      },
+      "detected_at": "2026-11-07T21:12:03+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Classic Magnetic Wallet Stand - Polka Hi",
+      "url": "https://esrgear.com/products/polka-hi-magsafe-phone-wallet-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 0 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Polka_Hi_Magsafe_Wallet_Stand.jpg?v=1794451296",
+      "price": 42.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "livelyroot.com",
+      "title": "Lemon Lime Prayer Plant",
+      "url": "https://livelyroot.com/products/lemon-lime-prayer-plant",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($43.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: thesill.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/files/PB_MLL_ECO_CO_4IN1_living.jpg?v=1793670958",
+      "price": 43.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Lively Root",
+        "product_type": "Indoor Plants",
+        "category": "home",
+        "cross_store_matches": [
+          "thesill.com"
+        ]
+      },
+      "detected_at": "2026-11-12T10:53:43+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "bark.co",
+      "title": "Fa-la-la-la Lattes Plush Dog Toy Bundle",
+      "url": "https://bark.co/products/falalala-lattes",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 45% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: wildone.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0559/3713/8775/files/215079_1.png?v=1789407448",
+      "price": 10.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 45,
+        "vendor": "BARK",
+        "product_type": "Toys",
+        "category": "pet",
+        "cross_store_matches": [
+          "wildone.com"
+        ]
+      },
+      "detected_at": "2026-11-08T01:12:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "boccesbakery.com",
+      "title": "The Whole Holiday Bundle",
+      "url": "https://boccesbakery.com/products/the-whole-holiday-bundle",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($28.80)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: nativepet.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0233/7363/files/TheWholeHolidayBundle.jpg?v=1791918878",
+      "price": 28.8,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 10,
+        "vendor": "Elf x Bocce's",
+        "product_type": "Seasonal",
+        "category": "pet",
+        "cross_store_matches": [
+          "nativepet.com"
+        ]
+      },
+      "detected_at": "2026-11-08T01:12:56+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Women's Pajama Pants",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-womens-pajama-pants",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($40.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Women_s_Pajama_Pants-1383.jpg?v=1768952305",
+      "price": 40.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Women's PJ Pants",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Belle Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-belle-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($64.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Belle_Dress_with_Bodysuit-1355.jpg?v=1768954598",
+      "price": 64.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Princess Dress",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Princess Garden Bow Back Skater Dress with Bodysuit",
+      "url": "https://littlesleepies.com/products/disney-princess-garden-bow-back-skater-dress-with-bodysuit",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($42.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Princess_Garden_Bow_Back_Skater_Dress_with_Bodysuit-1653.jpg?v=1769020477",
+      "price": 42.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "vendor": "Little Sleepies",
+        "product_type": "Play Dress W/B Skater",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-08T00:12:42+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "ipitaka.com",
+      "title": "Luminous Ode Phone Cases",
+      "url": "https://ipitaka.com/products/luminous-ode-phone-cases",
+      "score": 45,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 36% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($69.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1036/4113/files/i18Promax-Dreamy-Blue-edge.png?v=1794391903",
+      "price": 69.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 36,
+        "vendor": "PITAKA",
+        "product_type": "",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "esrgear.com",
+      "title": "Magnetic Charging Pad (15W, Kickstand)- White",
+      "url": "https://esrgear.com/products/15w-mini-kickstand-wireless-charger-halolock-white",
+      "score": 45,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0694/0242/7619/files/Magnetic-Charging-Pad-_15W_-Kickstand_-White-ESR-234148938.jpg?v=1764752771",
+      "price": 23.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 40,
+        "vendor": "ESR",
+        "product_type": "",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "jlab.com",
+      "title": "Nightfall Gaming Keyboard & Mouse Bundle Pink",
+      "url": "https://jlab.com/products/nightfall-gaming-keyboard-mouse-bundle-pink",
+      "score": 45,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0240/9337/files/CopyofCopyofTikTokBundle_5.jpg?v=1793665013",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 50,
+        "vendor": "JLab",
+        "product_type": "Bundle",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "Camera Case for iPhone 14",
+      "url": "https://shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe",
+      "score": 40,
+      "reasons": [
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/16ade604e4838671383046e93b41f0f0ed2d623c-3280x3280_ee541326-2651-431b-8ed2-5f5fa6f706cb.jpg?v=1785967137",
+      "price": 20.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 65,
+        "discount_pct": 50,
+        "vendor": "Moment",
+        "product_type": "Mobile",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "Camera Case for iPhone 15",
+      "url": "https://shopmoment.com/products/moment-case-for-iphone-15-compatible-with-magsafe",
+      "score": 40,
+      "reasons": [
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/5d3880336179445110e1dd01ad4604f37221a467-3280x3280.png?v=1785967160",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 65,
+        "discount_pct": 30,
+        "vendor": "Moment",
+        "product_type": "Mobile",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "72W Type-C PD Car Charger Adapter",
+      "url": "https://satechi.net/products/72w-type-c-pd-car-charger-adapter",
+      "score": 40,
+      "reasons": [
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/products/72w-type-c-pd-car-charger-adapter-adapters-satechi-space-gray-545860.jpg?v=1762440225",
+      "price": 20.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 2654,
+        "discount_pct": 30,
+        "vendor": "Satechi",
+        "product_type": "Car Chargers",
+        "category": "electronics",
+        "cross_store_matches": [
+          "esrgear.com"
+        ]
+      },
+      "detected_at": "2026-11-12T13:25:49+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "Anamorphic 1.55x Mobile Lens - T-Series - Gold Flare",
+      "url": "https://shopmoment.com/products/anamorphic-1-55x-mobile-lens-t-series-gold-flare",
+      "score": 35,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 34% endirimlə satılır (aqressiv təklif)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/T-SeriesGoldFlareMoment1.jpg?v=1791481136",
+      "price": 99.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 34,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "twelvesouth.com",
+      "title": "Cablesnap 65w - Coastal Blue",
+      "url": "https://twelvesouth.com/products/cablesnap-coastal",
+      "score": 35,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0094/1621/2537/files/cablesnap-coastal-blue-media-gallery-1.jpg?v=1793746220",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Twelve South",
+        "product_type": "Power",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "twelvesouth.com",
+      "title": "Cablesnap 65w - Dune",
+      "url": "https://twelvesouth.com/products/cablesnap-dune",
+      "score": 35,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0094/1621/2537/files/cablesnap-dune-media-gallery-1_e70a797c-57d6-4bcc-948b-49486916b473.jpg?v=1793746300",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "vendor": "Twelve South",
+        "product_type": "Power",
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-12T14:26:44+00:00"
+    }
+  ],
+  "store_errors": {
+    "keychron.com": "rate_limited (429) — skipped this run",
+    "peakdesign.com": "rate_limited (429) — skipped this run",
+    "satechi.net": "rate_limited (429) — skipped this run",
+    "moft.us": "rate_limited (429) — skipped this run",
+    "spigen.com": "rate_limited (429) — skipped this run",
+    "esrgear.com": "rate_limited (429) — skipped this run",
+    "ugreen.com": "rate_limited (429) — skipped this run",
+    "sharge.com": "rate_limited (429) — skipped this run",
+    "nuphy.com": "rate_limited (429) — skipped this run",
+    "gloriousgaming.com": "rate_limited (429) — skipped this run",
+    "jlab.com": "rate_limited (429) — skipped this run",
+    "status.co": "rate_limited (429) — skipped this run",
+    "masterdynamic.com": "rate_limited (429) — skipped this run",
+    "pelacase.com": "rate_limited (429) — skipped this run"
+  }
+}

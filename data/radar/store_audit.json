@@ -1,0 +1,882 @@
+{
+  "peakdesign.com": [
+    "RATE_429",
+    ""
+  ],
+  "keychron.com": [
+    "RATE_429",
+    ""
+  ],
+  "shopmoment.com": [
+    "RATE_429",
+    ""
+  ],
+  "dbrand.com": [
+    "DEAD_404",
+    ""
+  ],
+  "satechi.net": [
+    "RATE_429",
+    ""
+  ],
+  "nomadgoods.com": [
+    "DEAD_404",
+    ""
+  ],
+  "twelvesouth.com": [
+    "OK_200",
+    1
+  ],
+  "ipitaka.com": [
+    "RATE_429",
+    ""
+  ],
+  "spigen.com": [
+    "OK_200",
+    1
+  ],
+  "grovemade.com": [
+    "DEAD_404",
+    ""
+  ],
+  "moft.us": [
+    "RATE_429",
+    ""
+  ],
+  "esrgear.com": [
+    "OK_200",
+    1
+  ],
+  "casetify.com": [
+    "DEAD_404",
+    ""
+  ],
+  "ugreen.com": [
+    "OK_200",
+    1
+  ],
+  "sharge.com": [
+    "OK_200",
+    1
+  ],
+  "anker.com": [
+    "DEAD_404",
+    ""
+  ],
+  "nuphy.com": [
+    "RATE_429",
+    ""
+  ],
+  "jlab.com": [
+    "RATE_429",
+    ""
+  ],
+  "gloriousgaming.com": [
+    "RATE_429",
+    ""
+  ],
+  "masterdynamic.com": [
+    "RATE_429",
+    ""
+  ],
+  "status.co": [
+    "OK_200",
+    1
+  ],
+  "brooklinen.com": [
+    "OK_200",
+    1
+  ],
+  "parachutehome.com": [
+    "RATE_429",
+    ""
+  ],
+  "pelacase.com": [
+    "OK_200",
+    1
+  ],
+  "floydhome.com": [
+    "RATE_429",
+    ""
+  ],
+  "ruggable.com": [
+    "DEAD_404",
+    ""
+  ],
+  "burrow.com": [
+    "DEAD_404",
+    ""
+  ],
+  "article.com": [
+    "DEAD_403",
+    ""
+  ],
+  "bollandbranch.com": [
+    "RATE_429",
+    ""
+  ],
+  "cozyearth.com": [
+    "RATE_429",
+    ""
+  ],
+  "buffy.co": [
+    "OK_200",
+    1
+  ],
+  "bearaby.com": [
+    "RATE_429",
+    ""
+  ],
+  "thesill.com": [
+    "OK_200",
+    1
+  ],
+  "gravityblankets.com": [
+    "OK_200",
+    1
+  ],
+  "livelyroot.com": [
+    "OK_200",
+    1
+  ],
+  "homesick.com": [
+    "OK_200",
+    1
+  ],
+  "pfcandleco.com": [
+    "OK_200",
+    1
+  ],
+  "vitruvi.com": [
+    "OK_200",
+    1
+  ],
+  "schoolhouse.com": [
+    "RATE_429",
+    ""
+  ],
+  "levitatefoundry.com": [
+    "RATE_429",
+    ""
+  ],
+  "liveouter.com": [
+    "OK_200",
+    1
+  ],
+  "yardbird.com": [
+    "OK_200",
+    1
+  ],
+  "snowehome.com": [
+    "OK_200",
+    1
+  ],
+  "branchfurniture.com": [
+    "OK_200",
+    1
+  ],
+  "glossier.com": [
+    "OK_200",
+    1
+  ],
+  "fentybeauty.com": [
+    "RATE_429",
+    ""
+  ],
+  "kyliecosmetics.com": [
+    "OK_200",
+    1
+  ],
+  "rarebeauty.com": [
+    "OK_200",
+    1
+  ],
+  "rhodeskin.com": [
+    "OK_200",
+    1
+  ],
+  "colourpop.com": [
+    "OK_200",
+    1
+  ],
+  "tower28beauty.com": [
+    "RATE_429",
+    ""
+  ],
+  "summerfridays.com": [
+    "OK_200",
+    1
+  ],
+  "iliabeauty.com": [
+    "OK_200",
+    0
+  ],
+  "youthtothepeople.com": [
+    "DEAD_403",
+    ""
+  ],
+  "versedskin.com": [
+    "RATE_429",
+    ""
+  ],
+  "herocosmetics.us": [
+    "OK_200",
+    1
+  ],
+  "starface.world": [
+    "OK_200",
+    1
+  ],
+  "nativecos.com": [
+    "OK_200",
+    1
+  ],
+  "olaplex.com": [
+    "OK_200",
+    0
+  ],
+  "gisou.com": [
+    "RATE_429",
+    ""
+  ],
+  "daehair.com": [
+    "OK_200",
+    1
+  ],
+  "mielleorganics.com": [
+    "OK_200",
+    1
+  ],
+  "beardbrand.com": [
+    "OK_200",
+    1
+  ],
+  "allbirds.com": [
+    "RATE_429",
+    ""
+  ],
+  "bitetoothpastebits.com": [
+    "OK_200",
+    1
+  ],
+  "fashionnova.com": [
+    "RATE_429",
+    ""
+  ],
+  "mybillie.com": [
+    "DEAD_403",
+    ""
+  ],
+  "manscaped.com": [
+    "DEAD_403",
+    ""
+  ],
+  "kith.com": [
+    "OK_200",
+    1
+  ],
+  "bombas.com": [
+    "RATE_429",
+    ""
+  ],
+  "chubbiesshorts.com": [
+    "OK_200",
+    1
+  ],
+  "cutsclothing.com": [
+    "OK_200",
+    1
+  ],
+  "trueclassictees.com": [
+    "OK_200",
+    1
+  ],
+  "skims.com": [
+    "DEAD_404",
+    ""
+  ],
+  "taylorstitch.com": [
+    "OK_200",
+    1
+  ],
+  "marinelayer.com": [
+    "OK_200",
+    1
+  ],
+  "thursdayboots.com": [
+    "RATE_429",
+    ""
+  ],
+  "rothys.com": [
+    "OK_200",
+    1
+  ],
+  "koio.co": [
+    "OK_200",
+    1
+  ],
+  "mvmt.com": [
+    "RATE_429",
+    ""
+  ],
+  "puravidabracelets.com": [
+    "OK_200",
+    1
+  ],
+  "vincerocollective.com": [
+    "OK_200",
+    1
+  ],
+  "byltbasics.com": [
+    "DEAD_404",
+    ""
+  ],
+  "ridge.com": [
+    "RATE_429",
+    ""
+  ],
+  "goodr.com": [
+    "OK_200",
+    1
+  ],
+  "blenderseyewear.com": [
+    "OK_200",
+    1
+  ],
+  "bellroy.com": [
+    "DEAD_404",
+    ""
+  ],
+  "fromourplace.com": [
+    "OK_200",
+    1
+  ],
+  "hexclad.com": [
+    "OK_200",
+    1
+  ],
+  "madeincookware.com": [
+    "DEAD_403",
+    ""
+  ],
+  "greatjonesgoods.com": [
+    "OK_200",
+    1
+  ],
+  "mejuri.com": [
+    "DEAD_404",
+    ""
+  ],
+  "misen.com": [
+    "OK_200",
+    1
+  ],
+  "carawayhome.com": [
+    "DEAD_404",
+    ""
+  ],
+  "fellowproducts.com": [
+    "OK_200",
+    1
+  ],
+  "thebeast.com": [
+    "OK_200",
+    1
+  ],
+  "materialkitchen.com": [
+    "OK_200",
+    1
+  ],
+  "blendjet.com": [
+    "OK_200",
+    1
+  ],
+  "ooni.com": [
+    "OK_200",
+    1
+  ],
+  "gozney.com": [
+    "OK_200",
+    1
+  ],
+  "fable.com": [
+    "DEAD_403",
+    ""
+  ],
+  "yearandday.com": [
+    "OK_200",
+    1
+  ],
+  "stojo.co": [
+    "DEAD_ERR_ConnectionError",
+    ""
+  ],
+  "eastfork.com": [
+    "OK_200",
+    1
+  ],
+  "wandpdesign.com": [
+    "DEAD_401",
+    ""
+  ],
+  "stasherbag.com": [
+    "OK_200",
+    1
+  ],
+  "brumate.com": [
+    "OK_200",
+    1
+  ],
+  "corkcicle.com": [
+    "OK_200",
+    1
+  ],
+  "gymshark.com": [
+    "RATE_429",
+    ""
+  ],
+  "smithey.com": [
+    "OK_200",
+    1
+  ],
+  "aloyoga.com": [
+    "OK_200",
+    1
+  ],
+  "outdoorvoices.com": [
+    "RATE_429",
+    ""
+  ],
+  "tenthousand.cc": [
+    "OK_200",
+    1
+  ],
+  "girlfriend.com": [
+    "OK_200",
+    1
+  ],
+  "vuoriclothing.com": [
+    "DEAD_404",
+    ""
+  ],
+  "youngla.com": [
+    "RATE_429",
+    ""
+  ],
+  "setactive.co": [
+    "OK_200",
+    1
+  ],
+  "rhone.com": [
+    "DEAD_404",
+    ""
+  ],
+  "alphaleteathletics.com": [
+    "DEAD_403",
+    ""
+  ],
+  "therabody.com": [
+    "RATE_429",
+    ""
+  ],
+  "shopbala.com": [
+    "OK_200",
+    1
+  ],
+  "nobullproject.com": [
+    "OK_200",
+    1
+  ],
+  "hyperice.com": [
+    "OK_200",
+    1
+  ],
+  "trxtraining.com": [
+    "RATE_429",
+    ""
+  ],
+  "manduka.com": [
+    "OK_200",
+    1
+  ],
+  "crossrope.com": [
+    "OK_200",
+    1
+  ],
+  "repfitness.com": [
+    "OK_200",
+    1
+  ],
+  "ghostlifestyle.com": [
+    "OK_200",
+    1
+  ],
+  "transparentlabs.com": [
+    "RATE_429",
+    ""
+  ],
+  "lovevery.com": [
+    "DEAD_404",
+    ""
+  ],
+  "bandier.com": [
+    "DEAD_404",
+    ""
+  ],
+  "nuggetcomfort.com": [
+    "OK_200",
+    1
+  ],
+  "tracksmith.com": [
+    "DEAD_404",
+    ""
+  ],
+  "cuddleandkind.com": [
+    "OK_200",
+    1
+  ],
+  "meetlalo.com": [
+    "OK_200",
+    1
+  ],
+  "kytebaby.com": [
+    "OK_200",
+    1
+  ],
+  "littlesleepies.com": [
+    "OK_200",
+    1
+  ],
+  "primary.com": [
+    "OK_200",
+    1
+  ],
+  "hannaandersson.com": [
+    "DEAD_307",
+    ""
+  ],
+  "ryleeandcru.com": [
+    "DEAD_403",
+    ""
+  ],
+  "babymori.com": [
+    "OK_200",
+    1
+  ],
+  "burtsbeesbaby.com": [
+    "OK_200",
+    1
+  ],
+  "sollybaby.com": [
+    "OK_200",
+    1
+  ],
+  "poshpeanut.com": [
+    "OK_200",
+    1
+  ],
+  "ergobaby.com": [
+    "OK_200",
+    1
+  ],
+  "nutribullet.com": [
+    "DEAD_404",
+    ""
+  ],
+  "hellomockingbird.com": [
+    "OK_200",
+    1
+  ],
+  "babyletto.com": [
+    "OK_200",
+    1
+  ],
+  "newtonbaby.com": [
+    "OK_200",
+    1
+  ],
+  "hatch.co": [
+    "DEAD_404",
+    ""
+  ],
+  "tonies.com": [
+    "DEAD_404",
+    ""
+  ],
+  "wildone.com": [
+    "OK_200",
+    1
+  ],
+  "tenderleaftoys.com": [
+    "OK_200",
+    1
+  ],
+  "fablepets.com": [
+    "OK_200",
+    1
+  ],
+  "zeedog.com": [
+    "OK_200",
+    1
+  ],
+  "yotoplay.com": [
+    "OK_200",
+    1
+  ],
+  "kiwico.com": [
+    "DEAD_404",
+    ""
+  ],
+  "bark.co": [
+    "RATE_429",
+    ""
+  ],
+  "ruffwear.com": [
+    "OK_200",
+    1
+  ],
+  "tactipup.com": [
+    "OK_200",
+    1
+  ],
+  "sassywoof.com": [
+    "OK_200",
+    1
+  ],
+  "wolfgangusa.com": [
+    "OK_200",
+    1
+  ],
+  "casper.com": [
+    "OK_200",
+    1
+  ],
+  "bigbarker.com": [
+    "OK_200",
+    1
+  ],
+  "tuftandpaw.com": [
+    "OK_200",
+    1
+  ],
+  "catalystpet.com": [
+    "OK_200",
+    1
+  ],
+  "openfarmpet.com": [
+    "RATE_429",
+    ""
+  ],
+  "kurgo.com": [
+    "DEAD_404",
+    ""
+  ],
+  "nativepet.com": [
+    "RATE_429",
+    ""
+  ],
+  "thehonestkitchen.com": [
+    "OK_200",
+    1
+  ],
+  "stellaandchewys.com": [
+    "OK_200",
+    1
+  ],
+  "zestypaws.com": [
+    "OK_200",
+    1
+  ],
+  "petfinn.com": [
+    "OK_200",
+    1
+  ],
+  "boccesbakery.com": [
+    "OK_200",
+    1
+  ],
+  "prettylitter.com": [
+    "DEAD_404",
+    ""
+  ],
+  "adamspolishes.com": [
+    "RATE_429",
+    ""
+  ],
+  "chemicalguys.com": [
+    "OK_200",
+    1
+  ],
+  "shinearmor.com": [
+    "OK_200",
+    1
+  ],
+  "theragcompany.com": [
+    "OK_200",
+    1
+  ],
+  "petcube.com": [
+    "DEAD_404",
+    ""
+  ],
+  "3dmatsusa.com": [
+    "OK_200",
+    1
+  ],
+  "tuxmat.ca": [
+    "RATE_429",
+    ""
+  ],
+  "quadlockcase.com": [
+    "RATE_429",
+    ""
+  ],
+  "proclipusa.com": [
+    "OK_200",
+    1
+  ],
+  "rovedashcam.com": [
+    "OK_200",
+    1
+  ],
+  "viofo.com": [
+    "RATE_429",
+    ""
+  ],
+  "no.co": [
+    "DEAD_404",
+    ""
+  ],
+  "bluedriver.com": [
+    "DEAD_ERR_SSLError",
+    ""
+  ],
+  "obdeleven.com": [
+    "DEAD_404",
+    ""
+  ],
+  "griotsgarage.com": [
+    "DEAD_404",
+    ""
+  ],
+  "pedalcommander.com": [
+    "OK_200",
+    1
+  ],
+  "vantrue.net": [
+    "DEAD_404",
+    ""
+  ],
+  "tesmanian.com": [
+    "OK_200",
+    1
+  ],
+  "drift.co": [
+    "RATE_429",
+    ""
+  ],
+  "abstractocean.com": [
+    "OK_200",
+    1
+  ],
+  "monos.com": [
+    "RATE_429",
+    ""
+  ],
+  "beistravel.com": [
+    "OK_200",
+    1
+  ],
+  "carlfriedrik.com": [
+    "OK_200",
+    1
+  ],
+  "baboontothemoon.com": [
+    "OK_200",
+    1
+  ],
+  "nomatic.com": [
+    "OK_200",
+    1
+  ],
+  "july.com": [
+    "DEAD_404",
+    ""
+  ],
+  "tortugabackpacks.com": [
+    "OK_200",
+    1
+  ],
+  "bajadesigns.com": [
+    "DEAD_403",
+    ""
+  ],
+  "matadorup.com": [
+    "OK_200",
+    1
+  ],
+  "cotopaxi.com": [
+    "OK_200",
+    1
+  ],
+  "kchilites.com": [
+    "DEAD_404",
+    ""
+  ],
+  "topodesigns.com": [
+    "OK_200",
+    1
+  ],
+  "bioliteenergy.com": [
+    "OK_200",
+    1
+  ],
+  "jackery.com": [
+    "OK_200",
+    1
+  ],
+  "rumpl.com": [
+    "RATE_429",
+    ""
+  ],
+  "kammok.com": [
+    "OK_200",
+    1
+  ],
+  "snowpeak.com": [
+    "OK_200",
+    1
+  ],
+  "solostove.com": [
+    "DEAD_404",
+    ""
+  ],
+  "ecoflow.com": [
+    "OK_200",
+    1
+  ],
+  "rticoutdoors.com": [
+    "DEAD_404",
+    ""
+  ],
+  "eaglesnestoutfitters.com": [
+    "DEAD_NONJSON_200",
+    "text/html; charset=utf-8"
+  ],
+  "klymit.com": [
+    "OK_200",
+    0
+  ],
+  "lifestraw.com": [
+    "OK_200",
+    1
+  ],
+  "dometic.com": [
+    "DEAD_404",
+    ""
+  ],
+  "diodedynamics.com": [
+    "DEAD_NONJSON_200",
+    "text/html; charset=utf-8"
+  ]
+}

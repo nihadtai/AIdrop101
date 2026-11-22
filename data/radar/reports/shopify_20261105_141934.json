@@ -1,0 +1,422 @@
+{
+  "source": "shopify",
+  "started_at": "2026-11-05T10:19:30+00:00",
+  "finished_at": "2026-11-05T10:19:34+00:00",
+  "baseline_run": true,
+  "stats": {
+    "stores_total": 23,
+    "stores_ok": 2,
+    "products_scanned": 251,
+    "best_seller_rank_available": 2,
+    "first_run_stores": 2,
+    "signals_above_threshold": 18
+  },
+  "signals": [
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "Lil Squatch Holiday Bundle",
+      "url": "https://drsquatch.com/products/lil-squatch-bundle-w-youtooz-plushie-055-nco",
+      "score": 45,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($48.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/Lil_Squatch_Bundle_-_02_-_Product_Card.jpg?v=1793833774",
+      "price": 48.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "discount_pct": 35,
+        "vendor": "Dr. Squatch",
+        "product_type": ""
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Dear Future Mama Book by Meghan Trainor",
+      "url": "https://nanit.com/products/dear-future-mama-book",
+      "score": 45,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#10)",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.25)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/products/PDP-Dear-Future-Mama-Book.jpg?v=1707761961",
+      "price": 20.25,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 996,
+        "best_seller_rank": 10,
+        "discount_pct": 30,
+        "vendor": "Meghan Trainor",
+        "product_type": "Gifts"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Character 5-Piece Tool Set",
+      "url": "https://nanit.com/products/character-5-piece-tool-set",
+      "score": 45,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#8)",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.30)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/PDP-Character-Midnight_01.png?v=1749048824",
+      "price": 55.3,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1258,
+        "best_seller_rank": 8,
+        "discount_pct": 30,
+        "vendor": "Character",
+        "product_type": "Gifts"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "Ya Filthy Animal 3-Pack",
+      "url": "https://drsquatch.com/products/ya-filthy-animal-3-pack",
+      "score": 35,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/01YaFilthyAnimal3-Pack_WebImage.png?v=1791994790",
+      "price": 24.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "Dr. Squatch",
+        "product_type": "Bundle"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "Elf Holiday Collection",
+      "url": "https://drsquatch.com/products/elf-holiday-collection",
+      "score": 35,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($37.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/Web_Elf_HolidayCollection_Main.png?v=1792783815",
+      "price": 37.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Dr. Squatch",
+        "product_type": "Bundle"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "ELF Ninny Scrubbins 3-Pack",
+      "url": "https://drsquatch.com/products/ninny-scrubbins-3-pack",
+      "score": 35,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/NinnyScrubbins-3-Pack-Elf-Web-CHRS01.png?v=1762464292",
+      "price": 24.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Dr. Squatch",
+        "product_type": "Bundle"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "Dr. Squatch x Youtooz Plush",
+      "url": "https://drsquatch.com/products/limited-edition-dr-squatch-x-youtooz-plush",
+      "score": 35,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($30.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/YoutoozPlush.png?v=1791929639",
+      "price": 30.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Dr. Squatch",
+        "product_type": "Plushie"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "Faux Leather Stocking",
+      "url": "https://drsquatch.com/products/faux-leather-stocking",
+      "score": 35,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/FauxLeatherStocking.png?v=1792089195",
+      "price": 20.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Dr. Squatch",
+        "product_type": "Swag"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "drsquatch.com",
+      "title": "2-Pack Glide + Deo Flask",
+      "url": "https://drsquatch.com/products/2-glide-flask-039-nco",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-30 bestseller-i (#22)",
+        "🏷️ 54% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0275/7784/3817/files/Hero_e20f60c0-f311-4f81-93e6-82813376b880.jpg?v=1778696736",
+      "price": 26.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 142,
+        "best_seller_rank": 22,
+        "discount_pct": 54,
+        "vendor": "Dr. Squatch",
+        "product_type": ""
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Cammies 4-Pack",
+      "url": "https://nanit.com/products/cammies-4-pack",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#7)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($69.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/cammies_bundle.webp?v=1783539586",
+      "price": 69.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 112,
+        "best_seller_rank": 7,
+        "vendor": "Nanit",
+        "product_type": "Camera Accessories"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Cammies",
+      "url": "https://nanit.com/products/cammies",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#6)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($24.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/blinky_fs.webp?v=1782915702",
+      "price": 24.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 112,
+        "best_seller_rank": 6,
+        "vendor": "Nanit",
+        "product_type": "Camera Accessories"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Clearance Travel Case",
+      "url": "https://nanit.com/products/clearance-travel-case",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#9)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/PDP-travel-case-abstract-dd09cf66-5f02-43f0-aaba-f3a8005a0c84-_4.png?v=1765218763",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1113,
+        "best_seller_rank": 9,
+        "vendor": "Nanit",
+        "product_type": "Travel Accessories"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Breathing Wear Swaddle",
+      "url": "https://nanit.com/products/breathing-wear-swaddle",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#5)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/nanit_swaddle_large_1pack.webp?v=1782502034",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1252,
+        "best_seller_rank": 5,
+        "vendor": "Nanit",
+        "product_type": "Breathing Wear"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Breathing Wear Sleeping Bag",
+      "url": "https://nanit.com/products/breathing-wear-sleeping-bag",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#4)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($34.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/breathe_wear_sleeping_bag_pebble.webp?v=1782502854",
+      "price": 34.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1352,
+        "best_seller_rank": 4,
+        "vendor": "Nanit",
+        "product_type": "Breathing Wear"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Miles & Milan Big Smile Bodysuit Set",
+      "url": "https://nanit.com/products/miles-milan-big-smile-bodysuit-set",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-30 bestseller-i (#18)",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.50)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/PDP-body_suit_miles-milan-3pack.png?v=1765218889",
+      "price": 26.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1352,
+        "best_seller_rank": 18,
+        "discount_pct": 30,
+        "vendor": "Miles & Milan",
+        "product_type": "Gifts"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Anywhere Stand",
+      "url": "https://nanit.com/products/anywhere-stand",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#1)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/flex_stand_768ec9d3-ab8c-4dce-a327-781326c999aa.webp?v=1782398759",
+      "price": 49.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1352,
+        "best_seller_rank": 1,
+        "vendor": "Nanit",
+        "product_type": "Camera Accessories"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Breathing Band™",
+      "url": "https://nanit.com/products/breathing-band",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#2)",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/nanit_breathing_band_rolled_powder_blue.webp?v=1782501789",
+      "price": 19.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1352,
+        "best_seller_rank": 2,
+        "discount_pct": 60,
+        "vendor": "Nanit",
+        "product_type": "Breathing Wear"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "nanit.com",
+      "title": "Breathing Wear Pajamas",
+      "url": "https://nanit.com/products/breathing-wear-pajamas",
+      "score": 35,
+      "reasons": [
+        "🏆 Mağazanın Top-10 bestseller-i (#3)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($29.99)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1354/7173/files/pajamas_front_pink_1.webp?v=1782502320",
+      "price": 29.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1352,
+        "best_seller_rank": 3,
+        "vendor": "Nanit",
+        "product_type": "Breathing Wear"
+      },
+      "detected_at": "2026-11-05T10:19:34+00:00"
+    }
+  ],
+  "store_errors": {
+    "lomi.com": "rate_limited (429) — skipped this run",
+    "cupshe.com": "rate_limited (429) — skipped this run",
+    "ridge.com": "rate_limited (429) — skipped this run",
+    "brooklinen.com": "rate_limited (429) — skipped this run",
+    "chubbiesshorts.com": "rate_limited (429) — skipped this run",
+    "kyliecosmetics.com": "rate_limited (429) — skipped this run",
+    "fashionnova.com": "rate_limited (429) — skipped this run",
+    "glossier.com": "rate_limited (429) — skipped this run",
+    "gymshark.com": "rate_limited (429) — skipped this run",
+    "blendjet.com": "rate_limited (429) — skipped this run",
+    "pawz.com": "rate_limited (429) — skipped this run",
+    "cozyearth.com": "rate_limited (429) — skipped this run",
+    "loopearplugs.com": "rate_limited (429) — skipped this run",
+    "comfrt.com": "rate_limited (429) — skipped this run",
+    "truff.com": "rate_limited (429) — skipped this run",
+    "magicspoon.com": "rate_limited (429) — skipped this run",
+    "smartsweets.com": "rate_limited (429) — skipped this run",
+    "hexclad.com": "rate_limited (429) — skipped this run",
+    "stanley1913.com": "rate_limited (429) — skipped this run",
+    "bruvi.com": "rate_limited (429) — skipped this run",
+    "fellowproducts.com": "rate_limited (429) — skipped this run"
+  }
+}
