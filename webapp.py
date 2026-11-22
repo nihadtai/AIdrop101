@@ -75,7 +75,7 @@ static_dir = PROJECT_ROOT / "static"
 static_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/static", StaticFiles(directory=str(static_dir)), name="static")
 
-ad_video_dir = Path("E:/Antigravity/agents/metagpt/ecommerce-agent/ad_video")
+ad_video_dir = PROJECT_ROOT / "ad_video"
 ad_video_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/ad_video", StaticFiles(directory=str(ad_video_dir)), name="ad_video")
 
