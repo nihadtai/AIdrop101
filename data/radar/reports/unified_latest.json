@@ -1,182 +1,99 @@
 {
   "source": "unified",
-  "generated_at": "2026-11-21T10:52:52+00:00",
+  "generated_at": "2026-11-22T17:30:56+00:00",
   "stats": {
     "cross_matches_count": 0,
     "shopify_signals_count": 20,
-    "amazon_signals_count": 17,
+    "amazon_signals_count": 0,
     "top_signals_count": 20,
-    "shopify_stores_ok": 16,
+    "shopify_stores_ok": 17,
     "shopify_stores_total": 172,
-    "amazon_pages_ok": 1
+    "amazon_pages_ok": 0
   },
   "cross_matches": [],
   "signals": [
     {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Wireless Earbuds, Sports Bluetooth Headphones, Running Headphones | 75Hrs Playtime Ear Buds with LED Power Display, Noise Can",
-      "url": "https://www.amazon.com/dp/B0HMQLM3H2",
-      "score": 96,
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "Camera Case II for iPhone 18",
+      "url": "https://shopmoment.com/products/camera-case-for-iphone-18-pro-compatible-with-magsafe",
+      "score": 70,
       "reasons": [
-        "🔥 Amazon Hot New Releases Top-10 (#10)",
-        "📈 Reytinqdə 8 pillə yüksəlib (#18 → #10)",
-        "🌱 Yeni yüksələn məhsul (277 rəy — aşağı rəqabət)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.89 → tövsiyə satış: ~$52.23)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($38.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
       ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71aKa1+MVXL._AC_UL900_SR900,600_.jpg",
-      "price": 20.89,
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/310-370MomentIP18PBlackFront01.png?v=1788927414",
+      "price": 38.5,
       "currency": "USD",
       "metrics": {
-        "asin": "B0HMQLM3H2",
-        "rank": 10,
-        "list_type": "new-releases",
-        "rating": 4.5,
-        "reviews": 277,
-        "rank_jump": 8,
-        "suggested_dtc_price": 52.23,
-        "category": "electronics"
+        "age_days": 73,
+        "discount_pct": 30,
+        "vendor": "Moment",
+        "product_type": "Mobile",
+        "category": "electronics",
+        "cross_store_matches": [
+          "twelvesouth.com"
+        ]
       },
-      "detected_at": "2026-11-21T10:52:40+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "HP 14 inch Laptop, HD Display, Intel N150, 4 GB RAM, 128 GB UFS, Intel Graphics, Windows 11 Home, Includes a 1-Year Microsoft",
-      "url": "https://www.amazon.com/dp/B0H3KHVZS2",
-      "score": 80,
-      "reasons": [
-        "🔥 Amazon Hot New Releases Top-10 (#6)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 97 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Na4bC1-6L._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H3KHVZS2",
-        "rank": 6,
-        "list_type": "new-releases",
-        "rating": 4.0,
-        "reviews": 97,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Blossom Pink | Instant film camera with selfie mirror, close-up m",
-      "url": "https://www.amazon.com/dp/B0HB6W86LR",
-      "score": 75,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#14)",
-        "📈 Reytinqdə 11 pillə yüksəlib (#25 → #14)",
-        "💎 Erkən trend: cəmi 41 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81jVIWXuVgL._AC_UL900_SR900,600_.jpg",
-      "price": 79.0,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HB6W86LR",
-        "rank": 14,
-        "list_type": "new-releases",
-        "rating": 4.2,
-        "reviews": 41,
-        "rank_jump": 11,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00",
+      "detected_at": "2026-11-22T12:06:31+00:00",
       "is_cross_match": false
     },
     {
       "source": "shopify",
       "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials",
+      "title": "Camera Case for iPhone 14",
+      "url": "https://shopmoment.com/products/moment-cases-for-iphone-14-compatible-with-magsafe",
       "score": 70,
       "reasons": [
         "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($20.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
       ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617825",
-      "price": 36.0,
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/16ade604e4838671383046e93b41f0f0ed2d623c-3280x3280_ee541326-2651-431b-8ed2-5f5fa6f706cb.jpg?v=1785967137",
+      "price": 20.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 0,
-        "discount_pct": 62,
+        "age_days": 75,
+        "discount_pct": 50,
         "vendor": "Moment",
-        "product_type": "",
+        "product_type": "Mobile",
         "category": "electronics",
         "cross_store_matches": [
-          "pelacase.com",
           "twelvesouth.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00",
+      "detected_at": "2026-11-22T12:06:31+00:00",
       "is_cross_match": false
     },
     {
       "source": "shopify",
       "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Max Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-max-case-essentials",
+      "title": "Camera Case for iPhone 15",
+      "url": "https://shopmoment.com/products/moment-case-for-iphone-15-compatible-with-magsafe",
       "score": 70,
       "reasons": [
         "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 52% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: twelvesouth.com"
       ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617734",
-      "price": 36.0,
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/5d3880336179445110e1dd01ad4604f37221a467-3280x3280.png?v=1785967160",
+      "price": 35.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 0,
-        "discount_pct": 52,
+        "age_days": 75,
+        "discount_pct": 30,
         "vendor": "Moment",
-        "product_type": "",
+        "product_type": "Mobile",
         "category": "electronics",
         "cross_store_matches": [
-          "pelacase.com",
           "twelvesouth.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
-      "score": 70,
-      "reasons": [
-        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
-      "price": 33.25,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 63,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-21T10:52:47+00:00",
+      "detected_at": "2026-11-22T12:06:31+00:00",
       "is_cross_match": false
     },
     {
@@ -209,82 +126,6 @@
       "is_cross_match": false
     },
     {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "SHOKZ OpenRun Air 2 Bone Conduction Open-Ear Bluetooth Headphones，Black | Bundle with Hair Band；26.4g lightweight; Secure fit",
-      "url": "https://www.amazon.com/dp/B0H7HSSYG7",
-      "score": 70,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#23)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "🌱 Yeni yüksələn məhsul (272 rəy — aşağı rəqabət)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41qc-dve43L._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H7HSSYG7",
-        "rank": 23,
-        "list_type": "new-releases",
-        "rating": 4.4,
-        "reviews": 272,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Amazon Alexa Tablet 11 (all-new), 8GB RAM, 64GB, 11″ stunning 2.5K display, All-day battery, With Google Play, Designed for A",
-      "url": "https://www.amazon.com/dp/B0DN7GYYV2",
-      "score": 70,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#25)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 129 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61MfxKC1UXL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0DN7GYYV2",
-        "rank": 25,
-        "list_type": "new-releases",
-        "rating": 4.0,
-        "reviews": 129,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Amazon Echo Time (all-new), Customizable smart clock, Smart alarms, Ambient sounds, Smart home hub, Ideal for bedrooms, Desig",
-      "url": "https://www.amazon.com/dp/B0FRPDXJYC",
-      "score": 70,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#28)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 113 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61dzZjmZ8LL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0FRPDXJYC",
-        "rank": 28,
-        "list_type": "new-releases",
-        "rating": 4.1,
-        "reviews": 113,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00",
-      "is_cross_match": false
-    },
-    {
       "source": "shopify",
       "origin": "brooklinen.com",
       "title": "Silk Scrunchie Set - Last Call",
@@ -310,63 +151,6 @@
         ]
       },
       "detected_at": "2026-11-20T08:25:00+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "shopify",
-      "origin": "trueclassictees.com",
-      "title": "Black Boxer Briefs 3-Pack",
-      "url": "https://trueclassictees.com/products/black-boxer-briefs",
-      "score": 65,
-      "reasons": [
-        "🆕 7 gün əvvəl satışa çıxarılıb",
-        "🏷️ 47% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($39.99)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: marinelayer.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/BLACKBOXERBRIEFS_3PACK_5d1048ed-df23-4cff-bd31-c5350a425225.jpg?v=1778602265",
-      "price": 39.99,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 7,
-        "discount_pct": 47,
-        "vendor": "True Classic",
-        "product_type": "Boxer Briefs",
-        "category": "fashion",
-        "cross_store_matches": [
-          "marinelayer.com"
-        ]
-      },
-      "detected_at": "2026-11-19T16:13:56+00:00",
-      "is_cross_match": false
-    },
-    {
-      "source": "shopify",
-      "origin": "beardbrand.com",
-      "title": "Cologne And Deodorant Set",
-      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
-      "score": 65,
-      "reasons": [
-        "🆕 7 gün əvvəl satışa çıxarılıb",
-        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
-      "price": 50.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 7,
-        "discount_pct": 35,
-        "vendor": "Beardbrand",
-        "product_type": "Bundles",
-        "category": "beauty",
-        "cross_store_matches": [
-          "bitetoothpastebits.com",
-          "glossier.com"
-        ]
-      },
-      "detected_at": "2026-11-19T15:12:52+00:00",
       "is_cross_match": false
     },
     {
@@ -398,31 +182,57 @@
       "is_cross_match": false
     },
     {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
-      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
-      "score": 61,
+      "source": "shopify",
+      "origin": "trueclassictees.com",
+      "title": "Active Polo 6-Pack",
+      "url": "https://trueclassictees.com/products/active-tc-polos-6-pack",
+      "score": 60,
       "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#13)",
-        "📈 Reytinqdə 3 pillə yüksəlib (#16 → #13)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.98 → tövsiyə satış: ~$47.45)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 50% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cutsclothing.com"
       ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
-      "price": 18.98,
+      "image": "https://cdn.shopify.com/s/files/1/0220/4008/4552/files/40086PACK.jpg?v=1795202498",
+      "price": 119.99,
       "currency": "USD",
       "metrics": {
-        "asin": "B0HJTS6LXB",
-        "rank": 13,
-        "list_type": "new-releases",
-        "rating": 4.7,
-        "reviews": 698,
-        "rank_jump": 3,
-        "suggested_dtc_price": 47.45,
-        "category": "electronics"
+        "age_days": 1,
+        "discount_pct": 50,
+        "vendor": "True Classic",
+        "product_type": "Active Short Sleeve Polo",
+        "category": "fashion",
+        "cross_store_matches": [
+          "cutsclothing.com"
+        ]
       },
-      "detected_at": "2026-11-21T10:52:40+00:00",
+      "detected_at": "2026-11-22T17:30:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "kyliecosmetics.com",
+      "title": "Velvet Lip Kit",
+      "url": "https://kyliecosmetics.com/products/velvet-lip-kit",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: glossier.com, versedskin.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0662/4598/4498/products/KJC_VLK_22_LipMacros_Bare_02.jpg?v=1675363605",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1445,
+        "vendor": "kylie-cosmetics",
+        "product_type": "Lip Kit",
+        "category": "beauty",
+        "cross_store_matches": [
+          "glossier.com",
+          "versedskin.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:16:40+00:00",
       "is_cross_match": false
     },
     {
@@ -560,6 +370,200 @@
         ]
       },
       "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "nobullproject.com",
+      "title": "Men's LFG Tee",
+      "url": "https://nobullproject.com/products/mens-lfg-tee-black",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: youngla.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0558/4169/files/nobull-apparel-men-s-lfg-tee-1225011010.png?v=1772660639",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "vendor": "NOBULL",
+        "product_type": "Apparel",
+        "category": "fitness",
+        "cross_store_matches": [
+          "youngla.com"
+        ]
+      },
+      "detected_at": "2026-11-17T15:54:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-2",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($38.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LipScrub_LipMask_NeopreneBag.jpg?v=1794863110",
+      "price": 38.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 7,
+        "vendor": "Versed Skin",
+        "product_type": "Black Friday 2026 GWP",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:16:41+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-1",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LIPDUO2HERO.jpg?v=1794860210",
+      "price": 26.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 5,
+        "vendor": "Versed Skin",
+        "product_type": "The Smooth Lip Duo",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:16:41+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "bollandbranch.com",
+      "title": "Court Knit Pillow Cover - Heathered Oatmeal",
+      "url": "https://bollandbranch.com/products/court-knit-decorative-pillow-cover-heathered-oatmeal_",
+      "score": 55,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🔄 Tükənmişdi, yenidən stoka gəlib (tələbat siqnalı)",
+        "🏷️ 33% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($66.00)"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1154/7838/files/HeatheredOatmeal_CourtKnit_Dec_Pillow_Cover_DIMARTINO_06042025_FINAL.jpg?v=1753300297",
+      "price": 66.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 33,
+        "vendor": "Boll & Branch",
+        "product_type": "Decorative Pillows",
+        "category": "home"
+      },
+      "detected_at": "2026-11-22T13:35:02+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "satechi.net",
+      "title": "FindAll™ Magnetic Wallet Stand",
+      "url": "https://satechi.net/products/findall-magnetic-wallet-stand",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com, ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FindallWalletStandBlack1.webp?v=1795055852",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "vendor": "Satechi",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "esrgear.com",
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-22T12:06:31+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T12:06:31+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T12:06:31+00:00",
       "is_cross_match": false
     }
   ]
