@@ -1,103 +1,19 @@
 {
   "source": "shopify",
-  "started_at": "2026-11-21T10:52:35+00:00",
-  "finished_at": "2026-11-21T10:52:52+00:00",
+  "started_at": "2026-11-22T18:29:36+00:00",
+  "finished_at": "2026-11-22T18:29:49+00:00",
   "baseline_run": false,
   "stats": {
-    "stores_total": 17,
-    "stores_ok": 16,
-    "products_scanned": 2795,
+    "stores_total": 19,
+    "stores_ok": 19,
+    "products_scanned": 2217,
     "best_seller_rank_available": 0,
     "first_run_stores": 0,
     "catalog_stores_total": 172,
     "categories_total": 10,
-    "signals_above_threshold": 436
+    "signals_above_threshold": 56
   },
   "signals": [
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials",
-      "score": 70,
-      "reasons": [
-        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 62% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617825",
-      "price": 36.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 62,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-21T10:52:47+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Max Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-max-case-essentials",
-      "score": 70,
-      "reasons": [
-        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 52% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($36.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip13pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617734",
-      "price": 36.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 52,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-21T10:52:47+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
-      "score": 70,
-      "reasons": [
-        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
-        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
-      "price": 33.25,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 63,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-21T10:52:47+00:00"
-    },
     {
       "source": "shopify",
       "origin": "theragcompany.com",
@@ -133,7 +49,7 @@
       "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
       "score": 65,
       "reasons": [
-        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🆕 6 gün əvvəl satışa çıxarılıb",
         "🏷️ 40% endirimlə satılır (aqressiv təklif)",
         "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
         "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
@@ -142,7 +58,7 @@
       "price": 21.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 3,
+        "age_days": 6,
         "discount_pct": 40,
         "vendor": "Brooklinen",
         "product_type": "Scrunchies",
@@ -151,7 +67,91 @@
           "cozyearth.com"
         ]
       },
-      "detected_at": "2026-11-20T08:25:00+00:00"
+      "detected_at": "2026-11-22T17:28:39+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617303",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:27:19+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Max Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-max-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617217",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:27:19+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
+      "price": 33.25,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 63,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:27:19+00:00"
     },
     {
       "source": "shopify",
@@ -182,34 +182,6 @@
     },
     {
       "source": "shopify",
-      "origin": "beardbrand.com",
-      "title": "Cologne And Deodorant Set",
-      "url": "https://beardbrand.com/products/cologne-and-deodorant-set",
-      "score": 65,
-      "reasons": [
-        "🆕 7 gün əvvəl satışa çıxarılıb",
-        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($50.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: bitetoothpastebits.com, glossier.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0209/0478/files/DO_EDP_NW.jpg?v=1794413179",
-      "price": 50.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 7,
-        "discount_pct": 35,
-        "vendor": "Beardbrand",
-        "product_type": "Bundles",
-        "category": "beauty",
-        "cross_store_matches": [
-          "bitetoothpastebits.com",
-          "glossier.com"
-        ]
-      },
-      "detected_at": "2026-11-19T15:12:52+00:00"
-    },
-    {
-      "source": "shopify",
       "origin": "littlesleepies.com",
       "title": "Disney Simba Lovey",
       "url": "https://littlesleepies.com/products/disney-simba-lovey",
@@ -234,6 +206,32 @@
         ]
       },
       "detected_at": "2026-11-17T16:55:57+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "kyliecosmetics.com",
+      "title": "Velvet Lip Kit",
+      "url": "https://kyliecosmetics.com/products/velvet-lip-kit",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: glossier.com, versedskin.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0662/4598/4498/products/KJC_VLK_22_LipMacros_Bare_02.jpg?v=1675363605",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1446,
+        "vendor": "kylie-cosmetics",
+        "product_type": "Lip Kit",
+        "category": "beauty",
+        "cross_store_matches": [
+          "glossier.com",
+          "versedskin.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:29:48+00:00"
     },
     {
       "source": "shopify",
@@ -394,12 +392,72 @@
     },
     {
       "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-2",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($38.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LipScrub_LipMask_NeopreneBag.jpg?v=1794863110",
+      "price": 38.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 7,
+        "vendor": "Versed Skin",
+        "product_type": "Black Friday 2026 GWP",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:29:48+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "versedskin.com",
+      "title": "Lips",
+      "url": "https://versedskin.com/products/lips-1",
+      "score": 55,
+      "reasons": [
+        "🆕 5 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($26.50)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: colourpop.com, glossier.com, kyliecosmetics.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0130/2514/8987/files/LIPDUO2HERO.jpg?v=1794860210",
+      "price": 26.5,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 5,
+        "discount_pct": 5,
+        "vendor": "Versed Skin",
+        "product_type": "The Smooth Lip Duo",
+        "category": "beauty",
+        "cross_store_matches": [
+          "colourpop.com",
+          "glossier.com",
+          "kyliecosmetics.com",
+          "rhodeskin.com",
+          "tower28beauty.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:29:48+00:00"
+    },
+    {
+      "source": "shopify",
       "origin": "satechi.net",
       "title": "FindAll™ Magnetic Wallet Stand",
       "url": "https://satechi.net/products/findall-magnetic-wallet-stand",
       "score": 55,
       "reasons": [
-        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🆕 5 gün əvvəl satışa çıxarılıb",
         "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
         "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com, ipitaka.com"
       ],
@@ -407,7 +465,7 @@
       "price": 49.99,
       "currency": "USD",
       "metrics": {
-        "age_days": 4,
+        "age_days": 5,
         "vendor": "Satechi",
         "product_type": "",
         "category": "electronics",
@@ -416,7 +474,7 @@
           "ipitaka.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00"
+      "detected_at": "2026-11-22T16:27:19+00:00"
     },
     {
       "source": "shopify",
@@ -425,7 +483,7 @@
       "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
       "score": 55,
       "reasons": [
-        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🆕 4 gün əvvəl satışa çıxarılıb",
         "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
         "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
       ],
@@ -433,7 +491,7 @@
       "price": 65.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 2,
+        "age_days": 4,
         "vendor": "Pela Case",
         "product_type": "iPhone 13 Pro Max",
         "category": "electronics",
@@ -442,7 +500,7 @@
           "twelvesouth.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00"
+      "detected_at": "2026-11-22T16:27:19+00:00"
     },
     {
       "source": "shopify",
@@ -451,7 +509,7 @@
       "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
       "score": 55,
       "reasons": [
-        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🆕 4 gün əvvəl satışa çıxarılıb",
         "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
         "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
       ],
@@ -459,7 +517,7 @@
       "price": 65.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 2,
+        "age_days": 4,
         "vendor": "Pela Case",
         "product_type": "iPhone 12 Pro Max",
         "category": "electronics",
@@ -468,7 +526,7 @@
           "twelvesouth.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00"
+      "detected_at": "2026-11-22T16:27:19+00:00"
     },
     {
       "source": "shopify",
@@ -477,7 +535,7 @@
       "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
       "score": 55,
       "reasons": [
-        "🆕 2 gün əvvəl satışa çıxarılıb",
+        "🆕 4 gün əvvəl satışa çıxarılıb",
         "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
         "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
       ],
@@ -485,7 +543,7 @@
       "price": 65.0,
       "currency": "USD",
       "metrics": {
-        "age_days": 2,
+        "age_days": 4,
         "vendor": "Pela Case",
         "product_type": "iPhone 14 Pro Max",
         "category": "electronics",
@@ -494,62 +552,8 @@
           "twelvesouth.com"
         ]
       },
-      "detected_at": "2026-11-21T10:52:47+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "fashionnova.com",
-      "title": "Classic Sweater Polo - Beige",
-      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-beige",
-      "score": 55,
-      "reasons": [
-        "🆕 0 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_Beige_JR_V1.jpg?v=1795037724",
-      "price": 23.99,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 20,
-        "vendor": "Fashion Nova",
-        "product_type": "Mens Screen Tops",
-        "category": "fashion",
-        "cross_store_matches": [
-          "trueclassictees.com"
-        ]
-      },
-      "detected_at": "2026-11-19T16:13:56+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "fashionnova.com",
-      "title": "Classic Sweater Polo - Black",
-      "url": "https://fashionnova.com/products/classic-sweater-polo-fncolorname-black",
-      "score": 55,
-      "reasons": [
-        "🆕 0 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($23.99)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: trueclassictees.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0293/9277/files/B526MSW0932_Black_JR_V1.jpg?v=1795036730",
-      "price": 23.99,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 0,
-        "discount_pct": 20,
-        "vendor": "Fashion Nova",
-        "product_type": "Mens Screen Tops",
-        "category": "fashion",
-        "cross_store_matches": [
-          "trueclassictees.com"
-        ]
-      },
-      "detected_at": "2026-11-19T16:13:56+00:00"
+      "detected_at": "2026-11-22T16:27:19+00:00"
     }
   ],
-  "store_errors": {
-    "nuphy.com": "rate_limited (429) — skipped this run"
-  }
+  "store_errors": {}
 }

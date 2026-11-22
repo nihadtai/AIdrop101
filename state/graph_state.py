@@ -60,6 +60,7 @@ class ECommerceState(TypedDict):
     creative_assets: Optional[Dict[str, Any]]
     manual_video_links: Optional[List[str]]
     creative_config: Optional[Dict[str, Any]]
+    creative_feedback: Optional[str]
 
     # Stage 1 Winning Catalog (persisted across "Return to Agent 1" loops)
     winning_catalog: List[Dict[str, Any]]

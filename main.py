@@ -62,13 +62,6 @@ from tools.shopify_tools import (
     update_product_page,
     create_discount_code,
 )
-from tools.creative_tools import (
-    generate_ad_script,
-    generate_ai_video,
-    generate_voiceover,
-    add_subtitles_to_video,
-    combine_video_assets,
-)
 from tools.meta_ads_tools import (
     create_campaign,
     create_adset,
@@ -149,13 +142,7 @@ def build_tools_map() -> dict[str, list]:
             update_product_page,
             create_discount_code,
         ],
-        "creative": [
-            generate_ad_script,
-            generate_ai_video,
-            generate_voiceover,
-            add_subtitles_to_video,
-            combine_video_assets,
-        ],
+        "creative": [],
         "media_buyer": [
             create_campaign,
             create_adset,

@@ -1,16 +1,16 @@
 {
   "source": "amazon",
-  "started_at": "2026-11-21T10:52:35+00:00",
-  "finished_at": "2026-11-21T10:52:40+00:00",
+  "started_at": "2026-11-22T16:27:08+00:00",
+  "finished_at": "2026-11-22T16:27:13+00:00",
   "baseline_run": false,
   "stats": {
     "categories_total": 1,
     "pages_fetched": 2,
-    "pages_ok": 1,
-    "items_scanned": 30,
-    "filtered_out": 10,
+    "pages_ok": 2,
+    "items_scanned": 60,
+    "filtered_out": 17,
     "first_run_pages": 0,
-    "signals_above_threshold": 17
+    "signals_above_threshold": 14
   },
   "signals": [
     {
@@ -18,11 +18,10 @@
       "origin": "amazon:electronics:new-releases",
       "title": "Wireless Earbuds, Sports Bluetooth Headphones, Running Headphones | 75Hrs Playtime Ear Buds with LED Power Display, Noise Can",
       "url": "https://www.amazon.com/dp/B0HMQLM3H2",
-      "score": 96,
+      "score": 60,
       "reasons": [
-        "🔥 Amazon Hot New Releases Top-10 (#10)",
-        "📈 Reytinqdə 8 pillə yüksəlib (#18 → #10)",
-        "🌱 Yeni yüksələn məhsul (277 rəy — aşağı rəqabət)",
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "🌱 Yeni yüksələn məhsul (281 rəy — aşağı rəqabət)",
         "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.89 → tövsiyə satış: ~$52.23)",
         "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
       ],
@@ -31,75 +30,237 @@
       "currency": "USD",
       "metrics": {
         "asin": "B0HMQLM3H2",
-        "rank": 10,
+        "rank": 13,
         "list_type": "new-releases",
         "rating": 4.5,
-        "reviews": 277,
-        "rank_jump": 8,
+        "reviews": 281,
         "suggested_dtc_price": 52.23,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "HP 14 inch Laptop, HD Display, Intel N150, 4 GB RAM, 128 GB UFS, Intel Graphics, Windows 11 Home, Includes a 1-Year Microsoft",
-      "url": "https://www.amazon.com/dp/B0H3KHVZS2",
-      "score": 80,
-      "reasons": [
-        "🔥 Amazon Hot New Releases Top-10 (#6)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 97 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Na4bC1-6L._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H3KHVZS2",
-        "rank": 6,
-        "list_type": "new-releases",
-        "rating": 4.0,
-        "reviews": 97,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
     },
     {
       "source": "amazon",
       "origin": "amazon:electronics:new-releases",
       "title": "FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Blossom Pink | Instant film camera with selfie mirror, close-up m",
       "url": "https://www.amazon.com/dp/B0HB6W86LR",
-      "score": 75,
+      "score": 55,
       "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#14)",
-        "📈 Reytinqdə 11 pillə yüksəlib (#25 → #14)",
-        "💎 Erkən trend: cəmi 41 rəy ilə Top siyahıdadır (bazar doymayıb)"
+        "🔥 Amazon Hot New Releases Top-10 (#10)",
+        "💎 Erkən trend: cəmi 43 rəy ilə Top siyahıdadır (bazar doymayıb)"
       ],
       "image": "https://images-na.ssl-images-amazon.com/images/I/81jVIWXuVgL._AC_UL900_SR900,600_.jpg",
       "price": 79.0,
       "currency": "USD",
       "metrics": {
         "asin": "B0HB6W86LR",
-        "rank": 14,
+        "rank": 10,
         "list_type": "new-releases",
         "rating": 4.2,
-        "reviews": 41,
-        "rank_jump": 11,
+        "reviews": 43,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:bestsellers",
+      "title": "OURA Ring 5 Sizing Kit - Size Before You Buy | Unique Sizing, Not Standard Ring Sizing - Receive Amazon Credit for Oura Ring",
+      "url": "https://www.amazon.com/dp/B0GRKC9NJP",
+      "score": 45,
+      "reasons": [
+        "🏆 Amazon Best Sellers Top-10 (#8)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $10.00 → tövsiyə satış: ~$32.00)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HAkWN1-LL._AC_UL900_SR900,600_.jpg",
+      "price": 10.0,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0GRKC9NJP",
+        "rank": 8,
+        "list_type": "bestsellers",
+        "rating": 4.6,
+        "reviews": 1232,
+        "suggested_dtc_price": 32.0,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:10+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Free Battery Doorbell 2K+ with Blink Outdoor 4 Camera (newest model) — Two-year battery 1080p cameras and 2K battery doorbell",
+      "url": "https://www.amazon.com/dp/B0H1HWXW35",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "💎 Erkən trend: cəmi 48 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41CeTIQJStL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H1HWXW35",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.1,
+        "reviews": 48,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Ring Outdoor Cam, Solar (newest model), Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Night Visio",
+      "url": "https://www.amazon.com/dp/B0H2G9SHF3",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "💎 Erkən trend: cəmi 16 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xiBNa+UrL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H2G9SHF3",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 16,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "HP 14 inch Laptop, HD Display, Intel N150, 4 GB RAM, 128 GB UFS, Intel Graphics, Windows 11 Home, Includes a 1-Year Microsoft",
+      "url": "https://www.amazon.com/dp/B0H3KHVZS2",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "💎 Erkən trend: cəmi 98 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Na4bC1-6L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3KHVZS2",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 98,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
+      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#19)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.98 → tövsiyə satış: ~$47.45)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
+      "price": 18.98,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJTS6LXB",
+        "rank": 19,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 716,
+        "suggested_dtc_price": 47.45,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "BassBloom ROAR 3 Portable Bluetooth Speaker,IPX6 Waterproof,20W | Powerful Sound with JIKE Bass,24H Playtime,Bluetooth 5.4,RG",
+      "url": "https://www.amazon.com/dp/B0HJSW1G3J",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $17.09 → tövsiyə satış: ~$42.73)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SjRnpTuUL._AC_UL900_SR900,600_.jpg",
+      "price": 17.09,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HJSW1G3J",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 1297,
+        "suggested_dtc_price": 42.73,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "Amazon Alexa Tablet 11 (all-new), 8GB RAM, 64GB, 11″ stunning 2.5K display, All-day battery, With Google Play, Designed for A",
+      "url": "https://www.amazon.com/dp/B0DN7GYYV2",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#24)",
+        "💎 Erkən trend: cəmi 137 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61MfxKC1UXL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0DN7GYYV2",
+        "rank": 24,
+        "list_type": "new-releases",
+        "rating": 4.0,
+        "reviews": 137,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:electronics:new-releases",
+      "title": "8-in-1 Power Strip, Round USB & Type-C Fast Charging Station for Phones | 8-in-1 design with built-in charging ports eliminat",
+      "url": "https://www.amazon.com/dp/B0H989CW82",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "💎 Erkən trend: cəmi 105 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616pcTTlM9L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H989CW82",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 105,
+        "category": "electronics"
+      },
+      "detected_at": "2026-11-22T16:27:13+00:00"
     },
     {
       "source": "amazon",
       "origin": "amazon:electronics:new-releases",
       "title": "SHOKZ OpenRun Air 2 Bone Conduction Open-Ear Bluetooth Headphones，Black | Bundle with Hair Band；26.4g lightweight; Secure fit",
       "url": "https://www.amazon.com/dp/B0H7HSSYG7",
-      "score": 70,
+      "score": 45,
       "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#23)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "🌱 Yeni yüksələn məhsul (272 rəy — aşağı rəqabət)",
+        "🆕 Amazon Hot New Releases Top-30 (#26)",
+        "🌱 Yeni yüksələn məhsul (274 rəy — aşağı rəqabət)",
         "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
       ],
       "image": "https://images-na.ssl-images-amazon.com/images/I/41qc-dve43L._AC_UL900_SR900,600_.jpg",
@@ -107,48 +268,48 @@
       "currency": "USD",
       "metrics": {
         "asin": "B0H7HSSYG7",
-        "rank": 23,
+        "rank": 26,
         "list_type": "new-releases",
         "rating": 4.4,
-        "reviews": 272,
+        "reviews": 274,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
     },
     {
       "source": "amazon",
       "origin": "amazon:electronics:new-releases",
-      "title": "Amazon Alexa Tablet 11 (all-new), 8GB RAM, 64GB, 11″ stunning 2.5K display, All-day battery, With Google Play, Designed for A",
-      "url": "https://www.amazon.com/dp/B0DN7GYYV2",
-      "score": 70,
+      "title": "Wireless earbuds, Bluetooth 5.3 Ear buds Headphones with Digital Display | 50H Long Playtime Earphones, HiFi Stereo, ENC Nois",
+      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
+      "score": 45,
       "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#25)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 129 rəy ilə Top siyahıdadır (bazar doymayıb)"
+        "🆕 Amazon Hot New Releases Top-30 (#27)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.97 → tövsiyə satış: ~$47.42)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
       ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61MfxKC1UXL._AC_UL900_SR900,600_.jpg",
-      "price": null,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+W-dfYPxL._AC_UL900_SR900,600_.jpg",
+      "price": 18.97,
       "currency": "USD",
       "metrics": {
-        "asin": "B0DN7GYYV2",
-        "rank": 25,
+        "asin": "B0HJ7MGWSZ",
+        "rank": 27,
         "list_type": "new-releases",
-        "rating": 4.0,
-        "reviews": 129,
+        "rating": 4.5,
+        "reviews": 988,
+        "suggested_dtc_price": 47.42,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
     },
     {
       "source": "amazon",
       "origin": "amazon:electronics:new-releases",
       "title": "Amazon Echo Time (all-new), Customizable smart clock, Smart alarms, Ambient sounds, Smart home hub, Ideal for bedrooms, Desig",
       "url": "https://www.amazon.com/dp/B0FRPDXJYC",
-      "score": 70,
+      "score": 45,
       "reasons": [
         "🆕 Amazon Hot New Releases Top-30 (#28)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 113 rəy ilə Top siyahıdadır (bazar doymayıb)"
+        "💎 Erkən trend: cəmi 118 rəy ilə Top siyahıdadır (bazar doymayıb)"
       ],
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dzZjmZ8LL._AC_UL900_SR900,600_.jpg",
       "price": null,
@@ -158,284 +319,35 @@
         "rank": 28,
         "list_type": "new-releases",
         "rating": 4.1,
-        "reviews": 113,
+        "reviews": 118,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
     },
     {
       "source": "amazon",
       "origin": "amazon:electronics:new-releases",
-      "title": "Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones",
-      "url": "https://www.amazon.com/dp/B0HJTS6LXB",
-      "score": 61,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#13)",
-        "📈 Reytinqdə 3 pillə yüksəlib (#16 → #13)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.98 → tövsiyə satış: ~$47.45)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61aSuH86kYL._AC_UL900_SR900,600_.jpg",
-      "price": 18.98,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HJTS6LXB",
-        "rank": 13,
-        "list_type": "new-releases",
-        "rating": 4.7,
-        "reviews": 698,
-        "rank_jump": 3,
-        "suggested_dtc_price": 47.45,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Hand Crank Radio, AM FM NOAA Weather Radio with Solar Panel, Type-C Charging, Flashlight, Reading Lamp and SOS Alarm, Portabl",
-      "url": "https://www.amazon.com/dp/B0HQRCT5W4",
-      "score": 55,
+      "title": "FUJIFILM instax mini 13 Instant Film Camera - Dreamy Purple",
+      "url": "https://www.amazon.com/dp/B0GRH779CT",
+      "score": 45,
       "reasons": [
         "🆕 Amazon Hot New Releases Top-30 (#29)",
-        "💎 Erkən trend: cəmi 3 rəy ilə Top siyahıdadır (bazar doymayıb)",
-        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZdjhrDPTL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HQRCT5W4",
-        "rank": 29,
-        "list_type": "new-releases",
-        "rating": 5.0,
-        "reviews": 3,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Amazon Kids Tablet 11 (newest model), Ages 6-12, Includes books, apps and videos for STEM and hobbies; add popular school app",
-      "url": "https://www.amazon.com/dp/B0F5FH77TT",
-      "score": 53,
-      "reasons": [
-        "🔥 Amazon Hot New Releases Top-10 (#5)",
-        "📈 Reytinqdə 4 pillə yüksəlib (#9 → #5)",
-        "💎 Erkən trend: cəmi 64 rəy ilə Top siyahıdadır (bazar doymayıb)",
-        "⚠️ Aşağı reytinq (3.4/5.0 — geri qaytarma riski)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ptSfUZ2TL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0F5FH77TT",
-        "rank": 5,
-        "list_type": "new-releases",
-        "rating": 3.4,
-        "reviews": 64,
-        "rank_jump": 4,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Beats 360 Wireless Over-Ear Headphones – Black with Black Knit Cushions | High-Fidelity Noise-Cancelling Headphones with Inte",
-      "url": "https://www.amazon.com/dp/B0HBZPBVQJ",
-      "score": 50,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#21)",
-        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
-        "💎 Erkən trend: cəmi 148 rəy ilə Top siyahıdadır (bazar doymayıb)",
-        "⚠️ Aşağı reytinq (3.7/5.0 — geri qaytarma riski)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613fcAR6N4L._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HBZPBVQJ",
-        "rank": 21,
-        "list_type": "new-releases",
-        "rating": 3.7,
-        "reviews": 148,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Free Battery Doorbell 2K+ with Blink Outdoor 4 Camera (newest model) — Two-year battery 1080p cameras and 2K battery doorbell",
-      "url": "https://www.amazon.com/dp/B0H1HWXW35",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#12)",
-        "💎 Erkən trend: cəmi 47 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41CeTIQJStL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H1HWXW35",
-        "rank": 12,
-        "list_type": "new-releases",
-        "rating": 4.1,
-        "reviews": 47,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Ring Outdoor Cam, Solar (newest model), Home or business security, Wide-Angle Retinal 2K Video, 6x Enhanced Zoom, Night Visio",
-      "url": "https://www.amazon.com/dp/B0H2G9SHF3",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#17)",
-        "💎 Erkən trend: cəmi 16 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51xiBNa+UrL._AC_UL900_SR900,600_.jpg",
-      "price": null,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H2G9SHF3",
-        "rank": 17,
-        "list_type": "new-releases",
-        "rating": 4.3,
-        "reviews": 16,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Wireless earbuds, Bluetooth 5.3 Ear buds Headphones with Digital Display | 50H Long Playtime Earphones, HiFi Stereo, ENC Nois",
-      "url": "https://www.amazon.com/dp/B0HJ7MGWSZ",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#20)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $18.97 → tövsiyə satış: ~$47.42)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+W-dfYPxL._AC_UL900_SR900,600_.jpg",
-      "price": 18.97,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HJ7MGWSZ",
-        "rank": 20,
-        "list_type": "new-releases",
-        "rating": 4.5,
-        "reviews": 985,
-        "suggested_dtc_price": 47.42,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Hybrid Active Noise Cancelling Bluetooth Headphones Wireless Headphones | Over Ear, 120H Playtime, Hi-Res Audio, Deep Bass, M",
-      "url": "https://www.amazon.com/dp/B0HFM63KVW",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#22)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $28.49 → tövsiyə satış: ~$71.22)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71pocVeE-wL._AC_UL900_SR900,600_.jpg",
-      "price": 28.49,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HFM63KVW",
-        "rank": 22,
-        "list_type": "new-releases",
-        "rating": 4.4,
-        "reviews": 764,
-        "suggested_dtc_price": 71.22,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "BassBloom ROAR 3 Portable Bluetooth Speaker,IPX6 Waterproof,20W | Powerful Sound with JIKE Bass,24H Playtime,Bluetooth 5.4,RG",
-      "url": "https://www.amazon.com/dp/B0HJSW1G3J",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#24)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $17.09 → tövsiyə satış: ~$42.73)",
+        "🌱 Yeni yüksələn məhsul (269 rəy — aşağı rəqabət)",
         "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
       ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71SjRnpTuUL._AC_UL900_SR900,600_.jpg",
-      "price": 17.09,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61avG5q-XuL._AC_UL900_SR900,600_.jpg",
+      "price": 79.95,
       "currency": "USD",
       "metrics": {
-        "asin": "B0HJSW1G3J",
-        "rank": 24,
+        "asin": "B0GRH779CT",
+        "rank": 29,
         "list_type": "new-releases",
         "rating": 4.6,
-        "reviews": 1258,
-        "suggested_dtc_price": 42.73,
+        "reviews": 269,
         "category": "electronics"
       },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds | with LED Power Display Noise Canceling Headset IPX7",
-      "url": "https://www.amazon.com/dp/B0HJ1MJ6LW",
-      "score": 45,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#27)",
-        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $20.38 → tövsiyə satış: ~$50.95)",
-        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61eO2JKwUdL._AC_UL900_SR900,600_.jpg",
-      "price": 20.38,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0HJ1MJ6LW",
-        "rank": 27,
-        "list_type": "new-releases",
-        "rating": 4.4,
-        "reviews": 2403,
-        "suggested_dtc_price": 50.95,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
-    },
-    {
-      "source": "amazon",
-      "origin": "amazon:electronics:new-releases",
-      "title": "8-in-1 Power Strip, Round USB & Type-C Fast Charging Station for Phones | 8-in-1 design with built-in charging ports eliminat",
-      "url": "https://www.amazon.com/dp/B0H989CW82",
-      "score": 40,
-      "reasons": [
-        "🆕 Amazon Hot New Releases Top-30 (#26)",
-        "💎 Erkən trend: cəmi 102 rəy ilə Top siyahıdadır (bazar doymayıb)"
-      ],
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616pcTTlM9L._AC_UL900_SR900,600_.jpg",
-      "price": 4.39,
-      "currency": "USD",
-      "metrics": {
-        "asin": "B0H989CW82",
-        "rank": 26,
-        "list_type": "new-releases",
-        "rating": 4.3,
-        "reviews": 102,
-        "category": "electronics"
-      },
-      "detected_at": "2026-11-21T10:52:40+00:00"
+      "detected_at": "2026-11-22T16:27:13+00:00"
     }
   ],
-  "page_errors": {
-    "electronics__bestsellers": "captcha_or_throttled — skipped"
-  }
+  "page_errors": {}
 }

@@ -42,71 +42,217 @@ for _d in [AD_VIDEO_DIR, DOWNLOADS_DIR, AUDIO_DIR, VIDEO_OUT_DIR, UGC_AVATARS_DI
 # Uses verified ElevenLabs premade voice IDs supporting Multilingual v2, Flash v2.5, and v3.
 
 UGC_AVATAR_PRESETS: Dict[str, Dict[str, Any]] = {
+    # ── Female Realistic UGC Creators (6) ──
     "aysel_ugc": {
         "id": "aysel_ugc",
         "name": "Chloe S. (Lifestyle & Beauty Creator)",
         "labels": {
-            "en": "Chloe S. (US Female — Lifestyle & Everyday)",
-            "az": "Aysel M. (Gənc Xanım — Baxım & Gündəlik)",
-            "de": "Laura B. (Lifestyle & Alltag)",
-            "fr": "Chloé M. (Lifestyle & Beauté)",
+            "en": "Chloe S. (US Female, 25 — Lifestyle & Everyday)",
+            "az": "Aysel M. (Qadın, 25 — Baxım & Gündəlik)",
+            "de": "Laura B. (Frau, 25 — Lifestyle & Alltag)",
+            "fr": "Chloé M. (Femme, 25 — Lifestyle & Beauté)",
         },
         "gender": "female",
+        "age_group": "25",
+        "niche": "lifestyle",
         "style": "Natural Handheld Selfie / Daylight",
         "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=85",
         "elevenlabs_voice_id": "cgSgspJ2msm6clMCkdW9",
         "fallback_elevenlabs_voice_id": "EXAVITQu4vr4xnSDxMaL",
     },
-    "resad_ugc": {
-        "id": "resad_ugc",
-        "name": "Marcus T. (Tech & Smart Gadgets)",
-        "labels": {
-            "en": "Marcus T. (US Male — Tech & Smart Gadgets)",
-            "az": "Rəşad K. (Gənc Oğlan — Texnologiya & Qadcet)",
-            "de": "Lukas K. (Technik & Smart Gadgets)",
-            "fr": "Lucas T. (Tech & Gadgets Connectés)",
-        },
-        "gender": "male",
-        "style": "Energetic Studio Desk Review",
-        "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=85",
-        "elevenlabs_voice_id": "cjVigY5qzO86Huf0OWal",
-        "fallback_elevenlabs_voice_id": "JBFqnCBsd6RMkjVDRZzb",
-    },
     "leyla_ugc": {
         "id": "leyla_ugc",
         "name": "Hannah R. (Home, Kitchen & Organization)",
         "labels": {
-            "en": "Hannah R. (UK/US Female — Home & Kitchen)",
-            "az": "Leyla H. (Ev, Mətbəx & Rahatlıq)",
-            "de": "Hannah W. (Zuhause & Küche)",
-            "fr": "Camille R. (Maison & Cuisine)",
+            "en": "Hannah R. (UK/US Female, 31 — Home & Kitchen)",
+            "az": "Leyla H. (Qadın, 31 — Ev, Mətbəx & Rahatlıq)",
+            "de": "Hannah W. (Frau, 31 — Zuhause & Küche)",
+            "fr": "Camille R. (Femme, 31 — Maison & Cuisine)",
         },
         "gender": "female",
+        "age_group": "31",
+        "niche": "kitchen",
         "style": "Authentic Kitchen Counter Demo",
         "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=85",
         "elevenlabs_voice_id": "FGY2WhTYpPnrIDTdsKH5",
         "fallback_elevenlabs_voice_id": "EXAVITQu4vr4xnSDxMaL",
     },
+    "sofia_ugc": {
+        "id": "sofia_ugc",
+        "name": "Sofia V. (Skincare, Beauty & Glow)",
+        "labels": {
+            "en": "Sofia V. (US Female, 24 — Skincare & Beauty)",
+            "az": "Nigar S. (Qadın, 24 — Dəri Baxımı & Gözəllik)",
+            "de": "Sofia K. (Frau, 24 — Hautpflege & Beauty)",
+            "fr": "Inès V. (Femme, 24 — Soins & Beauté)",
+        },
+        "gender": "female",
+        "age_group": "24",
+        "niche": "beauty",
+        "style": "Soft Window Daylight Vanity Selfie",
+        "avatar_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "EXAVITQu4vr4xnSDxMaL",
+        "fallback_elevenlabs_voice_id": "cgSgspJ2msm6clMCkdW9",
+    },
+    "rachel_ugc": {
+        "id": "rachel_ugc",
+        "name": "Rachel D. (Mom, Family & Smart Home Trust)",
+        "labels": {
+            "en": "Rachel D. (US Female, 38 — Family & Smart Home)",
+            "az": "Səbinə R. (Qadın, 38 — Ailə & Ağıllı Ev)",
+            "de": "Katrin M. (Frau, 38 — Familie & Haushalt)",
+            "fr": "Sophie D. (Femme, 38 — Famille & Maison)",
+        },
+        "gender": "female",
+        "age_group": "38",
+        "niche": "home",
+        "style": "Warm Relatable Living Room Review",
+        "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+        "fallback_elevenlabs_voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    },
+    "maya_ugc": {
+        "id": "maya_ugc",
+        "name": "Maya L. (Fitness, Wellness & Active)",
+        "labels": {
+            "en": "Maya L. (US Female, 27 — Fitness & Wellness)",
+            "az": "Zəhra Ə. (Qadın, 27 — Fitnes & Sağlamlıq)",
+            "de": "Lena S. (Frau, 27 — Fitness & Wellness)",
+            "fr": "Léa B. (Femme, 27 — Fitness & Bien-être)",
+        },
+        "gender": "female",
+        "age_group": "27",
+        "niche": "fitness",
+        "style": "Energetic Bright Studio & Activewear",
+        "avatar_url": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "XrExE9yKIg1WjnnlVkGX",
+        "fallback_elevenlabs_voice_id": "cgSgspJ2msm6clMCkdW9",
+    },
+    "claire_ugc": {
+        "id": "claire_ugc",
+        "name": "Claire B. (Luxury, Fashion & Premium DTC)",
+        "labels": {
+            "en": "Claire B. (EU/US Female, 33 — Fashion & Luxury)",
+            "az": "Gülər N. (Qadın, 33 — Moda & Premium Brend)",
+            "de": "Clara H. (Frau, 33 — Mode & Premium)",
+            "fr": "Claire B. (Femme, 33 — Mode & Luxe)",
+        },
+        "gender": "female",
+        "age_group": "33",
+        "niche": "luxury",
+        "style": "Polished Minimalist Apartment Editorial",
+        "avatar_url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "pFZP5JQG7iQjIQuC4Bku",
+        "fallback_elevenlabs_voice_id": "EXAVITQu4vr4xnSDxMaL",
+    },
+    # ── Male Realistic UGC Creators (6) ──
+    "resad_ugc": {
+        "id": "resad_ugc",
+        "name": "Marcus T. (Tech & Smart Gadgets)",
+        "labels": {
+            "en": "Marcus T. (US Male, 28 — Tech & Smart Gadgets)",
+            "az": "Rəşad K. (Kişi, 28 — Texnologiya & Qadcet)",
+            "de": "Lukas K. (Mann, 28 — Technik & Smart Gadgets)",
+            "fr": "Lucas T. (Homme, 28 — Tech & Gadgets Connectés)",
+        },
+        "gender": "male",
+        "age_group": "28",
+        "niche": "tech",
+        "style": "Energetic Studio Desk Review",
+        "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "cjVigY5qzO86Huf0OWal",
+        "fallback_elevenlabs_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    },
     "emin_ugc": {
         "id": "emin_ugc",
         "name": "Liam K. (Fitness, Auto & Outdoor)",
         "labels": {
-            "en": "Liam K. (US Male — Fitness, Auto & Travel)",
-            "az": "Emin T. (İdman, Avto & Aktiv Həyat)",
-            "de": "Maximilian S. (Fitness & Outdoor)",
-            "fr": "Théo D. (Sport, Auto & Voyage)",
+            "en": "Liam K. (US Male, 30 — Fitness, Auto & Travel)",
+            "az": "Emin T. (Kişi, 30 — İdman, Avto & Aktiv Həyat)",
+            "de": "Maximilian S. (Mann, 30 — Fitness & Outdoor)",
+            "fr": "Théo D. (Homme, 30 — Sport, Auto & Voyage)",
         },
         "gender": "male",
+        "age_group": "30",
+        "niche": "fitness",
         "style": "High-Energy Unboxing & Action",
         "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=85",
         "elevenlabs_voice_id": "JBFqnCBsd6RMkjVDRZzb",
         "fallback_elevenlabs_voice_id": "onwK4e9ZLuTAKqWW03F9",
     },
+    "daniel_ugc": {
+        "id": "daniel_ugc",
+        "name": "Daniel P. (Home, DIY & Practical Tools)",
+        "labels": {
+            "en": "Daniel P. (US Male, 36 — Home & Practical Tools)",
+            "az": "Tural Q. (Kişi, 36 — Ev, Alət & Praktik Həllər)",
+            "de": "Daniel F. (Mann, 36 — Heimwerken & Alltag)",
+            "fr": "Julien P. (Homme, 36 — Maison & Bricolage)",
+        },
+        "gender": "male",
+        "age_group": "36",
+        "niche": "home",
+        "style": "Honest Hands-On Home Demonstration",
+        "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "onwK4e9ZLuTAKqWW03F9",
+        "fallback_elevenlabs_voice_id": "cjVigY5qzO86Huf0OWal",
+    },
+    "alex_ugc": {
+        "id": "alex_ugc",
+        "name": "Alex M. (Gen-Z Viral Unboxing & Trends)",
+        "labels": {
+            "en": "Alex M. (US Male, 23 — Viral TikTok Finds)",
+            "az": "Kamran V. (Kişi, 23 — Viral TikTok & Trendlər)",
+            "de": "Jonas R. (Mann, 23 — Virale TikTok Finds)",
+            "fr": "Hugo M. (Homme, 23 — Tendances TikTok)",
+        },
+        "gender": "male",
+        "age_group": "23",
+        "niche": "lifestyle",
+        "style": "Fast-Paced Casual Bedroom Selfie",
+        "avatar_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "iP95p4xoKVk53GoZ742B",
+        "fallback_elevenlabs_voice_id": "cjVigY5qzO86Huf0OWal",
+    },
+    "david_ugc": {
+        "id": "david_ugc",
+        "name": "David W. (Executive, Business & Smart Travel)",
+        "labels": {
+            "en": "David W. (US/UK Male, 44 — Executive & Travel)",
+            "az": "Orxan B. (Kişi, 44 — Biznes, Səyahət & Premium)",
+            "de": "Stefan W. (Mann, 44 — Business & Reisen)",
+            "fr": "Antoine L. (Homme, 44 — Business & Voyage)",
+        },
+        "gender": "male",
+        "age_group": "44",
+        "niche": "luxury",
+        "style": "Confident Trustworthy Office Portrait",
+        "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "nPczCjzI2devNBz1zQrb",
+        "fallback_elevenlabs_voice_id": "onwK4e9ZLuTAKqWW03F9",
+    },
+    "noah_ugc": {
+        "id": "noah_ugc",
+        "name": "Noah C. (Outdoor, Car Gear & EDC)",
+        "labels": {
+            "en": "Noah C. (US Male, 29 — Car Gear & Outdoor)",
+            "az": "Fərid C. (Kişi, 29 — Avto Aksesuar & Outdoor)",
+            "de": "Felix N. (Mann, 29 — Auto & Outdoor Gear)",
+            "fr": "Mathieu C. (Homme, 29 — Auto & Plein Air)",
+        },
+        "gender": "male",
+        "age_group": "29",
+        "niche": "auto",
+        "style": "Natural Daylight Car & Outdoor Vlog",
+        "avatar_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=900&q=85",
+        "elevenlabs_voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+        "fallback_elevenlabs_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+    },
 }
 
 
 def get_ugc_avatar_presets(language: str = "en") -> List[Dict[str, str]]:
-    """Returns UGC creator presets localized to the requested target language."""
+    """Returns 12 realistic UGC creator presets localized to the requested target language."""
     lang = (language or "en").strip().lower()
     out: List[Dict[str, str]] = []
     for preset in UGC_AVATAR_PRESETS.values():
@@ -115,6 +261,8 @@ def get_ugc_avatar_presets(language: str = "en") -> List[Dict[str, str]]:
             "id": preset["id"],
             "name": labels.get(lang, labels.get("en", preset["name"])),
             "gender": preset["gender"],
+            "age_group": preset.get("age_group", "28"),
+            "niche": preset.get("niche", "lifestyle"),
             "style": preset["style"],
             "avatar_url": preset["avatar_url"],
             "elevenlabs_voice_id": preset["elevenlabs_voice_id"],
@@ -372,20 +520,23 @@ def _normalize_speech_text(text: str, language: str = "en") -> str:
         }
         for k, v in sorted(num_map.items(), key=lambda x: -len(x[0])):
             s = re.sub(rf"\b{k}\b", v, s)
-        s = re.sub(r"[^\w\s.,!?əƏğĞıİöÖüÜşŞçÇ'-]", " ", s)
+        s = re.sub(r"[^\w\s.,!?\[\]əƏğĞıİöÖüÜşŞçÇ'-]", " ", s)
     else:
-        # Global EN / DE / FR normalization
+        # Global EN / DE / FR normalization (keep [audio_tags] for ElevenLabs v3/v4 expression)
         pct_word = {"en": " percent ", "de": " Prozent ", "fr": " pour cent "}.get(lang, " percent ")
         s = re.sub(r"(\d+)\s*%", rf"\1{pct_word}", s)
         s = re.sub(r"\$\s*(\d+)(?:\.(\d{2}))?", lambda m: f"{m.group(1)} dollars" + (f" and {m.group(2)} cents" if m.group(2) and m.group(2) != "00" else ""), s)
         s = re.sub(r"\bUSB-C\b", "USB C", s, flags=re.IGNORECASE)
-        s = re.sub(r"[^\w\s.,!?'\u00C0-\u024F-]", " ", s)
+        s = re.sub(r"[^\w\s.,!?\[\]'\u00C0-\u024F-]", " ", s)
 
     return re.sub(r"\s+", " ", s).strip()
 
 
 def extract_words_from_elevenlabs_alignment(alignment: Optional[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Reconstructs exact word-level {word, start, end} timestamps from ElevenLabs character alignment."""
+    """
+    Reconstructs exact word-level {word, start, end} timestamps from ElevenLabs character alignment.
+    Automatically strips inline v3/v4 audio performance tags like [excited] or [curious] so they never render on screen.
+    """
     if not isinstance(alignment, dict):
         return []
     chars = alignment.get("characters") or []
@@ -399,33 +550,44 @@ def extract_words_from_elevenlabs_alignment(alignment: Optional[Dict[str, Any]])
     cur_chars: List[str] = []
     cur_start: Optional[float] = None
     cur_end: float = 0.0
+    in_tag = False
+
+    def _flush(fallback_st: float) -> None:
+        nonlocal cur_chars, cur_start
+        if not cur_chars:
+            return
+        w = re.sub(r"\[[^\]]*\]", "", "".join(cur_chars)).strip()
+        if w:
+            words.append({
+                "word": w,
+                "start": round(cur_start if cur_start is not None else fallback_st, 3),
+                "end": round(max(cur_end, cur_start or 0.0), 3),
+            })
+        cur_chars = []
+        cur_start = None
 
     for i in range(n):
         ch = str(chars[i])
         st = float(starts[i])
         en = float(ends[i])
+        if ch == "[":
+            _flush(st)
+            in_tag = True
+            continue
+        if ch == "]":
+            in_tag = False
+            continue
+        if in_tag:
+            continue
         if ch.isspace():
-            if cur_chars:
-                words.append({
-                    "word": "".join(cur_chars),
-                    "start": round(cur_start if cur_start is not None else st, 3),
-                    "end": round(max(cur_end, cur_start or 0.0), 3),
-                })
-                cur_chars = []
-                cur_start = None
+            _flush(st)
         else:
             if cur_start is None:
                 cur_start = st
             cur_chars.append(ch)
             cur_end = en
 
-    if cur_chars:
-        words.append({
-            "word": "".join(cur_chars),
-            "start": round(cur_start if cur_start is not None else 0.0, 3),
-            "end": round(max(cur_end, cur_start or 0.0), 3),
-        })
-
+    _flush(0.0)
     return words
 
 
@@ -438,8 +600,8 @@ async def generate_voiceover_with_timestamps(
     quality_tier: str = "balanced",
 ) -> Dict[str, Any]:
     """
-    Generates ElevenLabs studio voiceover WITH exact character/word timestamps (/with-timestamps).
-    Strict Fail-Fast: NEVER falls back to robotic Edge-TTS; raises CreativeBalanceError on key/quota errors.
+    Generates ElevenLabs v3 / v4 studio voiceover WITH exact character/word timestamps (/with-timestamps).
+    Strict Fail-Fast: NEVER falls back to legacy v2/flash or Edge-TTS; stays strictly within ElevenLabs v3/v4 family.
     """
     eleven_key = get_elevenlabs_api_key()
     if len(eleven_key) < 10:
@@ -452,8 +614,7 @@ async def generate_voiceover_with_timestamps(
     lang = (language or "en").strip().lower()
     tier_cfg = QUALITY_TIERS[normalize_quality_tier(quality_tier)]
     preferred_model = model_id or tier_cfg["elevenlabs_model"]
-    if lang == "az" and preferred_model == "eleven_multilingual_v2":
-        # v2_5 flash / v3 support explicit language_code='az'
+    if preferred_model not in ("eleven_v4", "eleven_v4_turbo", "eleven_v3"):
         preferred_model = "eleven_v3"
 
     preset = UGC_AVATAR_PRESETS.get(avatar_id) or UGC_AVATAR_PRESETS["aysel_ugc"]
@@ -470,8 +631,9 @@ async def generate_voiceover_with_timestamps(
     final_out_path.unlink(missing_ok=True)
     spoken_text = _normalize_speech_text(text, language=lang)
 
+    # Strictly ElevenLabs v3 / v4 family fallback chain
     models_to_try = [preferred_model]
-    for fallback_m in ("eleven_multilingual_v2", "eleven_flash_v2_5", "eleven_v3"):
+    for fallback_m in ("eleven_v4", "eleven_v4_turbo", "eleven_v3"):
         if fallback_m not in models_to_try:
             models_to_try.append(fallback_m)
 
@@ -490,13 +652,13 @@ async def generate_voiceover_with_timestamps(
                 "text": spoken_text,
                 "model_id": mid,
             }
-            if mid in ("eleven_v3", "eleven_flash_v2_5", "eleven_turbo_v2_5") and lang in ("en", "az", "de", "fr"):
+            if lang in ("en", "az", "de", "fr"):
                 payload["language_code"] = lang
             if mid != "eleven_v3":
                 payload["voice_settings"] = {
-                    "stability": 0.48,
-                    "similarity_boost": 0.80,
-                    "style": 0.35,
+                    "stability": 0.50,
+                    "similarity_boost": 0.78,
+                    "style": 0.30,
                     "use_speaker_boost": True,
                 }
 
@@ -676,8 +838,9 @@ def _format_ass_time(seconds: float) -> str:
 
 
 def _clean_ass_text(text: str) -> str:
-    # Strip emojis & ASS control characters so Arial/Segoe never draws □ boxes
-    cleaned = re.sub(r"[\U0001F300-\U0001FAFF\u2600-\u26FF{}\\]", "", str(text or ""))
+    # Strip ElevenLabs v3/v4 inline audio tags like [excited], emojis & ASS control characters
+    s = re.sub(r"\[[^\]]*\]", "", str(text or ""))
+    cleaned = re.sub(r"[\U0001F300-\U0001FAFF\u2600-\u26FF{}\\]", "", s)
     return re.sub(r"\s+", " ", cleaned).strip()
 
 
@@ -823,12 +986,39 @@ def _download_or_svg_image(img_url: Optional[str], dest_path: Path, label: str =
     return dest_path
 
 
-def validate_rendered_ad(video_path: str) -> Dict[str, Any]:
+def _run_ffmpeg(
+    cmd: List[str],
+    step: str,
+    output_path: Path,
+    timeout: int = 90,
+    retries: int = 1,
+    min_bytes: int = 5000,
+) -> subprocess.CompletedProcess:
+    """Execute FFmpeg with returncode + output file validation and optional automatic retry."""
+    last_stderr = ""
+    for attempt in range(retries + 1):
+        res = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            timeout=timeout,
+        )
+        if res.returncode == 0 and output_path.exists() and output_path.stat().st_size >= min_bytes:
+            return res
+        last_stderr = (res.stderr or "")[-400:]
+        logger.warning(f"FFmpeg [{step}] cəhd {attempt+1}/{retries+1} uğursuz (rc={res.returncode}): {last_stderr[:180]}")
+        output_path.unlink(missing_ok=True)
+    raise RuntimeError(f"FFmpeg [{step}] uğursuz oldu: {last_stderr}")
+
+
+def validate_rendered_ad(video_path: str, expected_audio_dur: Optional[float] = None) -> Dict[str, Any]:
     """
     Post-Render FFmpeg QA Gate:
       - Verifies 1080x1920 vertical frame, H.264 video, AAC audio
       - Verifies audio is non-silent (volumedetect mean > -42 dB)
-      - Verifies A/V stream duration alignment
+      - Verifies A/V stream duration alignment and reports freeze-frame diagnostics
     """
     p = Path(video_path)
     if not p.exists() or p.stat().st_size < 50000:
@@ -860,6 +1050,10 @@ def validate_rendered_ad(video_path: str) -> Dict[str, Any]:
     vol_m = re.search(r"mean_volume:\s*(-?\d+\.?\d*)\s*dB", info)
     mean_vol = float(vol_m.group(1)) if vol_m else -99.0
 
+    av_drift_sec: Optional[float] = None
+    if expected_audio_dur and expected_audio_dur > 0:
+        av_drift_sec = round(abs(duration - expected_audio_dur), 2)
+
     issues: List[str] = []
     if width != 1080 or height != 1920:
         issues.append(f"Resolution {width}x{height} != 1080x1920")
@@ -867,10 +1061,12 @@ def validate_rendered_ad(video_path: str) -> Dict[str, Any]:
         issues.append("Video codec is not H.264")
     if not has_aac:
         issues.append("Audio codec is not AAC")
-    if duration < 8.0:
+    if duration < 6.0:
         issues.append(f"Duration too short ({duration:.1f}s)")
     if mean_vol <= -42.0:
         issues.append(f"Audio track silent/too quiet ({mean_vol:.1f} dB)")
+    if av_drift_sec is not None and av_drift_sec > 1.8:
+        issues.append(f"A/V duration drift too large ({av_drift_sec:.2f}s)")
 
     return {
         "passed": len(issues) == 0,
@@ -878,6 +1074,7 @@ def validate_rendered_ad(video_path: str) -> Dict[str, Any]:
         "width": width,
         "height": height,
         "duration": round(duration, 2),
+        "audio_video_drift_sec": av_drift_sec,
         "mean_volume_db": mean_vol,
         "video_codec": "h264" if has_h264 else "unknown",
         "audio_codec": "aac" if has_aac else "unknown",
@@ -914,7 +1111,7 @@ def render_ugc_commercial_ad(
       - Transitions: smooth 0.25s `xfade` cross-dissolves
       - Captions: Millisecond-exact Karaoke ASS captions (zero emojis)
       - Audio Mastering: `loudnorm=I=-14:TP=-1.5:LRA=11`
-      - Runs Post-Render FFmpeg QA Gate (`validate_rendered_ad`).
+      - Runs Post-Render FFmpeg QA Gate (`validate_rendered_ad`) with 1x automatic re-render retry and guaranteed temp cleanup.
     """
     ffmpeg_bin = get_ffmpeg_binary()
     if not output_filename:
@@ -930,40 +1127,49 @@ def render_ugc_commercial_ad(
             "https://fal.ai/dashboard/billing",
         )
 
-    audio_dur = max(get_audio_duration(voiceover_path), 10.0)
+    measured_audio_dur = get_audio_duration(voiceover_path)
+    audio_dur = measured_audio_dur if measured_audio_dur > 2.0 else 10.0
     xfade_d = 0.25
-    # Exact segment durations locked to spoken audio + two 0.25s overlap margins for xfade
-    s1 = max(float(scene1_dur or 4.0), 3.0)
-    s3 = max(float(scene3_dur or 4.0), 3.2)
-    s2 = max(float(scene2_dur or (audio_dur - s1 - s3)), 5.0)
-    # Compensate video lengths for 2 xfade overlaps (2 * 0.25s = 0.50s) so video ends exactly on audio
+    # Exact segment durations locked to spoken audio (no artificial inflation that drifts subtitles)
+    if scene1_dur and scene2_dur and scene3_dur and scene1_dur > 0 and scene2_dur > 0 and scene3_dur > 0:
+        s1 = max(float(scene1_dur), 1.5)
+        s2 = max(float(scene2_dur), 2.5)
+        s3 = max(float(scene3_dur), 1.8)
+    else:
+        s1 = max(float(scene1_dur or 3.5), 2.0)
+        s3 = max(float(scene3_dur or 3.5), 2.2)
+        s2 = max(float(scene2_dur or (audio_dur - s1 - s3)), 3.0)
+
+    # Compensate video lengths for 2 xfade overlaps (2 * 0.25s = 0.50s) so video ends cleanly with audio
     v_s1 = s1 + xfade_d
     v_s2 = s2 + xfade_d
-    v_s3 = s3 + 0.45
-    total_dur = max(audio_dur + 0.35, (v_s1 + v_s2 + v_s3) - 2 * xfade_d)
+    v_s3 = s3 + 0.35
+    total_dur = max(audio_dur + 0.25, (v_s1 + v_s2 + v_s3) - 2 * xfade_d)
 
     uid = uuid.uuid4().hex[:6]
     temp_files: List[Path] = []
 
-    prod_img_path = DOWNLOADS_DIR / f"tmp_prod_{uid}.jpg"
-    temp_files.append(prod_img_path)
-    _download_or_svg_image(product_image_url, prod_img_path, label=product_name)
+    try:
+        prod_img_path = DOWNLOADS_DIR / f"tmp_prod_{uid}.jpg"
+        temp_files.append(prod_img_path)
+        _download_or_svg_image(product_image_url, prod_img_path, label=product_name)
 
-    cta_card_path = Path(cta_png_path) if (cta_png_path and Path(cta_png_path).exists()) else prod_img_path
+        cta_card_path = Path(cta_png_path) if (cta_png_path and Path(cta_png_path).exists()) else prod_img_path
 
-    # 1. Scene 1 (Hook): Real moving lip-sync video + subtle product preview badge in lower-right
-    scene1_path = DOWNLOADS_DIR / f"scene1_hook_{uid}.mp4"
-    temp_files.append(scene1_path)
-    vf_s1 = (
-        "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
-        "eq=contrast=1.03:saturation=1.05,fps=25,setsar=1[ugc_full];"
-        "[1:v]scale=230:230:force_original_aspect_ratio=increase,crop=230:230,"
-        "drawbox=x=0:y=0:w=230:h=230:color=0xffffff@0.85:t=4[prod_mini];"
-        "[ugc_full][prod_mini]overlay=x=W-w-44:y=H-h-540:shortest=1[outv]"
-    )
-    r1 = subprocess.run(
-        [
+        # 1. Scene 1 (Hook): Real moving lip-sync video + subtle product preview badge in lower-right
+        scene1_path = DOWNLOADS_DIR / f"scene1_hook_{uid}.mp4"
+        temp_files.append(scene1_path)
+        vf_s1 = (
+            "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
+            "eq=contrast=1.03:saturation=1.05,fps=25,setsar=1[ugc_full];"
+            "[1:v]scale=230:230:force_original_aspect_ratio=increase,crop=230:230,"
+            "drawbox=x=0:y=0:w=230:h=230:color=0xffffff@0.85:t=4[prod_mini];"
+            "[ugc_full][prod_mini]overlay=x=W-w-44:y=H-h-540:shortest=1[outv]"
+        )
+        hook_clip_dur = get_video_duration(str(ugc_avatar_video_path))
+        s1_cmd = [
             ffmpeg_bin, "-y",
+            *(["-stream_loop", "-1"] if (hook_clip_dur > 0 and hook_clip_dur + 0.1 < v_s1) else []),
             "-i", str(ugc_avatar_video_path),
             "-loop", "1", "-i", str(prod_img_path),
             "-filter_complex", vf_s1,
@@ -971,13 +1177,11 @@ def render_ugc_commercial_ad(
             "-t", f"{v_s1:.3f}",
             "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
             "-an", str(scene1_path),
-        ],
-        capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=60,
-    )
-    if r1.returncode != 0 or not scene1_path.exists():
-        # If hook clip happened to be slightly shorter than v_s1, re-run with stream_loop -1
-        subprocess.run(
-            [
+        ]
+        try:
+            _run_ffmpeg(s1_cmd, step="scene1_hook", output_path=scene1_path, timeout=65, retries=0)
+        except Exception:
+            s1_loop_cmd = [
                 ffmpeg_bin, "-y",
                 "-stream_loop", "-1", "-i", str(ugc_avatar_video_path),
                 "-loop", "1", "-i", str(prod_img_path),
@@ -986,280 +1190,237 @@ def render_ugc_commercial_ad(
                 "-t", f"{v_s1:.3f}",
                 "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
                 "-an", str(scene1_path),
-            ],
-            capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=60,
-        )
+            ]
+            _run_ffmpeg(s1_loop_cmd, step="scene1_hook_loop", output_path=scene1_path, timeout=65, retries=1)
 
-    # 2. Scene 2 (Clean Full-Screen Product B-Roll — ZERO dark bars & ZERO blocking PiP!)
-    scene2_path = DOWNLOADS_DIR / f"scene2_broll_{uid}.mp4"
-    temp_files.append(scene2_path)
-    valid_broll_clips = [p for p in (broll_clip_paths or ([raw_broll_video_path] if raw_broll_video_path else [])) if p and Path(p).exists()]
+        # 2. Scene 2 (Clean Full-Screen Product B-Roll — ZERO dark bars & ZERO blocking PiP!)
+        scene2_path = DOWNLOADS_DIR / f"scene2_broll_{uid}.mp4"
+        temp_files.append(scene2_path)
+        valid_broll_clips = [p for p in (broll_clip_paths or ([raw_broll_video_path] if raw_broll_video_path else [])) if p and Path(p).exists()]
 
-    if len(valid_broll_clips) >= 3:
-        cut_d = (v_s2 / 3.0) + 0.16
-        off1 = max(cut_d - 0.22, 1.0)
-        off2 = max(cut_d * 2.0 - 0.44, off1 + 1.0)
-        vf_s2 = (
-            "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b0];"
-            "[1:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b1];"
-            "[2:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b2];"
-            f"[b0][b1]xfade=transition=slideleft:duration=0.22:offset={off1:.3f}[b01];"
-            f"[b01][b2]xfade=transition=fade:duration=0.22:offset={off2:.3f}[outv]"
+        if len(valid_broll_clips) >= 3:
+            cut_d = (v_s2 / 3.0) + 0.16
+            off1 = max(cut_d - 0.22, 0.8)
+            off2 = max(cut_d * 2.0 - 0.44, off1 + 0.8)
+            vf_s2 = (
+                "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b0];"
+                "[1:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b1];"
+                "[2:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b2];"
+                f"[b0][b1]xfade=transition=slideleft:duration=0.22:offset={off1:.3f}[b01];"
+                f"[b01][b2]xfade=transition=fade:duration=0.22:offset={off2:.3f}[outv]"
+            )
+            _run_ffmpeg(
+                [
+                    ffmpeg_bin, "-y",
+                    "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[0]),
+                    "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[1]),
+                    "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[2]),
+                    "-filter_complex", vf_s2,
+                    "-map", "[outv]",
+                    "-t", f"{v_s2:.3f}",
+                    "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
+                    "-an", str(scene2_path),
+                ],
+                step="scene2_broll_3clip",
+                output_path=scene2_path,
+                timeout=110,
+                retries=1,
+            )
+        elif len(valid_broll_clips) >= 2:
+            half_d = (v_s2 / 2.0) + 0.15
+            vf_s2 = (
+                "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b0];"
+                "[1:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b1];"
+                f"[b0][b1]xfade=transition=slideleft:duration=0.25:offset={max(half_d - 0.25, 0.8):.3f}[outv]"
+            )
+            _run_ffmpeg(
+                [
+                    ffmpeg_bin, "-y",
+                    "-stream_loop", "-1", "-t", f"{half_d:.3f}", "-i", str(valid_broll_clips[0]),
+                    "-stream_loop", "-1", "-t", f"{half_d:.3f}", "-i", str(valid_broll_clips[1]),
+                    "-filter_complex", vf_s2,
+                    "-map", "[outv]",
+                    "-t", f"{v_s2:.3f}",
+                    "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
+                    "-an", str(scene2_path),
+                ],
+                step="scene2_broll_2clip",
+                output_path=scene2_path,
+                timeout=90,
+                retries=1,
+            )
+        elif len(valid_broll_clips) == 1:
+            vf_s2 = (
+                "[0:v]crop=in_w*0.92:in_h*0.90:in_w*0.04:in_h*0.05,"
+                "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
+                "eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[outv]"
+            )
+            _run_ffmpeg(
+                [
+                    ffmpeg_bin, "-y",
+                    "-stream_loop", "-1", "-i", str(valid_broll_clips[0]),
+                    "-filter_complex", vf_s2,
+                    "-map", "[outv]",
+                    "-t", f"{v_s2:.3f}",
+                    "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
+                    "-an", str(scene2_path),
+                ],
+                step="scene2_broll_1clip",
+                output_path=scene2_path,
+                timeout=90,
+                retries=1,
+            )
+        else:
+            # Studio Multi-Angle Ken-Burns ONLY when user explicitly selected studio_only mode
+            gal_urls = [u for u in (product_gallery_urls or []) if u and str(u).startswith("http")]
+            if not gal_urls:
+                gal_urls = [product_image_url]
+            gal_paths: List[Path] = []
+            for gi in range(3):
+                gp = DOWNLOADS_DIR / f"tmp_gal_{gi}_{uid}.jpg"
+                temp_files.append(gp)
+                _download_or_svg_image(gal_urls[gi % len(gal_urls)], gp, label=product_name)
+                gal_paths.append(gp)
+
+            cut_d = (v_s2 / 3.0) + 0.15
+            vf_s2 = (
+                f"[0:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0018,1.16)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g0];"
+                f"[1:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='max(1.18-0.0018*in,1.02)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g1];"
+                f"[2:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0020,1.20)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g2];"
+                f"[g0][g1]xfade=transition=smoothleft:duration=0.22:offset={max(cut_d - 0.22, 0.8):.3f}[g01];"
+                f"[g01][g2]xfade=transition=fade:duration=0.22:offset={max(cut_d * 2 - 0.44, 1.6):.3f}[outv]"
+            )
+            _run_ffmpeg(
+                [
+                    ffmpeg_bin, "-y",
+                    "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[0]),
+                    "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[1]),
+                    "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[2]),
+                    "-filter_complex", vf_s2,
+                    "-map", "[outv]",
+                    "-t", f"{v_s2:.3f}",
+                    "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
+                    "-an", str(scene2_path),
+                ],
+                step="scene2_studio_kenburns",
+                output_path=scene2_path,
+                timeout=90,
+                retries=1,
+            )
+
+        # 3. Scene 3 (Playwright Branded CTA End-Card with smooth zoom-in)
+        scene3_path = DOWNLOADS_DIR / f"scene3_cta_{uid}.mp4"
+        temp_files.append(scene3_path)
+        vf_s3 = (
+            "[0:v]scale=1160:2060:force_original_aspect_ratio=increase,crop=1080:1920,"
+            "zoompan=z='min(zoom+0.0012,1.06)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,"
+            "setsar=1[outv]"
         )
-        subprocess.run(
+        _run_ffmpeg(
             [
                 ffmpeg_bin, "-y",
-                "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[0]),
-                "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[1]),
-                "-stream_loop", "-1", "-t", f"{cut_d:.3f}", "-i", str(valid_broll_clips[2]),
-                "-filter_complex", vf_s2,
+                "-loop", "1", "-i", str(cta_card_path),
+                "-filter_complex", vf_s3,
                 "-map", "[outv]",
-                "-t", f"{v_s2:.3f}",
+                "-t", f"{v_s3:.3f}",
                 "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
-                "-an", str(scene2_path),
+                "-an", str(scene3_path),
             ],
-            capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=110,
-        )
-    elif len(valid_broll_clips) >= 2:
-        half_d = (v_s2 / 2.0) + 0.15
-        vf_s2 = (
-            "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b0];"
-            "[1:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[b1];"
-            f"[b0][b1]xfade=transition=slideleft:duration=0.25:offset={max(half_d - 0.25, 1.0):.3f}[outv]"
-        )
-        subprocess.run(
-            [
-                ffmpeg_bin, "-y",
-                "-stream_loop", "-1", "-t", f"{half_d:.3f}", "-i", str(valid_broll_clips[0]),
-                "-stream_loop", "-1", "-t", f"{half_d:.3f}", "-i", str(valid_broll_clips[1]),
-                "-filter_complex", vf_s2,
-                "-map", "[outv]",
-                "-t", f"{v_s2:.3f}",
-                "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
-                "-an", str(scene2_path),
-            ],
-            capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=90,
-        )
-    elif len(valid_broll_clips) == 1:
-        vf_s2 = (
-            "[0:v]crop=in_w*0.92:in_h*0.90:in_w*0.04:in_h*0.05,"
-            "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
-            "eq=contrast=1.05:saturation=1.08,fps=25,setsar=1[outv]"
-        )
-        subprocess.run(
-            [
-                ffmpeg_bin, "-y",
-                "-stream_loop", "-1", "-i", str(valid_broll_clips[0]),
-                "-filter_complex", vf_s2,
-                "-map", "[outv]",
-                "-t", f"{v_s2:.3f}",
-                "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
-                "-an", str(scene2_path),
-            ],
-            capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=90,
-        )
-    else:
-        # Studio Multi-Angle Ken-Burns ONLY when user explicitly selected studio_only mode
-        gal_urls = [u for u in (product_gallery_urls or []) if u and str(u).startswith("http")]
-        if not gal_urls:
-            gal_urls = [product_image_url]
-        gal_paths: List[Path] = []
-        for gi in range(3):
-            gp = DOWNLOADS_DIR / f"tmp_gal_{gi}_{uid}.jpg"
-            temp_files.append(gp)
-            _download_or_svg_image(gal_urls[gi % len(gal_urls)], gp, label=product_name)
-            gal_paths.append(gp)
-
-        cut_d = (v_s2 / 3.0) + 0.15
-        vf_s2 = (
-            f"[0:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0018,1.16)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g0];"
-            f"[1:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='max(1.18-0.0018*in,1.02)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g1];"
-            f"[2:v]scale=1300:2300:force_original_aspect_ratio=increase,crop=1080:1920,zoompan=z='min(zoom+0.0020,1.20)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,setsar=1[g2];"
-            f"[g0][g1]xfade=transition=smoothleft:duration=0.22:offset={max(cut_d - 0.22, 1.0):.3f}[g01];"
-            f"[g01][g2]xfade=transition=fade:duration=0.22:offset={max(cut_d * 2 - 0.44, 2.0):.3f}[outv]"
-        )
-        subprocess.run(
-            [
-                ffmpeg_bin, "-y",
-                "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[0]),
-                "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[1]),
-                "-loop", "1", "-t", f"{cut_d:.3f}", "-i", str(gal_paths[2]),
-                "-filter_complex", vf_s2,
-                "-map", "[outv]",
-                "-t", f"{v_s2:.3f}",
-                "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
-                "-an", str(scene2_path),
-            ],
-            capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=90,
+            step="scene3_cta_endcard",
+            output_path=scene3_path,
+            timeout=65,
+            retries=1,
         )
 
-    # 3. Scene 3 (Playwright Branded CTA End-Card with smooth zoom-in)
-    scene3_path = DOWNLOADS_DIR / f"scene3_cta_{uid}.mp4"
-    temp_files.append(scene3_path)
-    vf_s3 = (
-        "[0:v]scale=1160:2060:force_original_aspect_ratio=increase,crop=1080:1920,"
-        "zoompan=z='min(zoom+0.0012,1.06)':d=1:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1080x1920:fps=25,"
-        "setsar=1[outv]"
-    )
-    subprocess.run(
-        [
-            ffmpeg_bin, "-y",
-            "-loop", "1", "-i", str(cta_card_path),
-            "-filter_complex", vf_s3,
-            "-map", "[outv]",
-            "-t", f"{v_s3:.3f}",
-            "-r", "25", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-preset", "fast", "-crf", "20",
-            "-an", str(scene3_path),
-        ],
-        capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=60,
-    )
+        # Verify all 3 scenes exist before master render
+        for sc_name, sc_p in [("scene1", scene1_path), ("scene2", scene2_path), ("scene3", scene3_path)]:
+            if not sc_p.exists() or sc_p.stat().st_size < 5000:
+                raise RuntimeError(f"Master render ləğv edildi: {sc_name} faylı hazır deyil.")
 
-    # 4. Generate millisecond-exact Karaoke ASS subtitles
-    ass_path = DOWNLOADS_DIR / f"subs_{uid}.ass"
-    temp_files.append(ass_path)
-    generate_karaoke_ass_subtitles(
-        words=words or _fallback_even_word_timings(full_script_text, total_dur),
-        hook_text=hook_text,
-        total_duration=total_dur,
-        hook_end_sec=s1,
-        broll_end_sec=s1 + s2,
-        output_ass_path=ass_path,
-        language=language,
-    )
-    ass_escaped = str(ass_path).replace("\\", "/").replace(":", "\\:")
+        # 4. Generate millisecond-exact Karaoke ASS subtitles (locked to exact s1, s1+s2 boundaries)
+        ass_path = DOWNLOADS_DIR / f"subs_{uid}.ass"
+        temp_files.append(ass_path)
+        generate_karaoke_ass_subtitles(
+            words=words or _fallback_even_word_timings(full_script_text, total_dur),
+            hook_text=hook_text,
+            total_duration=total_dur,
+            hook_end_sec=s1,
+            broll_end_sec=s1 + s2,
+            output_ass_path=ass_path,
+            language=language,
+        )
+        ass_escaped = str(ass_path).replace("\\", "/").replace(":", "\\:")
 
-    # 5. Master Final Render: xfade transitions + ASS karaoke captions + -14 LUFS voice normalization (NO BGM/SFX)
-    offset_12 = max(v_s1 - xfade_d, 1.5)
-    offset_23 = max(offset_12 + v_s2 - xfade_d, offset_12 + 3.0)
-    filter_master = (
-        f"[0:v][1:v]xfade=transition=fade:duration={xfade_d:.2f}:offset={offset_12:.3f}[v12];"
-        f"[v12][2:v]xfade=transition=fade:duration={xfade_d:.2f}:offset={offset_23:.3f}[vraw];"
-        f"[vraw]ass='{ass_escaped}'[outv];"
-        f"[3:a]loudnorm=I=-14:TP=-1.5:LRA=11[outa]"
-    )
-    res_final = subprocess.run(
-        [
-            ffmpeg_bin, "-y",
-            "-i", str(scene1_path),
-            "-i", str(scene2_path),
-            "-i", str(scene3_path),
-            "-i", str(voiceover_path),
-            "-filter_complex", filter_master,
-            "-map", "[outv]",
-            "-map", "[outa]",
-            "-t", f"{total_dur:.3f}",
-            "-c:v", "libx264",
-            "-pix_fmt", "yuv420p",
-            "-preset", "fast",
-            "-crf", "19",
-            "-c:a", "aac",
-            "-b:a", "192k",
-            "-movflags", "+faststart",
-            str(final_output_path),
-        ],
-        capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=150,
-    )
+        # 5. Master Final Render with automatic 1x re-render retry on FFmpeg or QA failure
+        offset_12 = max(v_s1 - xfade_d, 1.0)
+        offset_23 = max(offset_12 + v_s2 - xfade_d, offset_12 + 2.0)
+        filter_master = (
+            f"[0:v][1:v]xfade=transition=fade:duration={xfade_d:.2f}:offset={offset_12:.3f}[v12];"
+            f"[v12][2:v]xfade=transition=fade:duration={xfade_d:.2f}:offset={offset_23:.3f}[vraw];"
+            f"[vraw]ass='{ass_escaped}'[outv];"
+            f"[3:a]loudnorm=I=-14:TP=-1.5:LRA=11[outa]"
+        )
 
-    if res_final.returncode != 0 or not final_output_path.exists() or final_output_path.stat().st_size < 30000:
-        raise RuntimeError(f"FFmpeg master render uğursuz oldu: {res_final.stderr[-350:]}")
+        render_profiles = [("fast", "19"), ("medium", "21")]
+        qa: Dict[str, Any] = {"passed": False, "issues": ["render not executed"]}
+        for prof_idx, (preset_val, crf_val) in enumerate(render_profiles):
+            final_output_path.unlink(missing_ok=True)
+            _run_ffmpeg(
+                [
+                    ffmpeg_bin, "-y",
+                    "-i", str(scene1_path),
+                    "-i", str(scene2_path),
+                    "-i", str(scene3_path),
+                    "-i", str(voiceover_path),
+                    "-filter_complex", filter_master,
+                    "-map", "[outv]",
+                    "-map", "[outa]",
+                    "-t", f"{total_dur:.3f}",
+                    "-c:v", "libx264",
+                    "-pix_fmt", "yuv420p",
+                    "-preset", preset_val,
+                    "-crf", crf_val,
+                    "-c:a", "aac",
+                    "-b:a", "192k",
+                    "-movflags", "+faststart",
+                    str(final_output_path),
+                ],
+                step=f"master_render_p{prof_idx+1}",
+                output_path=final_output_path,
+                timeout=150,
+                retries=0,
+                min_bytes=30000,
+            )
+            qa = validate_rendered_ad(str(final_output_path), expected_audio_dur=audio_dur)
+            if qa["passed"]:
+                break
+            if prof_idx + 1 < len(render_profiles):
+                logger.warning(f"QA Gate uğursuz oldu ({qa['issues']}); ehtiyat profil ilə yenidən render olunur...")
 
-    # Clean up temporary intermediate files
-    for tmp_p in temp_files:
+        if not qa["passed"]:
+            raise RuntimeError(f"Post-Render QA Gate uğursuz oldu: {', '.join(qa['issues'])}")
+
+        static_copy = MEDIA_DIR / "rendered_ads" / output_filename
         try:
-            tmp_p.unlink(missing_ok=True)
+            shutil.copy2(final_output_path, static_copy)
         except Exception:
             pass
 
-    qa = validate_rendered_ad(str(final_output_path))
-    if not qa["passed"]:
-        raise RuntimeError(f"Post-Render QA Gate uğursuz oldu: {', '.join(qa['issues'])}")
+        return json.dumps({
+            "status": "success",
+            "mode": "three_scene_hybrid_master",
+            "video_path": str(final_output_path),
+            "filename": output_filename,
+            "duration": qa["duration"],
+            "web_url": f"/ad_video/{output_filename}",
+            "qa_gate": qa,
+        })
+    finally:
+        # Always clean up temporary intermediate files (even on errors)
+        for tmp_p in temp_files:
+            try:
+                tmp_p.unlink(missing_ok=True)
+            except Exception:
+                pass
 
-    static_copy = MEDIA_DIR / "rendered_ads" / output_filename
-    try:
-        shutil.copy2(final_output_path, static_copy)
-    except Exception:
-        pass
-
-    return json.dumps({
-        "status": "success",
-        "mode": "three_scene_hybrid_master",
-        "video_path": str(final_output_path),
-        "filename": output_filename,
-        "duration": qa["duration"],
-        "web_url": f"/ad_video/{output_filename}",
-        "qa_gate": qa,
-    })
-
-
-# ── Legacy CLI Compatibility Wrappers (used by main.py build_tools_map) ──
-
-def generate_ad_script(product_name: str, hook_angle: str = "pain_point", language: str = "en") -> str:
-    """Return a structured UGC ad script template for CLI tool invocation."""
-    return json.dumps({
-        "status": "ok",
-        "product_name": product_name,
-        "hook_angle": hook_angle,
-        "language": language,
-    })
-
-
-async def generate_voiceover(text: str, avatar_id: str = "claire_ugc", language: str = "en") -> str:
-    """Generate ElevenLabs voiceover with word timestamps using the strict pipeline."""
-    res = await generate_voiceover_with_timestamps(
-        text=text,
-        avatar_id=avatar_id,
-        output_filename=f"cli_vo_{uuid.uuid4().hex[:8]}.mp3",
-        language=language,
-    )
-    return json.dumps(res)
-
-
-def generate_ai_video(prompt: str, image_url: str = "", quality_tier: str = "balanced") -> str:
-    """Delegate B-Roll I2V generation to Fal.ai Queue Engine."""
-    from tools.fal_video_engine import generate_shared_ai_broll_clips
-
-    clips = generate_shared_ai_broll_clips(
-        product_image_urls=[image_url] if image_url else [],
-        product_name=prompt[:80],
-        output_dir=AD_VIDEO_DIR,
-        run_uid=uuid.uuid4().hex[:8],
-        quality_tier=quality_tier,
-    )
-    return json.dumps({"status": "success", "clips": clips})
-
-
-def add_subtitles_to_video(video_path: str, script_text: str, total_duration: float = 12.0, language: str = "en") -> str:
-    """Generate millisecond Karaoke .ass subtitles for an existing script."""
-    ass_out = AD_VIDEO_DIR / f"cli_sub_{uuid.uuid4().hex[:8]}.ass"
-    words = _fallback_even_word_timings(script_text, total_duration)
-    generate_karaoke_ass_subtitles(
-        words=words,
-        hook_text=script_text[:60],
-        total_duration=total_duration,
-        hook_end_sec=total_duration * 0.3,
-        broll_end_sec=total_duration * 0.75,
-        output_ass_path=ass_out,
-        language=language,
-    )
-    return json.dumps({"status": "success", "ass_path": str(ass_out), "video_path": video_path})
-
-
-def combine_video_assets(
-    product_image_url: str,
-    voiceover_path: str,
-    hook_text: str,
-    full_script_text: str,
-    cta_text: str,
-    language: str = "en",
-) -> str:
-    """Render a 3-scene commercial video through the Clean Post-Production FFmpeg pipeline."""
-    return render_ugc_commercial_ad(
-        product_image_url=product_image_url,
-        avatar_image_url="",
-        voiceover_path=voiceover_path,
-        hook_text=hook_text,
-        full_script_text=full_script_text,
-        cta_text=cta_text,
-        language=language,
-    )
 

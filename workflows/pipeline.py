@@ -772,6 +772,7 @@ def human_approval_video_sources(state: ECommerceState) -> dict:
     store = state.get("store") or {}
     store_config = state.get("store_config") or store.get("store_config") or {}
 
+    from agents.creative import PLACEHOLDER_IMAGE_PATTERNS
     gallery_images: List[str] = []
     for src in [
         store.get("gallery_images"),
@@ -783,16 +784,33 @@ def human_approval_video_sources(state: ECommerceState) -> dict:
         if isinstance(src, list):
             for u in src:
                 s = str(u).strip() if isinstance(u, str) else ""
-                if s and (s.startswith("http") or s.startswith("/static/")) and "1523275335684" not in s and s not in gallery_images:
+                if (
+                    s
+                    and (s.startswith("http") or s.startswith("/static/"))
+                    and not any(p in s.lower() for p in PLACEHOLDER_IMAGE_PATTERNS)
+                    and s not in gallery_images
+                ):
                     gallery_images.append(s)
+
+    prev_cfg = dict(state.get("creative_config") or {})
+    prev_feedback = (state.get("creative_feedback") or "").strip()
+    init_tier = str(prev_cfg.get("quality_tier") or "balanced").strip().lower()
+    init_variants = 3 if int(prev_cfg.get("variant_count") or 3) >= 3 else 1
+    init_lang = str(prev_cfg.get("ad_language") or "en").strip().lower()
+    init_broll_mode = str(prev_cfg.get("broll_mode") or "auto").strip().lower()
+    if isinstance(prev_cfg.get("broll_image_urls"), list) and prev_cfg["broll_image_urls"]:
+        for u in reversed(prev_cfg["broll_image_urls"]):
+            s = str(u).strip() if isinstance(u, str) else ""
+            if s and s not in gallery_images:
+                gallery_images.insert(0, s)
 
     has_sup_vid = bool(supplier.get("video_url") or supplier.get("product_video_url"))
     try:
         preflight = check_creative_preflight(
-            quality_tier="balanced",
-            variant_count=3,
+            quality_tier=init_tier,
+            variant_count=init_variants,
             has_supplier_video=has_sup_vid,
-            broll_mode="auto",
+            broll_mode=init_broll_mode,
             strict=False,
             image_count=len(gallery_images),
         )
@@ -808,15 +826,20 @@ def human_approval_video_sources(state: ECommerceState) -> dict:
         "product": product,
         "supplier": supplier,
         "gallery_images": gallery_images,
-        "avatar_presets": get_ugc_avatar_presets(language="en"),
+        "avatar_presets": get_ugc_avatar_presets(language=init_lang),
         "preflight_status": preflight,
+        "previous_config": prev_cfg,
+        "creative_feedback": prev_feedback,
+        "social_already_ready": bool(state.get("content_plan")),
     })
 
     creative_cfg: Dict[str, Any] = {
-        "ad_language": "en",
-        "quality_tier": "balanced",
-        "variant_count": 3,
+        "ad_language": init_lang,
+        "quality_tier": init_tier,
+        "variant_count": init_variants,
     }
+    if prev_feedback:
+        creative_cfg["rejection_feedback"] = prev_feedback
     if isinstance(decision, dict):
         decision_str = decision.get("decision", "approved").strip().lower()
         v1 = (decision.get("video_url_1") or "").strip()
@@ -838,6 +861,8 @@ def human_approval_video_sources(state: ECommerceState) -> dict:
             creative_cfg["broll_mode"] = decision.get("broll_mode").strip()
         if decision.get("custom_script"):
             creative_cfg["custom_script"] = decision.get("custom_script").strip()
+        if decision.get("feedback"):
+            creative_cfg["rejection_feedback"] = str(decision["feedback"]).strip()
         if isinstance(decision.get("broll_image_urls"), list) and decision.get("broll_image_urls"):
             creative_cfg["broll_image_urls"] = [
                 str(u).strip() for u in decision["broll_image_urls"] if isinstance(u, str) and str(u).strip()
@@ -851,10 +876,13 @@ def human_approval_video_sources(state: ECommerceState) -> dict:
         "current_phase": "video_source_approval",
         "pending_approval": None,
         "creative_config": creative_cfg,
+        "creative_feedback": creative_cfg.get("rejection_feedback") or prev_feedback or None,
+        "completed_parallel_nodes": [],
         "human_approvals": [{"step": "video_source_approval", "decision": decision_str}],
         "logs": [
             f"[HumanApproval] Stage 2 konfiqurasiyası təsdiqləndi "
             f"(Dil={creative_cfg['ad_language']}, Rejim={creative_cfg['quality_tier']}, Variant={creative_cfg['variant_count']}, Avatar={creative_cfg.get('avatar_id', 'auto')})"
+            + (" | 5-ci Agentin hazır planı qorunur" if state.get("content_plan") else "")
         ],
     }
 
@@ -882,13 +910,14 @@ def human_approval_creatives(state: ECommerceState) -> dict:
         "content_plan": content_plan,
         "postiz": state.get("postiz", {}),
     }
+    ok_count = sum(1 for c in creatives if c.get("video_url") and c.get("status", "completed") == "completed")
 
     decision = interrupt({
         "step": "creatives_approval",
         "message": (
             "🎬 **4-cü və 5-ci Agentlər Hazırdır (Videolar + Statik Reklamlar + Sosial Media)**\n\n"
-            f"🎨 Hazır reklam videoları: {len(creatives)} | 📅 Paylaşım günü: {len(content_plan)}\n\n"
-            "**6-cı Agenti (Meta Media Buyer)** başlatmaq üçün **Təsdiq Et**, yenidən hazırlamaq üçün **Rədd Et** seçin."
+            f"🎨 Hazır reklam videoları: {ok_count}/{len(creatives)} | 📅 Paylaşım günü: {len(content_plan)}\n\n"
+            "**6-cı Agenti (Meta Media Buyer)** başlatmaq üçün **Təsdiq Et**, reklam ayarlarına qayıtmaq üçün **Rədd Et** seçin."
         ),
         "creatives": creatives,
         "creative_assets": creative_assets,
@@ -897,13 +926,26 @@ def human_approval_creatives(state: ECommerceState) -> dict:
         "social_media": social_media,
         "content_plan": content_plan,
     })
-    decision_str = str(decision.get("decision", "approved") if isinstance(decision, dict) else decision).strip().lower()
-    return {
+    if isinstance(decision, dict):
+        decision_str = str(decision.get("decision", "approved")).strip().lower()
+        feedback_txt = str(decision.get("feedback") or decision.get("rejection_reason") or "").strip()
+    else:
+        decision_str = str(decision).strip().lower()
+        feedback_txt = ""
+
+    updates: Dict[str, Any] = {
         "current_phase": "creatives_approval",
         "pending_approval": None,
         "human_approvals": [{"step": "creatives_approval", "decision": decision_str}],
-        "logs": [f"[HumanApproval] Kreativlər və Sosial Media qərarı: {decision_str}"],
+        "logs": [
+            f"[HumanApproval] Kreativlər və Sosial Media qərarı: {decision_str}"
+            + (f" | Rəy: {feedback_txt}" if feedback_txt else "")
+        ],
     }
+    if not decision_str.startswith("approved"):
+        updates["creative_feedback"] = feedback_txt or "İstifadəçi əvvəlki reklamı rədd etdi — daha güclü hook və fərqli vizual yanaşma tətbiq et."
+        updates["completed_parallel_nodes"] = []
+    return updates
 
 
 # ──────────────────────────── ROUTING FUNCTIONS ───────────────────────────────
@@ -951,12 +993,19 @@ def route_after_stage_one(state: ECommerceState) -> Literal["reset_product_cycle
     return "human_approval_video_sources"
 
 
-def route_after_video_source_approval(state: ECommerceState) -> Literal["parallel_fanout_creative_social", "human_approval_video_sources"]:
-    return "parallel_fanout_creative_social" if _last_decision(state).startswith("approved") else "human_approval_video_sources"
+def route_after_video_source_approval(
+    state: ECommerceState,
+) -> Literal["parallel_fanout_creative_social", "creative_production", "human_approval_video_sources"]:
+    if not _last_decision(state).startswith("approved"):
+        return "human_approval_video_sources"
+    # Preserve Agent 5 (Social Media) if content_plan is already ready (e.g. after rejecting creatives)
+    if state.get("content_plan"):
+        return "creative_production"
+    return "parallel_fanout_creative_social"
 
 
-def route_after_creative_approval(state: ECommerceState) -> Literal["media_buying", "parallel_fanout_creative_social"]:
-    return "media_buying" if _last_decision(state).startswith("approved") else "parallel_fanout_creative_social"
+def route_after_creative_approval(state: ECommerceState) -> Literal["media_buying", "human_approval_video_sources"]:
+    return "media_buying" if _last_decision(state).startswith("approved") else "human_approval_video_sources"
 
 
 def route_monitoring(state: ECommerceState) -> Literal["monitoring", "__end__"]:
@@ -1048,9 +1097,9 @@ def build_pipeline(
     def route_fan_in_creative_social(state: ECommerceState) -> Literal["human_approval_creatives", "__end__"]:
         completed = state.get("completed_parallel_nodes", [])
         has_creative = any("creative" in c for c in completed)
-        has_social = any("social" in c for c in completed)
+        has_social = any("social" in c for c in completed) or bool(state.get("content_plan"))
         if has_creative and has_social:
-            logger.info("[Pipeline] ✅ 4-cü və 5-ci Agentlər tamamlandı → human_approval_creatives")
+            logger.info("[Pipeline] ✅ 4-cü və 5-ci Agentlər hazırdır → human_approval_creatives")
             return "human_approval_creatives"
         logger.info(f"[Pipeline] Stage 2 paralel nod gözlənilir: completed={completed}")
         return "__end__"
@@ -1135,12 +1184,13 @@ def build_pipeline(
         },
     )
 
-    # Stage 2: Video Config → Parallel Fan-out (Agent 4 Creative ║ Agent 5 Social Media) → Fan-in → Approval → Agent 6
+    # Stage 2: Video Config → Parallel Fan-out (first run) OR Agent 4 only (after Reject) → Fan-in → Approval → Agent 6
     graph.add_conditional_edges(
         "human_approval_video_sources",
         route_after_video_source_approval,
         {
             "parallel_fanout_creative_social": "parallel_fanout_creative_social",
+            "creative_production": "creative_production",
             "human_approval_video_sources": "human_approval_video_sources",
         },
     )
@@ -1158,7 +1208,7 @@ def build_pipeline(
         route_after_creative_approval,
         {
             "media_buying": "media_buying",
-            "parallel_fanout_creative_social": "parallel_fanout_creative_social",
+            "human_approval_video_sources": "human_approval_video_sources",
         },
     )
 

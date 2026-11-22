@@ -170,6 +170,7 @@ class ApproveRequest(BaseModel):
     broll_image_urls: Optional[List[str]] = None
     store_config: Optional[Dict[str, Any]] = None
     selected_catalog_id: Optional[str] = None
+    feedback: Optional[str] = None
     thread_id: str = "web_run_1"
 
 
@@ -1293,10 +1294,15 @@ async def approve_pipeline(req: ApproveRequest):
             decision_dict["store_config"] = req.store_config
         if req.selected_catalog_id:
             decision_dict["selected_catalog_id"] = req.selected_catalog_id
+        if req.feedback and req.feedback.strip():
+            decision_dict["feedback"] = req.feedback.strip()
 
         approval_decision = decision_dict if len(decision_dict) > 1 else req.decision
     else:
-        approval_decision = req.decision
+        if req.feedback and req.feedback.strip():
+            approval_decision = {"decision": req.decision, "feedback": req.feedback.strip()}
+        else:
+            approval_decision = req.decision
 
     approval_event.set()
     return {"message": f"Qərar qəbul edildi: {req.decision}"}
@@ -1328,6 +1334,97 @@ async def api_creative_preflight(
     )
     data["avatar_presets"] = get_ugc_avatar_presets(language=eff_lang)
     return data
+
+
+class RetryVariantRequest(BaseModel):
+    run_uid: str
+    variant_index: int
+
+
+@app.post("/api/creative/retry-variant")
+async def api_creative_retry_variant(req: RetryVariantRequest):
+    """Retry ONLY a single failed creative variant using the run's cached shared assets ($0 shared B-Roll/audio)."""
+    from agents.creative import retry_cached_creative_variant
+
+    try:
+        rebuilt = await retry_cached_creative_variant(req.run_uid.strip(), int(req.variant_index))
+    except FileNotFoundError as exc:
+        raise HTTPException(status_code=404, detail=str(exc))
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Variant yenidən cəhd uğursuz oldu: {exc}")
+
+    # Update live pending_approval & results state so UI immediately reflects the recovered variant
+    pa = pipeline_state.get("pending_approval")
+    if isinstance(pa, dict) and isinstance(pa.get("creatives"), list):
+        creatives_list = pa["creatives"]
+        if 0 <= req.variant_index < len(creatives_list):
+            creatives_list[req.variant_index] = rebuilt
+        ca = pa.get("creative_assets")
+        if isinstance(ca, dict) and isinstance(ca.get("ad_scripts"), list) and 0 <= req.variant_index < len(ca["ad_scripts"]):
+            ca["ad_scripts"][req.variant_index] = rebuilt
+    res_creatives = pipeline_state.get("results", {}).get("creatives")
+    if isinstance(res_creatives, list) and 0 <= req.variant_index < len(res_creatives):
+        res_creatives[req.variant_index] = rebuilt
+
+    return {"status": "success", "variant": rebuilt}
+
+
+@app.post("/api/creative/upload-avatar")
+async def api_creative_upload_avatar(file: UploadFile = File(...)):
+    """Upload a custom realistic human portrait image for UGC talking-head lip-sync."""
+    raw = await file.read()
+    if not raw or len(raw) < 1000:
+        raise HTTPException(status_code=400, detail="Şəkil faylı boşdur və ya çox kiçikdir.")
+    if len(raw) > 12 * 1024 * 1024:
+        raise HTTPException(status_code=400, detail="Şəkil ölçüsü 12 MB-dan böyük ola bilməz.")
+    ext = Path(file.filename or "avatar.jpg").suffix.lower()
+    if ext not in (".jpg", ".jpeg", ".png", ".webp"):
+        ext = ".jpg"
+    avatars_dir = Path("static") / "media" / "avatars"
+    avatars_dir.mkdir(parents=True, exist_ok=True)
+    fname = f"upload_avatar_{uuid.uuid4().hex[:8]}{ext}"
+    dest = avatars_dir / fname
+    dest.write_bytes(raw)
+    return {
+        "status": "success",
+        "filename": fname,
+        "url": f"/static/media/avatars/{fname}",
+    }
+
+
+class GenerateAvatarRequest(BaseModel):
+    gender: str = "female"
+    niche: str = "lifestyle"
+    age_group: str = "25-32"
+    style_prompt: str = ""
+
+
+@app.post("/api/creative/generate-avatar")
+async def api_creative_generate_avatar(req: GenerateAvatarRequest):
+    """Generate a bespoke hyper-realistic 9:16 human UGC creator selfie portrait via Fal.ai Flux (~$0.04)."""
+    from tools.fal_video_engine import CreativeBalanceError, generate_realistic_ai_avatar
+
+    avatars_dir = Path("static") / "media" / "avatars"
+    try:
+        res = await asyncio.to_thread(
+            generate_realistic_ai_avatar,
+            avatars_dir,
+            req.gender,
+            req.niche,
+            req.age_group,
+            req.style_prompt,
+        )
+        return {
+            "status": "success",
+            "url": res["web_url"],
+            "filename": res["filename"],
+            "model": res["model"],
+            "cost_usd": res["cost_usd"],
+        }
+    except CreativeBalanceError as exc:
+        raise HTTPException(status_code=402, detail=str(exc))
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"AI Avatar yaradıla bilmədi: {exc}")
 
 
 @app.get("/api/pipeline/results")
