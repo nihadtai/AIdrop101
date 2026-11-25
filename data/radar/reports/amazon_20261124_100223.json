@@ -1,0 +1,20 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-24T09:02:19+00:00",
+  "finished_at": "2026-11-24T09:02:23+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 0,
+    "items_scanned": 0,
+    "filtered_out": 0,
+    "first_run_pages": 0,
+    "signals_above_threshold": 0
+  },
+  "signals": [],
+  "page_errors": {
+    "beauty__bestsellers": "ConnectionError: HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /gp/bestsellers/beauty (Caused by NameResolutionError(\"HTTPSConnection(host='www.amazon.com', port=443): Failed to resolve 'www.amazon.com' ([Errno 11001] getaddrinfo failed)\"))",
+    "beauty__new-releases": "ConnectionError: HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /gp/new-releases/beauty (Caused by NameResolutionError(\"HTTPSConnection(host='www.amazon.com', port=443): Failed to resolve 'www.amazon.com' ([Errno 11001] getaddrinfo failed)\"))"
+  }
+}

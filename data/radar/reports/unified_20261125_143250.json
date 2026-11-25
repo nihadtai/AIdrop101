@@ -1,0 +1,557 @@
+{
+  "source": "unified",
+  "generated_at": "2026-11-25T13:32:50+00:00",
+  "stats": {
+    "cross_matches_count": 0,
+    "shopify_signals_count": 20,
+    "amazon_signals_count": 15,
+    "top_signals_count": 20,
+    "shopify_stores_ok": 15,
+    "shopify_stores_total": 172,
+    "amazon_pages_ok": 1
+  },
+  "cross_matches": [],
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Nature Tablecloth Rectangle 6ft, 2-Pack Waterproof Slub Textured | 60x102 Inch, Stain Resistant Neutral Linen-Look T",
+      "url": "https://www.amazon.com/dp/B0H3NPX348",
+      "score": 105,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 82 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.85 → tövsiyə satış: ~$49.62)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81j6xEVoSkL._AC_UL900_SR900,600_.jpg",
+      "price": 19.85,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NPX348",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 82,
+        "suggested_dtc_price": 49.62,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Fall Thanksgiving Terracotta Table Runner Party Home Decorations 120Inch | Fall Thanksgiving 10FT Cheesecloth 120In Wedding B",
+      "url": "https://www.amazon.com/dp/B0HHP3G8KK",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 24 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.58 → tövsiyə satış: ~$31.58)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gU3bYm4rL._AC_UL900_SR900,600_.jpg",
+      "price": 9.58,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHP3G8KK",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 24,
+        "suggested_dtc_price": 31.58,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Adjustable Stainless Steel Jar Opener for Weak Hands Seniors, Non-Slip (1) | Multifunctional Stainless Steel Can Opener Jar L",
+      "url": "https://www.amazon.com/dp/B0HQZTZGRC",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 1 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ud-0ur-uL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQZTZGRC",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 1,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Sodastream Classic |Soda Machine and Sparkling Water Maker Kit (Black) With 60L CO2 Canister and Carbonating Bottle",
+      "url": "https://www.amazon.com/dp/B0HHPSX7JB",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 30 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719LctweGYL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHPSX7JB",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 30,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Titanium Cutting Boards for Kitchen, Pure Titanium Cutting Board, Dishwasher Safe Non-Slip Chopping & Kneading Board, Non-Tox",
+      "url": "https://www.amazon.com/dp/B0HRJBJ937",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 30 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E181eGL6L._AC_UL900_SR900,600_.jpg",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HRJBJ937",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 30,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Car Wash Towel - 25 Pack",
+      "url": "https://theragcompany.com/products/car-wash-towel-copy",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 53% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($30.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com, chemicalguys.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/car-wash-16x27-black-25ct-main-web.jpg?v=1784816393",
+      "price": 30.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 53,
+        "vendor": "The Rag Company",
+        "product_type": "Chinese Microfiber",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com",
+          "chemicalguys.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Electric Whiskey Smoker Kit Cocktail Smoker with 6 Wood Chips | Old Fashioned Drink Smoker Kit, Magnetic Chamber, No Butane N",
+      "url": "https://www.amazon.com/dp/B0HHH9WDV4",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (304 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81NJb0bQ85L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHH9WDV4",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 304,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Meatmeet Wireless Meat Thermometer, WiFi & Bluetooth, 2 Probes for Turkey | 6 Sensors per Probe, ±0.18°F Accuracy, IP69 Water",
+      "url": "https://www.amazon.com/dp/B0H7WZQWVX",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (370 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-VZZN+TlL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H7WZQWVX",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 370,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Dash Family Size Electric Skillet with Lid, 6-Quart Ceramic, Forged Iron | CleanCoating Ceramic Nonstick Cooking Pan, Removab",
+      "url": "https://www.amazon.com/dp/B0HHG5XSZ6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "💎 Erkən trend: cəmi 108 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.99 → tövsiyə satış: ~$99.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61qILbw05CL._AC_UL900_SR900,600_.jpg",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHG5XSZ6",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 108,
+        "suggested_dtc_price": 99.98,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "brooklinen.com",
+      "title": "Silk Scrunchie Set - Last Call",
+      "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
+      "score": 65,
+      "reasons": [
+        "🆕 7 gün əvvəl satışa çıxarılıb",
+        "🏷️ 40% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: cozyearth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0951/7126/products/1_BKL_20_Silk_Scrunchies_Large_2_441_MAINxWO_Grey.jpg?v=1762278559",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 7,
+        "discount_pct": 40,
+        "vendor": "Brooklinen",
+        "product_type": "Scrunchies",
+        "category": "home",
+        "cross_store_matches": [
+          "cozyearth.com"
+        ]
+      },
+      "detected_at": "2026-11-24T08:02:19+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617303",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:13:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Max Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-max-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617217",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:13:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
+      "score": 65,
+      "reasons": [
+        "🆕 1 gün əvvəl satışa çıxarılıb",
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
+      "price": 33.25,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 63,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-22T18:13:49+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "littlesleepies.com",
+      "title": "Disney Simba Lovey",
+      "url": "https://littlesleepies.com/products/disney-simba-lovey",
+      "score": 65,
+      "reasons": [
+        "🆕 3 gün əvvəl satışa çıxarılıb",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($21.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: poshpeanut.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0039/6479/7046/files/Disney_Simba_Lovey-0183.jpg?v=1767738739",
+      "price": 21.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 3,
+        "discount_pct": 30,
+        "vendor": "Little Sleepies",
+        "product_type": "Lovey",
+        "category": "kids",
+        "cross_store_matches": [
+          "poshpeanut.com"
+        ]
+      },
+      "detected_at": "2026-11-17T16:55:57+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Niuara Fall Maple Plastic Table Cloth Disposable, 2 Pack, 54 x 108 in | Rectangle, 6 ft Tables, Fall Thanksgiving Party Decor",
+      "url": "https://www.amazon.com/dp/B0H6JQNY4N",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81kry9ZmeiL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6JQNY4N",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 570,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Long Turkey Basters for Cooking with Measurements, Only for Room Temperature Liquids, Blue and Black Color",
+      "url": "https://www.amazon.com/dp/B0HQZLC5DL",
+      "score": 65,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 3 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HQ5slz3sL._AC_UL900_SR900,600_.jpg",
+      "price": 5.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQZLC5DL",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 3,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "materialkitchen.com",
+      "title": "The Knife Roll",
+      "url": "https://materialkitchen.com/products/the-knife-roll",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($55.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: yearandday.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/2304/7781/files/Knife_Roll_PDP_V2_Strap_closeup_2091x2592_6dfd3dc2-cf48-48be-abf4-f42e23ed2302.jpg?v=1795013712",
+      "price": 55.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Material",
+        "product_type": "",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "yearandday.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:32:45+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "smithey.com",
+      "title": "The Essential Shears",
+      "url": "https://smithey.com/products/the-essential-shears",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: stasherbag.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0269/8225/2637/files/09242026-SmitheyHoliday26-STUDIO33137-Edit-Square-Tight.jpg?v=1795467201",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Smithey Ironware",
+        "product_type": "",
+        "category": "kitchen",
+        "cross_store_matches": [
+          "stasherbag.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:32:46+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "kyliecosmetics.com",
+      "title": "Velvet Lip Kit",
+      "url": "https://kyliecosmetics.com/products/velvet-lip-kit",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "💵 Qiymət impulsiv alış diapazonundadır ($35.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: glossier.com, versedskin.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0662/4598/4498/products/KJC_VLK_22_LipMacros_Bare_02.jpg?v=1675363605",
+      "price": 35.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1445,
+        "vendor": "kylie-cosmetics",
+        "product_type": "Lip Kit",
+        "category": "beauty",
+        "cross_store_matches": [
+          "glossier.com",
+          "versedskin.com"
+        ]
+      },
+      "detected_at": "2026-11-22T16:16:40+00:00",
+      "is_cross_match": false
+    },
+    {
+      "source": "shopify",
+      "origin": "theragcompany.com",
+      "title": "Microfiber Wash Mitt - White/Grey",
+      "url": "https://theragcompany.com/products/microfiber-wash-mitt-white-grey",
+      "score": 60,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 60% endirimlə satılır (aqressiv təklif)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: abstractocean.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0520/2047/8135/files/detail-factory-wash-mitt-web.jpg?v=1782335938",
+      "price": 6.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 0,
+        "discount_pct": 60,
+        "vendor": "The Rag Company",
+        "product_type": "",
+        "category": "automotive",
+        "cross_store_matches": [
+          "abstractocean.com"
+        ]
+      },
+      "detected_at": "2026-11-17T18:58:11+00:00",
+      "is_cross_match": false
+    }
+  ]
+}

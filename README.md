@@ -48,6 +48,14 @@ python main.py --dry-run
 python main.py --model gemini-3.5-flash-lite
 ```
 
+## 🧠 AI Context Brain
+
+`ai_context/` is the project brain: a selective, versioned Markdown tree. Start with `ai_context/START_HERE.md`, then load only the relevant reference from `architecture/`, `runtime/`, `workflow/`, `agents/`, `integrations/`, `web/`, or `governance/`. Each focused document links its implementation files, contracts, dependencies, and safety constraints. Update that reference whenever a component contract changes.
+
+Start the web app with `python webapp.py`, then open `http://localhost:8000/ai-context` to browse the full context library and live token/latency telemetry. The runtime companion normalizes oversized prompts, caches exact non-search requests for five minutes, and never places prompt/response contents in telemetry. Tune it with `AI_CONTEXT_INPUT_CHAR_BUDGET` and `AI_CONTEXT_CACHE_TTL_SECONDS` in `.env`.
+
+For the standalone graph workspace, run `npm run brain`. It starts the lightweight Brain server on port `8100` and opens the graph in your browser. Set `BRAIN_PORT` to override the port.
+
 ## 📁 Layihə Strukturu
 
 ```

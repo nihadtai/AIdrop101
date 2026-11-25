@@ -1,19 +1,46 @@
 {
   "source": "shopify",
-  "started_at": "2026-11-22T18:29:36+00:00",
-  "finished_at": "2026-11-22T18:29:49+00:00",
+  "started_at": "2026-11-25T13:46:30+00:00",
+  "finished_at": "2026-11-25T13:46:45+00:00",
   "baseline_run": false,
   "stats": {
-    "stores_total": 19,
-    "stores_ok": 19,
-    "products_scanned": 2217,
+    "stores_total": 17,
+    "stores_ok": 16,
+    "products_scanned": 2794,
     "best_seller_rank_available": 0,
     "first_run_stores": 0,
     "catalog_stores_total": 172,
     "categories_total": 10,
-    "signals_above_threshold": 56
+    "signals_above_threshold": 402
   },
   "signals": [
+    {
+      "source": "shopify",
+      "origin": "spigen.com",
+      "title": "Apple Watch Ultra Series - Classic LS",
+      "url": "https://spigen.com/products/apple-watch-ultra-series-classic-ls",
+      "score": 70,
+      "reasons": [
+        "🆕 Son skandan sonra mağazaya yeni əlavə olunub",
+        "🏷️ 30% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($31.49)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: ipitaka.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0808/0067/files/title_web_apple_watch_ultra_4_ls_01_85bfde10-3880-4b13-ace3-3b1e086a1e22.jpg?v=1791220080",
+      "price": 31.49,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 1,
+        "discount_pct": 30,
+        "vendor": "Apple Watch Series",
+        "product_type": "Watch Case + Bands",
+        "category": "electronics",
+        "cross_store_matches": [
+          "ipitaka.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
     {
       "source": "shopify",
       "origin": "theragcompany.com",
@@ -44,6 +71,90 @@
     },
     {
       "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617303",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 16 Pro Max Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-16-pro-max-case-essentials",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617217",
+      "price": 74.58,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 35,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "shopmoment.com",
+      "title": "iPhone 13 Pro Case Essentials",
+      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
+      "score": 65,
+      "reasons": [
+        "🆕 4 gün əvvəl satışa çıxarılıb",
+        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
+        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
+      "price": 33.25,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 4,
+        "discount_pct": 63,
+        "vendor": "Moment",
+        "product_type": "",
+        "category": "electronics",
+        "cross_store_matches": [
+          "pelacase.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
       "origin": "brooklinen.com",
       "title": "Silk Scrunchie Set - Last Call",
       "url": "https://brooklinen.com/products/silk-scrunchie-set-last-call",
@@ -68,90 +179,6 @@
         ]
       },
       "detected_at": "2026-11-22T17:28:39+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 16 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-16-pro-case-essentials",
-      "score": 65,
-      "reasons": [
-        "🆕 1 gün əvvəl satışa çıxarılıb",
-        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16p-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617303",
-      "price": 74.58,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 1,
-        "discount_pct": 35,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 16 Pro Max Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-16-pro-max-case-essentials",
-      "score": 65,
-      "reasons": [
-        "🆕 1 gün əvvəl satışa çıxarılıb",
-        "🏷️ 35% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($74.58)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/ip16pm-ce_black_olive-v6-empty-20260917-0345.jpg?v=1789617217",
-      "price": 74.58,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 1,
-        "discount_pct": 35,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "shopmoment.com",
-      "title": "iPhone 13 Pro Case Essentials",
-      "url": "https://shopmoment.com/products/iphone-13-pro-case-essentials-1",
-      "score": 65,
-      "reasons": [
-        "🆕 1 gün əvvəl satışa çıxarılıb",
-        "🏷️ 63% endirimlə satılır (aqressiv təklif)",
-        "💵 Qiymət impulsiv alış diapazonundadır ($33.25)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: pelacase.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0823/9713/5163/files/f0376.jpg?v=1795212509",
-      "price": 33.25,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 1,
-        "discount_pct": 63,
-        "vendor": "Moment",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "pelacase.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
     },
     {
       "source": "shopify",
@@ -392,6 +419,84 @@
     },
     {
       "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 13 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 12 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
+      "origin": "pelacase.com",
+      "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
+      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
+      "score": 55,
+      "reasons": [
+        "🆕 6 gün əvvəl satışa çıxarılıb",
+        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
+        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
+      ],
+      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
+      "price": 65.0,
+      "currency": "USD",
+      "metrics": {
+        "age_days": 6,
+        "vendor": "Pela Case",
+        "product_type": "iPhone 14 Pro Max",
+        "category": "electronics",
+        "cross_store_matches": [
+          "shopmoment.com",
+          "twelvesouth.com"
+        ]
+      },
+      "detected_at": "2026-11-25T13:46:41+00:00"
+    },
+    {
+      "source": "shopify",
       "origin": "versedskin.com",
       "title": "Lips",
       "url": "https://versedskin.com/products/lips-2",
@@ -449,111 +554,9 @@
         ]
       },
       "detected_at": "2026-11-22T18:29:48+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "satechi.net",
-      "title": "FindAll™ Magnetic Wallet Stand",
-      "url": "https://satechi.net/products/findall-magnetic-wallet-stand",
-      "score": 55,
-      "reasons": [
-        "🆕 5 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($49.99)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: esrgear.com, ipitaka.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/1520/4366/files/FindallWalletStandBlack1.webp?v=1795055852",
-      "price": 49.99,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 5,
-        "vendor": "Satechi",
-        "product_type": "",
-        "category": "electronics",
-        "cross_store_matches": [
-          "esrgear.com",
-          "ipitaka.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "pelacase.com",
-      "title": "Lavender Comfy PJs iPhone 13 Pro Max Case",
-      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-13-pro-max-case",
-      "score": 55,
-      "reasons": [
-        "🆕 4 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP13PMAX_Lavender.jpg?v=1794498852",
-      "price": 65.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 4,
-        "vendor": "Pela Case",
-        "product_type": "iPhone 13 Pro Max",
-        "category": "electronics",
-        "cross_store_matches": [
-          "shopmoment.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "pelacase.com",
-      "title": "Lavender Comfy PJs iPhone 12 Pro Max Case",
-      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-12-pro-max-case",
-      "score": 55,
-      "reasons": [
-        "🆕 4 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP12PMAX_Lavender.jpg?v=1794498852",
-      "price": 65.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 4,
-        "vendor": "Pela Case",
-        "product_type": "iPhone 12 Pro Max",
-        "category": "electronics",
-        "cross_store_matches": [
-          "shopmoment.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
-    },
-    {
-      "source": "shopify",
-      "origin": "pelacase.com",
-      "title": "Lavender Comfy PJs iPhone 14 Pro Max Case",
-      "url": "https://pelacase.com/products/lavender-comfy-pjs-eco-friendly-iphone-14-pro-max-case",
-      "score": 55,
-      "reasons": [
-        "🆕 4 gün əvvəl satışa çıxarılıb",
-        "💵 Qiymət impulsiv alış diapazonundadır ($65.00)",
-        "🔗 Oxşar məhsul digər mağazalarda da var: shopmoment.com, twelvesouth.com"
-      ],
-      "image": "https://cdn.shopify.com/s/files/1/0078/1032/files/COMFY-PJS_IP14PMAX_Lavender.jpg?v=1794498854",
-      "price": 65.0,
-      "currency": "USD",
-      "metrics": {
-        "age_days": 4,
-        "vendor": "Pela Case",
-        "product_type": "iPhone 14 Pro Max",
-        "category": "electronics",
-        "cross_store_matches": [
-          "shopmoment.com",
-          "twelvesouth.com"
-        ]
-      },
-      "detected_at": "2026-11-22T16:27:19+00:00"
     }
   ],
-  "store_errors": {}
+  "store_errors": {
+    "nuphy.com": "rate_limited (429) — skipped this run"
+  }
 }

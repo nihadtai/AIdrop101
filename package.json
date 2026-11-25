@@ -1,0 +1,8 @@
+{
+  "name": "apexcart-ai-context-brain",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "brain": "node scripts/brain.mjs"
+  }
+}

@@ -41,6 +41,8 @@ from langgraph.types import Command
 from config.settings import get_settings, Settings
 from workflows.pipeline import build_pipeline
 from main import create_gemini_client, build_tools_map, make_initial_state
+from ai_context import get_context_brain
+from ai_context.catalog import list_documents as list_context_documents, read_document as read_context_document
 
 load_dotenv()
 
@@ -725,6 +727,38 @@ async def serve_dashboard(reset: bool = False):
             status_code=404,
         )
     return HTMLResponse(content=html_path.read_text(encoding="utf-8"))
+
+
+@app.get("/ai-context", response_class=HTMLResponse)
+async def serve_ai_context_dashboard():
+    """Serve the privacy-safe AI Context Brain observability dashboard."""
+    html_path = PROJECT_ROOT / "templates" / "ai_context.html"
+    return HTMLResponse(content=html_path.read_text(encoding="utf-8"))
+
+
+@app.get("/api/ai-context/telemetry")
+async def api_ai_context_telemetry():
+    return get_context_brain().snapshot()
+
+
+@app.get("/api/ai-context/documents")
+async def api_ai_context_documents():
+    """Return the explicit Markdown context manifest for AI agents and the HTML viewer."""
+    return {"documents": list_context_documents()}
+
+
+@app.get("/api/ai-context/documents/{document_id:path}")
+async def api_ai_context_document(document_id: str):
+    try:
+        return read_context_document(document_id)
+    except KeyError:
+        raise HTTPException(status_code=404, detail="Unknown AI context document")
+
+
+@app.delete("/api/ai-context/telemetry")
+async def api_clear_ai_context_telemetry():
+    get_context_brain().clear()
+    return {"ok": True}
 
 
 @app.post("/api/pipeline/start")

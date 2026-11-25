@@ -1,0 +1,393 @@
+{
+  "source": "amazon",
+  "started_at": "2026-11-25T13:32:33+00:00",
+  "finished_at": "2026-11-25T13:32:40+00:00",
+  "baseline_run": false,
+  "stats": {
+    "categories_total": 1,
+    "pages_fetched": 2,
+    "pages_ok": 1,
+    "items_scanned": 30,
+    "filtered_out": 15,
+    "first_run_pages": 0,
+    "signals_above_threshold": 15
+  },
+  "signals": [
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "HOMEPEAK Nature Tablecloth Rectangle 6ft, 2-Pack Waterproof Slub Textured | 60x102 Inch, Stain Resistant Neutral Linen-Look T",
+      "url": "https://www.amazon.com/dp/B0H3NPX348",
+      "score": 105,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#9)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 82 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $19.85 → tövsiyə satış: ~$49.62)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81j6xEVoSkL._AC_UL900_SR900,600_.jpg",
+      "price": 19.85,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H3NPX348",
+        "rank": 9,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 82,
+        "suggested_dtc_price": 49.62,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Fall Thanksgiving Terracotta Table Runner Party Home Decorations 120Inch | Fall Thanksgiving 10FT Cheesecloth 120In Wedding B",
+      "url": "https://www.amazon.com/dp/B0HHP3G8KK",
+      "score": 95,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#15)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 24 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $9.58 → tövsiyə satış: ~$31.58)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gU3bYm4rL._AC_UL900_SR900,600_.jpg",
+      "price": 9.58,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHP3G8KK",
+        "rank": 15,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 24,
+        "suggested_dtc_price": 31.58,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Adjustable Stainless Steel Jar Opener for Weak Hands Seniors, Non-Slip (1) | Multifunctional Stainless Steel Can Opener Jar L",
+      "url": "https://www.amazon.com/dp/B0HQZTZGRC",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#20)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 1 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ud-0ur-uL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQZTZGRC",
+        "rank": 20,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 1,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Sodastream Classic |Soda Machine and Sparkling Water Maker Kit (Black) With 60L CO2 Canister and Carbonating Bottle",
+      "url": "https://www.amazon.com/dp/B0HHPSX7JB",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#21)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 30 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719LctweGYL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHPSX7JB",
+        "rank": 21,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 30,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Titanium Cutting Boards for Kitchen, Pure Titanium Cutting Board, Dishwasher Safe Non-Slip Chopping & Kneading Board, Non-Tox",
+      "url": "https://www.amazon.com/dp/B0HRJBJ937",
+      "score": 80,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#22)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 30 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (5.0/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E181eGL6L._AC_UL900_SR900,600_.jpg",
+      "price": 49.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HRJBJ937",
+        "rank": 22,
+        "list_type": "new-releases",
+        "rating": 5.0,
+        "reviews": 30,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Electric Whiskey Smoker Kit Cocktail Smoker with 6 Wood Chips | Old Fashioned Drink Smoker Kit, Magnetic Chamber, No Butane N",
+      "url": "https://www.amazon.com/dp/B0HHH9WDV4",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#14)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (304 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81NJb0bQ85L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHH9WDV4",
+        "rank": 14,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 304,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Meatmeet Wireless Meat Thermometer, WiFi & Bluetooth, 2 Probes for Turkey | 6 Sensors per Probe, ±0.18°F Accuracy, IP69 Water",
+      "url": "https://www.amazon.com/dp/B0H7WZQWVX",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#23)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "🌱 Yeni yüksələn məhsul (370 rəy — aşağı rəqabət)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.7/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-VZZN+TlL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H7WZQWVX",
+        "rank": 23,
+        "list_type": "new-releases",
+        "rating": 4.7,
+        "reviews": 370,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Dash Family Size Electric Skillet with Lid, 6-Quart Ceramic, Forged Iron | CleanCoating Ceramic Nonstick Cooking Pan, Removab",
+      "url": "https://www.amazon.com/dp/B0HHG5XSZ6",
+      "score": 70,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#29)",
+        "💎 Erkən trend: cəmi 108 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "💰 Dropshipping marjası üçün uyğun qiymət (Amazon: $39.99 → tövsiyə satış: ~$99.98)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61qILbw05CL._AC_UL900_SR900,600_.jpg",
+      "price": 39.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHG5XSZ6",
+        "rank": 29,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 108,
+        "suggested_dtc_price": 99.98,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Niuara Fall Maple Plastic Table Cloth Disposable, 2 Pack, 54 x 108 in | Rectangle, 6 ft Tables, Fall Thanksgiving Party Decor",
+      "url": "https://www.amazon.com/dp/B0H6JQNY4N",
+      "score": 65,
+      "reasons": [
+        "🔥 Amazon Hot New Releases Top-10 (#8)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81kry9ZmeiL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0H6JQNY4N",
+        "rank": 8,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 570,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Long Turkey Basters for Cooking with Measurements, Only for Room Temperature Liquids, Blue and Black Color",
+      "url": "https://www.amazon.com/dp/B0HQZLC5DL",
+      "score": 65,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#17)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 3 rəy ilə Top siyahıdadır (bazar doymayıb)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HQ5slz3sL._AC_UL900_SR900,600_.jpg",
+      "price": 5.99,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQZLC5DL",
+        "rank": 17,
+        "list_type": "new-releases",
+        "rating": 4.3,
+        "reviews": 3,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Frost Buddy Thicc Buddy 40 oz Tumbler - ONE Lid (Winterberry Glitz) | Handle with Lip Balm Holder, Straw, Sip & Close Modes,",
+      "url": "https://www.amazon.com/dp/B0HHBHPFRW",
+      "score": 55,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#13)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.5/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/713RaOYJdEL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HHBHPFRW",
+        "rank": 13,
+        "list_type": "new-releases",
+        "rating": 4.5,
+        "reviews": 3920,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Bluetooth Meat Thermometer with Dual Probes, Smart Wireless Meat Thermometer for Outside Grill Smoker Oven BBQ, 360ft Long Ra",
+      "url": "https://www.amazon.com/dp/B0HMRPB3KH",
+      "score": 55,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#18)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.6/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71zFs0D-aRL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HMRPB3KH",
+        "rank": 18,
+        "list_type": "new-releases",
+        "rating": 4.6,
+        "reviews": 672,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Large Portable Printed Tote Bag for Women,Lightweight Foldable Reusable Shopping Bag for Travel,Storage,Grocery，Daily Go-out",
+      "url": "https://www.amazon.com/dp/B0HM424SHB",
+      "score": 50,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#19)",
+        "💎 Erkən trend: cəmi 70 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⭐ Yüksək müştəri məmnuniyyəti (4.4/5.0)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QAa9iAxOL._AC_UL900_SR900,600_.jpg",
+      "price": 3.97,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HM424SHB",
+        "rank": 19,
+        "list_type": "new-releases",
+        "rating": 4.4,
+        "reviews": 70,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "2027 Upgrade Adjustable Stainless Steel Jar Opener with Handle, 1 | Manual",
+      "url": "https://www.amazon.com/dp/B0HQPLMKMB",
+      "score": 50,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#28)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub",
+        "💎 Erkən trend: cəmi 2 rəy ilə Top siyahıdadır (bazar doymayıb)",
+        "⚠️ Aşağı reytinq (2.8/5.0 — geri qaytarma riski)"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61--8zqCjcL._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HQPLMKMB",
+        "rank": 28,
+        "list_type": "new-releases",
+        "rating": 2.8,
+        "reviews": 2,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    },
+    {
+      "source": "amazon",
+      "origin": "amazon:kitchen:new-releases",
+      "title": "Woodsen Acacia Wood Utensil Set, Kitchen Cooking Utensils (11 Piece–Holder) | Natural Small-Leaf Acacia Wood Utensils, Non-To",
+      "url": "https://www.amazon.com/dp/B0HRFKK2F6",
+      "score": 45,
+      "reasons": [
+        "🆕 Amazon Hot New Releases Top-30 (#25)",
+        "⚡ Son skandan bəri Top-30 siyahısına yeni daxil olub"
+      ],
+      "image": "https://images-na.ssl-images-amazon.com/images/I/813OryyAJ9L._AC_UL900_SR900,600_.jpg",
+      "price": null,
+      "currency": "USD",
+      "metrics": {
+        "asin": "B0HRFKK2F6",
+        "rank": 25,
+        "list_type": "new-releases",
+        "rating": null,
+        "reviews": null,
+        "category": "kitchen"
+      },
+      "detected_at": "2026-11-25T13:32:40+00:00"
+    }
+  ],
+  "page_errors": {
+    "kitchen__bestsellers": "ConnectionError: HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /gp/bestsellers/kitchen (Caused by NameResolutionError(\"HTTPSConnection(host='www.amazon.com', port=443): Failed to resolve 'www.amazon.com' ([Errno 11001] getaddrinfo failed)\"))"
+  }
+}

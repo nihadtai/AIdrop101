@@ -1,10 +1,13 @@
 import abc
 import asyncio
 import logging
+import time
 from typing import Any, List, Optional
 from tenacity import retry, stop_after_attempt, wait_exponential
 from google import genai
 from google.genai import types
+from ai_context import get_context_brain
+from ai_context.brain import ContextEvent
 
 logger = logging.getLogger(__name__)
 
@@ -96,7 +99,24 @@ class BaseAgent(abc.ABC):
         use_google_search: bool | None = None,
     ) -> str:
         """Call Gemini API with optional Google Search Grounding, retry logic, and fallback models."""
+        brain = get_context_brain()
+        original_prompt, original_system = prompt, system_instruction
+        prompt, system_instruction, context_trimmed = brain.prepare(prompt, system_instruction)
+        input_before = brain.estimate_tokens(original_prompt + original_system)
+        input_sent = brain.estimate_tokens(prompt + system_instruction)
+        started_at = time.perf_counter()
         enable_search = self.use_google_search if use_google_search is None else use_google_search
+        # Search-grounded calls intentionally skip response caching: their value is freshness.
+        cache_key = brain.request_key(self.model, prompt, system_instruction, {"schema": response_schema})
+        if not enable_search:
+            cached = brain.get_cached(cache_key)
+            if cached is not None:
+                brain.record(ContextEvent(
+                    time.time(), self.name, "generate", self.model, input_before, input_sent,
+                    brain.estimate_tokens(cached), int((time.perf_counter() - started_at) * 1000),
+                    True, context_trimmed, "ok",
+                ))
+                return cached
         self.last_grounding_info = {"queries": [], "sources": []}
 
         candidate_models = [self.model]
@@ -155,7 +175,15 @@ class BaseAgent(abc.ABC):
                                 logger.info(
                                     f"✅ [Google Search Grounding] Axtarış sorğuları: {self.last_grounding_info['queries']}"
                                 )
-                        return response.text
+                        text = response.text
+                        if not with_search:
+                            brain.cache_response(cache_key, text)
+                        brain.record(ContextEvent(
+                            time.time(), self.name, "generate", current_model, input_before, input_sent,
+                            brain.estimate_tokens(text), int((time.perf_counter() - started_at) * 1000),
+                            False, context_trimmed, "ok",
+                        ))
+                        return text
                     except Exception as e:
                         last_error = e
                         err_str = str(e).lower()
@@ -190,6 +218,10 @@ class BaseAgent(abc.ABC):
                 logger.warning(f"⚠️ Google Search Grounding işləmədi (son xəta: {str(last_error)[:120]}); axtarışsız rejimə keçilir...")
 
         if last_error:
+            brain.record(ContextEvent(
+                time.time(), self.name, "generate", self.model, input_before, input_sent, 0,
+                int((time.perf_counter() - started_at) * 1000), False, context_trimmed, "error", str(last_error)[:160],
+            ))
             raise last_error
         raise RuntimeError("No response received from Gemini API.")
 
@@ -200,6 +232,12 @@ class BaseAgent(abc.ABC):
         tools: list | None = None,
     ) -> str:
         """Call Gemini with function calling and fallback models."""
+        brain = get_context_brain()
+        original_prompt, original_system = prompt, system_instruction
+        prompt, system_instruction, context_trimmed = brain.prepare(prompt, system_instruction)
+        input_before = brain.estimate_tokens(original_prompt + original_system)
+        input_sent = brain.estimate_tokens(prompt + system_instruction)
+        started_at = time.perf_counter()
         candidate_models = [self.model]
         for fallback in ["gemini-3.5-flash-lite", "gemini-flash-lite-latest", "gemini-3.5-flash"]:
             if fallback not in candidate_models:
@@ -224,7 +262,14 @@ class BaseAgent(abc.ABC):
                         contents=prompt,
                         config=types.GenerateContentConfig(**config_kwargs),
                     )
-                    return response.text
+                    text = response.text
+                    # Tool requests are never response-cached because tools may have side effects.
+                    brain.record(ContextEvent(
+                        time.time(), self.name, "generate_with_tools", current_model, input_before, input_sent,
+                        brain.estimate_tokens(text), int((time.perf_counter() - started_at) * 1000),
+                        False, context_trimmed, "ok",
+                    ))
+                    return text
                 except Exception as e:
                     last_error = e
                     err_str = str(e).lower()
@@ -243,6 +288,10 @@ class BaseAgent(abc.ABC):
                         break
 
         if last_error:
+            brain.record(ContextEvent(
+                time.time(), self.name, "generate_with_tools", self.model, input_before, input_sent, 0,
+                int((time.perf_counter() - started_at) * 1000), False, context_trimmed, "error", str(last_error)[:160],
+            ))
             raise last_error
         raise RuntimeError("No response received from Gemini API.")
 

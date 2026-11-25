@@ -89,6 +89,12 @@ class Settings(BaseSettings):
     
     redis_url: Optional[str] = "redis://localhost:6379/0"
     database_url: Optional[str] = "sqlite:///ecommerce.db"
+
+    # AI Context Brain: bounds oversized prompts and reuses exact recent requests.
+    ai_context_enabled: bool = True
+    ai_context_input_char_budget: int = 24000
+    ai_context_cache_ttl_seconds: int = 300
+    ai_context_max_events: int = 500
     
     llm: LLMSettings = LLMSettings()
     meta_ads: MetaAdsSettings = MetaAdsSettings()
